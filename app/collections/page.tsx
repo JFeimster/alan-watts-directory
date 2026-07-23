@@ -9,13 +9,13 @@ export const metadata: Metadata = {
 };
 
 export default function CollectionsPage() {
-  const module = getHomepageData().libraryModules.find((item) => item.label === "Collections");
+  const contentModule = getHomepageData().libraryModules.find((item) => item.label === "Collections");
   return (
     <IndexBuildingPage
       eyebrow="RELATIONSHIP INDEX"
       title="COLLECTIONS"
       description="Collections will group supported records while keeping source, edition, and provenance distinctions visible."
-      count={module?.count ?? 0}
+      count={contentModule?.count ?? 0}
       recordLabel="COLLECTION RECORDS"
       related={[
         { label: "LECTURES", href: "/lectures" },

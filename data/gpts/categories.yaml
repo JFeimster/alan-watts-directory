@@ -1,0 +1,43 @@
+schemaVersion: "1.0"
+categories:
+  - id: research
+    label: Research
+    route: /gpts/research/
+    description: GPTs positioned for research, archival discovery, transcript analysis, or passage retrieval.
+  - id: coaching
+    label: Coaching
+    route: /gpts/coaching/
+    description: GPTs positioned as coaches, mentors, advisors, or personal decision companions.
+  - id: meditation
+    label: Meditation
+    route: /gpts/meditation/
+    description: GPTs focused on meditation, mindfulness, calm, or contemplative practice.
+  - id: writing
+    label: Writing
+    route: /gpts/writing/
+    description: GPTs intended for writing, formatting, scripting, or creative production.
+  - id: comparative-philosophy
+    label: Comparative Philosophy
+    route: /gpts/comparative-philosophy/
+    description: GPTs combining Watts with other thinkers, traditions, or philosophical schools.
+  - id: source-grounded
+    label: Source-Grounded
+    route: /gpts/source-grounded/
+    description: GPTs that claim use of transcripts, books, passages, citations, or explicit source differentiation.
+    warning: A source-grounded claim is not a directory verification.
+  - id: first-person-simulations
+    label: First-Person Simulations
+    route: /gpts/first-person-simulations/
+    description: GPTs that present themselves as speaking as, embodying, or simulating Alan Watts.
+  - id: multilingual
+    label: Multilingual
+    route: /gpts/multilingual/
+    description: GPTs whose public listing explicitly supports languages beyond English.
+  - id: creator-verified
+    label: Creator Verified
+    route: /gpts/creator-verified/
+    description: Listings claimed and verified by their creators through the directory workflow.
+classification:
+  method: deterministic-keyword-seeding
+  status: editorial-review-required
+  allowMultipleCategories: true

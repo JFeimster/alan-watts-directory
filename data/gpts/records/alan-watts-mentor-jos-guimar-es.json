@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-68cb3a91c9d4819184493a7a54d50ccb",
+  "gptId": "g-68cb3a91c9d4819184493a7a54d50ccb",
+  "slug": "alan-watts-mentor-jos-guimar-es",
+  "name": "Alan Watts mentor",
+  "description": "Mentor virtual inspirado em Alan Watts, com foco prático. Usa filosofia e metáforas para questionar suposições, oferecer perspetivas e traduzir ideias abstratas em ações concretas que apoiem decisões e transformação pessoal ou profissional.",
+  "imported": {
+    "name": "Alan Watts mentor",
+    "description": "Mentor virtual inspirado em Alan Watts, com foco prático. Usa filosofia e metáforas para questionar suposições, oferecer perspetivas e traduzir ideias abstratas em ações concretas que apoiem decisões e transformação pessoal ou profissional.",
+    "creatorDisplayName": "José Guimarães",
+    "creatorRaw": "By José Guimarães",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-C9VP1S9dzDKwFhBn6CaiiX&gizmo_id=g-68cb3a91c9d4819184493a7a54d50ccb&ts=495775&p=gpp&cid=1&sig=1d1993baf86ef2dfbc570b741f38be5ec3f405f7020575949ac1540604401b29&v=0",
+    "usersDisplay": "4",
+    "usersLowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "José Guimarães",
+    "raw": "By José Guimarães",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb",
+    "canonical": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb-alan-watts-mentor",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:21.137Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb-alan-watts-mentor"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-C9VP1S9dzDKwFhBn6CaiiX&gizmo_id=g-68cb3a91c9d4819184493a7a54d50ccb&ts=495775&p=gpp&cid=1&sig=1d1993baf86ef2dfbc570b741f38be5ec3f405f7020575949ac1540604401b29&v=0",
+    "localPath": "/gpts/avatars/alan-watts-mentor-jos-guimar-es.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-C9VP1S9dzDKwFhBn6CaiiX&gizmo_id=g-68cb3a91c9d4819184493a7a54d50ccb&ts=495781&p=gpp&cid=1&sig=a723d907329371730bc4e399b26b8c4e43b5b5cc3a51dde0e6e3780b47da6150&v=0"
+  },
+  "usage": {
+    "display": "4",
+    "lowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "4",
+        "lowerBound": 4,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "coaching",
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "coaching",
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "coaching",
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "coaching": [
+        "\\bmentor(?:ing)?\\b"
+      ],
+      "first-person-simulations": [
+        "\\bvirtual .*alan\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 15,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-68cb3a91c9d4819184493a7a54d50ccb",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts mentor",
+    "description": "Mentor virtual inspirado em Alan Watts, com foco prático. Usa filosofia e metáforas para questionar suposições, oferecer perspetivas e traduzir ideias abstratas em ações concretas que apoiem decisões e transformação pessoal ou profissional.",
+    "canonicalUrl": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb-alan-watts-mentor",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-C9VP1S9dzDKwFhBn6CaiiX&gizmo_id=g-68cb3a91c9d4819184493a7a54d50ccb&ts=495781&p=gpp&cid=1&sig=a723d907329371730bc4e399b26b8c4e43b5b5cc3a51dde0e6e3780b47da6150&v=0",
+    "capturedAt": "2026-07-23T13:33:08.534Z"
+  }
+}

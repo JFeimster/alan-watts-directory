@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.0",
+  "id": "csv-0c369d258c5e18fb",
+  "gptId": null,
+  "slug": "alan-watts-george-joubert",
+  "name": "Alan Watts",
+  "description": "Embodies Alan Watts' philosophical style.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Embodies Alan Watts' philosophical style.",
+    "creatorDisplayName": "George Joubert",
+    "creatorRaw": "By George Joubert",
+    "profileImageUrl": null,
+    "usersDisplay": "80+",
+    "usersLowerBound": 80,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "George Joubert",
+    "raw": "By George Joubert",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": null,
+    "canonical": null,
+    "status": "missing",
+    "lastCheckedAt": null,
+    "httpStatus": null,
+    "redirectTarget": null
+  },
+  "image": {
+    "importedSourceUrl": null,
+    "localPath": "/gpts/avatars/alan-watts-george-joubert.svg",
+    "status": "missing"
+  },
+  "usage": {
+    "display": "80+",
+    "lowerBound": 80,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "80+",
+        "lowerBound": 80,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\bembod(?:y|ies|ied|iment)\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "unknown",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 69,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "name-creator-683c16e6bb183de4",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": []
+}

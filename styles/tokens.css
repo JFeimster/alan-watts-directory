@@ -1,0 +1,23 @@
+:root {
+  --ink: #111111;
+  --paper: #f3efe4;
+  --white: #fffdf6;
+  --acid: #d7ff3f;
+  --forest: #1e3a32;
+  --oxblood: #7b1e28;
+  --signal-red: #c82f27;
+  --muted: #cbc4b5;
+  --gray-ink: #4c4a44;
+  --border-thick: 3px solid var(--ink);
+  --border-standard: 2px solid var(--ink);
+  --shadow-sm: 4px 4px 0 var(--ink);
+  --shadow-md: 7px 7px 0 var(--ink);
+  --shadow-lg: 11px 11px 0 var(--ink);
+  --page-max: 1480px;
+  --page-gutter: clamp(1rem, 3vw, 3rem);
+  --section-space: clamp(4rem, 9vw, 8rem);
+  --font-display: Impact, Haettenschweiler, "Arial Narrow Bold", "Arial Narrow", sans-serif;
+  --font-sans: Arial, Helvetica, sans-serif;
+  --font-serif: Georgia, "Times New Roman", serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}

@@ -1,0 +1,509 @@
+{
+  "version": 1,
+  "routes": {
+    "/": {
+      "status": "live",
+      "label": "Home",
+      "description": ""
+    },
+    "/start-here": {
+      "status": "live",
+      "label": "Start Here",
+      "description": ""
+    },
+    "/start-here/who-was-alan-watts": {
+      "status": "live",
+      "label": "Who Was Alan Watts?",
+      "description": "A source-conscious orientation to the speaker, writer, and interpreter behind the recordings."
+    },
+    "/start-here/alan-watts-for-beginners": {
+      "status": "live",
+      "label": "Alan Watts for Beginners",
+      "description": "A practical route into the library without reducing the work to slogans."
+    },
+    "/start-here/core-ideas": {
+      "status": "live",
+      "label": "Core Ideas",
+      "description": "A map of recurring questions, terms, traditions, and tensions."
+    },
+    "/start-here/best-lectures": {
+      "status": "live",
+      "label": "Best Lectures",
+      "description": "An editorial listening guide that will only feature located, reviewable sources."
+    },
+    "/start-here/best-books": {
+      "status": "live",
+      "label": "Best Books",
+      "description": "A reading path organized by purpose, context, and publication status."
+    },
+    "/start-here/authentic-recordings-guide": {
+      "status": "live",
+      "label": "Authentic Recordings Guide",
+      "description": "How to distinguish historical recordings, excerpts, remixes, and synthetic recreations."
+    },
+    "/topics": {
+      "status": "live",
+      "label": "Topics",
+      "description": ""
+    },
+    "/topics/ego-identity-separate-self": {
+      "status": "live",
+      "label": "Ego, identity, and the separate self",
+      "description": "How identity is constructed, defended, and experienced."
+    },
+    "/topics/overthinking-anxiety-mental-noise": {
+      "status": "live",
+      "label": "Overthinking, anxiety, and mental noise",
+      "description": "A non-clinical reading path through thought, attention, and mental noise."
+    },
+    "/topics/letting-go-control-backwards-law": {
+      "status": "live",
+      "label": "Letting go, control, and the backwards law",
+      "description": "The tension between effort, control, and release."
+    },
+    "/topics/time-present-insecurity": {
+      "status": "live",
+      "label": "Time, the present moment, and insecurity",
+      "description": "Questions about memory, anticipation, presence, and uncertainty."
+    },
+    "/topics/death-mortality-rebirth": {
+      "status": "live",
+      "label": "Death, mortality, and rebirth",
+      "description": "A source-conscious path through mortality and continuity."
+    },
+    "/topics/life-play-work-purpose": {
+      "status": "live",
+      "label": "Life as play, work, and purpose",
+      "description": "Work, seriousness, spontaneity, and the metaphor of play."
+    },
+    "/topics/zen-taoism-buddhism": {
+      "status": "live",
+      "label": "Zen, Taoism, and Buddhism",
+      "description": "Traditions Watts interpreted, compared, and popularized."
+    },
+    "/topics/nature-ecology-interdependence": {
+      "status": "live",
+      "label": "Nature, ecology, and interdependence",
+      "description": "Organism, environment, relationship, and the more-than-human world."
+    },
+    "/topics/tricksters-gurus-spiritual-authority": {
+      "status": "live",
+      "label": "Tricksters, gurus, and spiritual authority",
+      "description": "Authority, performance, skepticism, and the role of the teacher."
+    },
+    "/topics/ai-technology-modern-life": {
+      "status": "live",
+      "label": "AI, technology, and modern life",
+      "description": "Contemporary editorial interpretation—not historical speech by Watts."
+    },
+    "/lectures": {
+      "status": "preview",
+      "label": "Lectures",
+      "description": ""
+    },
+    "/collections": {
+      "status": "preview",
+      "label": "Collections",
+      "description": ""
+    },
+    "/books": {
+      "status": "preview",
+      "label": "Books",
+      "description": ""
+    },
+    "/quotes": {
+      "status": "preview",
+      "label": "Quotes",
+      "description": ""
+    },
+    "/essays": {
+      "status": "preview",
+      "label": "Essays",
+      "description": ""
+    },
+    "/videos": {
+      "status": "preview",
+      "label": "Videos",
+      "description": ""
+    },
+    "/search": {
+      "status": "preview",
+      "label": "Search",
+      "description": ""
+    },
+    "/about": {
+      "status": "live",
+      "label": "The Project",
+      "description": ""
+    },
+    "/about/authenticity": {
+      "status": "live",
+      "label": "Authenticity",
+      "description": ""
+    },
+    "/about/editorial-standards": {
+      "status": "live",
+      "label": "Editorial Standards",
+      "description": ""
+    },
+    "/about/sources": {
+      "status": "live",
+      "label": "Sources",
+      "description": ""
+    },
+    "/about/sources-and-attribution": {
+      "status": "live",
+      "label": "Sources and Attribution",
+      "description": ""
+    },
+    "/about/ai-policy": {
+      "status": "live",
+      "label": "AI Policy",
+      "description": ""
+    },
+    "/corrections": {
+      "status": "preview",
+      "label": "Corrections",
+      "description": ""
+    },
+    "/gpts": {
+      "status": "live",
+      "label": "GPT Directory",
+      "description": ""
+    },
+    "/gpts/compare": {
+      "status": "live",
+      "label": "Compare GPTs",
+      "description": ""
+    },
+    "/gpts/methodology": {
+      "status": "live",
+      "label": "GPT Methodology",
+      "description": ""
+    },
+    "/resources/gpts": {
+      "status": "live",
+      "label": "GPT Resources",
+      "description": ""
+    },
+    "/gpts/research": {
+      "status": "live",
+      "label": "Research GPTs",
+      "description": ""
+    },
+    "/gpts/source-grounded": {
+      "status": "live",
+      "label": "Source-Grounded GPTs",
+      "description": ""
+    },
+    "/gpts/first-person-simulations": {
+      "status": "live",
+      "label": "First-Person Simulations",
+      "description": ""
+    },
+    "/gpts/unclassified": {
+      "status": "live",
+      "label": "Unclassified GPTs",
+      "description": ""
+    },
+    "/gpts/unavailable": {
+      "status": "live",
+      "label": "Unavailable GPTs",
+      "description": ""
+    },
+    "/gpts/recently-reviewed": {
+      "status": "live",
+      "label": "Recently Reviewed GPTs",
+      "description": ""
+    },
+    "/gpts/creator-verified": {
+      "status": "live",
+      "label": "Creator-Verified GPTs",
+      "description": ""
+    },
+    "/gpts/coaching": {
+      "status": "live",
+      "label": "Coaching GPTs",
+      "description": ""
+    },
+    "/gpts/comparative-philosophy": {
+      "status": "live",
+      "label": "Comparative Philosophy GPTs",
+      "description": ""
+    },
+    "/gpts/meditation": {
+      "status": "live",
+      "label": "Meditation GPTs",
+      "description": ""
+    },
+    "/gpts/multilingual": {
+      "status": "live",
+      "label": "Multilingual GPTs",
+      "description": ""
+    },
+    "/gpts/writing": {
+      "status": "live",
+      "label": "Writing GPTs",
+      "description": ""
+    },
+    "/gpts/automation-status": {
+      "status": "live",
+      "label": "Automation Status",
+      "description": ""
+    },
+    "/gpts/claim-listing": {
+      "status": "preview",
+      "label": "Claim Listing",
+      "description": ""
+    },
+    "/gpts/report": {
+      "status": "preview",
+      "label": "Report GPT",
+      "description": ""
+    },
+    "/gpts/submit": {
+      "status": "preview",
+      "label": "Suggest GPT",
+      "description": ""
+    },
+    "/gpts/test-bench": {
+      "status": "preview",
+      "label": "GPT Test Bench",
+      "description": ""
+    },
+    "/listening-paths": {
+      "status": "planned",
+      "label": "Listening Paths",
+      "description": ""
+    },
+    "/listen-by-time": {
+      "status": "planned",
+      "label": "Listen by Time",
+      "description": ""
+    },
+    "/timeline": {
+      "status": "planned",
+      "label": "Timeline",
+      "description": ""
+    },
+    "/comparisons": {
+      "status": "planned",
+      "label": "Comparisons",
+      "description": ""
+    },
+    "/interactive-experiences": {
+      "status": "planned",
+      "label": "Interactive Experiences",
+      "description": ""
+    },
+    "/transcripts": {
+      "status": "planned",
+      "label": "Transcripts",
+      "description": ""
+    },
+    "/audio": {
+      "status": "planned",
+      "label": "Audio",
+      "description": ""
+    },
+    "/images": {
+      "status": "planned",
+      "label": "Images",
+      "description": ""
+    },
+    "/people": {
+      "status": "planned",
+      "label": "People",
+      "description": ""
+    },
+    "/glossary": {
+      "status": "planned",
+      "label": "Glossary",
+      "description": ""
+    },
+    "/newsletter": {
+      "status": "planned",
+      "label": "Newsletter",
+      "description": ""
+    },
+    "/podcasts": {
+      "status": "planned",
+      "label": "Podcasts",
+      "description": ""
+    },
+    "/shorts": {
+      "status": "planned",
+      "label": "Shorts",
+      "description": ""
+    },
+    "/series": {
+      "status": "planned",
+      "label": "Series",
+      "description": ""
+    },
+    "/playlists": {
+      "status": "planned",
+      "label": "Playlists",
+      "description": ""
+    },
+    "/discussions": {
+      "status": "planned",
+      "label": "Discussions",
+      "description": ""
+    },
+    "/listening-club": {
+      "status": "planned",
+      "label": "Listening Club",
+      "description": ""
+    },
+    "/groups": {
+      "status": "planned",
+      "label": "Groups",
+      "description": ""
+    },
+    "/events": {
+      "status": "planned",
+      "label": "Events",
+      "description": ""
+    },
+    "/questions": {
+      "status": "planned",
+      "label": "Questions",
+      "description": ""
+    },
+    "/annotations": {
+      "status": "planned",
+      "label": "Annotations",
+      "description": ""
+    },
+    "/tools/quote-verifier": {
+      "status": "planned",
+      "label": "Quote Verifier",
+      "description": ""
+    },
+    "/tools/lecture-finder": {
+      "status": "planned",
+      "label": "Lecture Finder",
+      "description": ""
+    },
+    "/tools/ask-the-archive": {
+      "status": "planned",
+      "label": "Ask the Archive",
+      "description": ""
+    },
+    "/tools/prompt-library": {
+      "status": "planned",
+      "label": "Prompt Library",
+      "description": ""
+    },
+    "/tools/creator-studio": {
+      "status": "planned",
+      "label": "Creator Studio",
+      "description": ""
+    },
+    "/tools/authenticity-lab": {
+      "status": "planned",
+      "label": "Authenticity Lab",
+      "description": ""
+    },
+    "/tools/misquote-graveyard": {
+      "status": "planned",
+      "label": "Misquote Graveyard",
+      "description": ""
+    },
+    "/tools/transcript-studio": {
+      "status": "planned",
+      "label": "Transcript Studio",
+      "description": ""
+    },
+    "/tools/citation-builder": {
+      "status": "planned",
+      "label": "Citation Builder",
+      "description": ""
+    },
+    "/about/mission": {
+      "status": "planned",
+      "label": "Mission",
+      "description": ""
+    },
+    "/about/research-methodology": {
+      "status": "planned",
+      "label": "Research Methodology",
+      "description": ""
+    },
+    "/contact": {
+      "status": "planned",
+      "label": "Contact",
+      "description": ""
+    },
+    "/accessibility": {
+      "status": "planned",
+      "label": "Accessibility",
+      "description": ""
+    },
+    "/privacy": {
+      "status": "planned",
+      "label": "Privacy",
+      "description": ""
+    },
+    "/terms": {
+      "status": "planned",
+      "label": "Terms",
+      "description": ""
+    },
+    "/copyright": {
+      "status": "planned",
+      "label": "Copyright",
+      "description": ""
+    },
+    "/licensing": {
+      "status": "planned",
+      "label": "Licensing",
+      "description": ""
+    },
+    "/speaking": {
+      "status": "planned",
+      "label": "Speaking",
+      "description": ""
+    },
+    "/services": {
+      "status": "planned",
+      "label": "Services",
+      "description": ""
+    },
+    "/partners": {
+      "status": "planned",
+      "label": "Partners",
+      "description": ""
+    },
+    "/accelerator": {
+      "status": "planned",
+      "label": "Accelerator",
+      "description": ""
+    },
+    "/sponsor": {
+      "status": "planned",
+      "label": "Sponsor",
+      "description": ""
+    },
+    "/quotes/source-verified": {
+      "status": "planned",
+      "label": "Source-Verified Quotes",
+      "description": ""
+    },
+    "/quotes/misattributed": {
+      "status": "planned",
+      "label": "Misattributed Quotes",
+      "description": ""
+    },
+    "/misquotes": {
+      "status": "planned",
+      "label": "Misquotes",
+      "description": ""
+    },
+    "/sitemap.xml": {
+      "status": "live",
+      "label": "Sitemap"
+    }
+  }
+}

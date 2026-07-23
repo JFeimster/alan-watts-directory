@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.0",
+  "id": "csv-7b201aff5b05a270",
+  "gptId": null,
+  "slug": "i-dont-wanna-grow-up-meaning",
+  "name": "I Don't Wanna Grow Up meaning?",
+  "description": "What is I Don't Wanna Grow Up lyrics meaning? I Don't Wanna Grow Up singer：Thomas Alan Waits, Kathleen Brennan，album：Trouble In Mind ，album_time：2008. Click The LINK For More ↓↓↓",
+  "imported": {
+    "name": "I Don't Wanna Grow Up meaning?",
+    "description": "What is I Don't Wanna Grow Up lyrics meaning? I Don't Wanna Grow Up singer：Thomas Alan Waits, Kathleen Brennan，album：Trouble In Mind ，album_time：2008. Click The LINK For More ↓↓↓",
+    "creatorDisplayName": "songmeaning.io",
+    "creatorRaw": "By songmeaning.io",
+    "profileImageUrl": null,
+    "usersDisplay": "9",
+    "usersLowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "songmeaning.io",
+    "raw": "By songmeaning.io",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": null,
+    "canonical": null,
+    "status": "missing",
+    "lastCheckedAt": null,
+    "httpStatus": null,
+    "redirectTarget": null
+  },
+  "image": {
+    "importedSourceUrl": null,
+    "localPath": "/gpts/avatars/i-dont-wanna-grow-up-meaning.svg",
+    "status": "missing"
+  },
+  "usage": {
+    "display": "9",
+    "lowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "9",
+        "lowerBound": 9,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "unknown",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 53,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "name-creator-542fabb171b19130",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": []
+}

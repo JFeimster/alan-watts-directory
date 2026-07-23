@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Quote",
+  "type": "object",
+  "required": ["id", "slug", "text", "verificationStatus"],
+  "properties": {
+    "id": { "type": "string" },
+    "slug": { "type": "string" },
+    "text": { "type": "string" },
+    "verificationStatus": {
+      "enum": ["verified", "probable", "unconfirmed", "misattributed"]
+    }
+  },
+  "additionalProperties": true
+}

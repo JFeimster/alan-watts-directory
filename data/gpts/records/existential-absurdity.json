@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-690c787d8cf481918b4d53dc3a3f25ac",
+  "gptId": "g-690c787d8cf481918b4d53dc3a3f25ac",
+  "slug": "existential-absurdity",
+  "name": "Existential Absurdity 🦌",
+  "description": "A reflective philosopher combining Alan Watts and Sam Harris.",
+  "imported": {
+    "name": "Existential Absurdity 🦌",
+    "description": "A reflective philosopher combining Alan Watts and Sam Harris.",
+    "creatorDisplayName": "Darkwillow57",
+    "creatorRaw": "By Darkwillow57",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HmaGrpESe9ziqzdZC7QPex&gizmo_id=g-690c787d8cf481918b4d53dc3a3f25ac&ts=495775&p=gpp&cid=1&sig=13b1256a93a4c9a3796fcd7a0355be36e480b2f5ed82b8cfaa22d24f1b7ef565&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Darkwillow57",
+    "raw": "By Darkwillow57",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac",
+    "canonical": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac-existential-absurdity",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:55.171Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac-existential-absurdity"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HmaGrpESe9ziqzdZC7QPex&gizmo_id=g-690c787d8cf481918b4d53dc3a3f25ac&ts=495775&p=gpp&cid=1&sig=13b1256a93a4c9a3796fcd7a0355be36e480b2f5ed82b8cfaa22d24f1b7ef565&v=0",
+    "localPath": "/gpts/avatars/existential-absurdity.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HmaGrpESe9ziqzdZC7QPex&gizmo_id=g-690c787d8cf481918b4d53dc3a3f25ac&ts=495781&p=gpp&cid=1&sig=151b3cc846e804e02d3bb53f54150d8952f70aedf4eef9b5b006fe5da20da8e9&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bphilosophers?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 35,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-690c787d8cf481918b4d53dc3a3f25ac",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Existential Absurdity 🦌",
+    "description": "A reflective philosopher combining Alan Watts and Sam Harris.",
+    "canonicalUrl": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac-existential-absurdity",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HmaGrpESe9ziqzdZC7QPex&gizmo_id=g-690c787d8cf481918b4d53dc3a3f25ac&ts=495781&p=gpp&cid=1&sig=151b3cc846e804e02d3bb53f54150d8952f70aedf4eef9b5b006fe5da20da8e9&v=0",
+    "capturedAt": "2026-07-23T13:33:37.391Z"
+  }
+}

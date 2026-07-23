@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-9rgI1yDYp",
+  "gptId": "g-9rgI1yDYp",
+  "slug": "ai-alan-watts",
+  "name": "AI Alan Watts",
+  "description": "Your philosophical companion",
+  "imported": {
+    "name": "AI Alan Watts",
+    "description": "Your philosophical companion",
+    "creatorDisplayName": "MATT ALLEN",
+    "creatorRaw": "By MATT ALLEN",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-LPhEeo0qDMmGkTGSEOMQkHBx&gizmo_id=g-9rgI1yDYp&ts=495775&p=gpp&cid=1&sig=90f4521c1d0da2351428883c73ea37346a8e2f310c8f77d1d236f62dd1fa00f8&v=0",
+    "usersDisplay": "9",
+    "usersLowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "MATT ALLEN",
+    "raw": "By MATT ALLEN",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-9rgI1yDYp",
+    "canonical": "https://chatgpt.com/g/g-9rgI1yDYp-ai-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:20.508Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-9rgI1yDYp-ai-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-LPhEeo0qDMmGkTGSEOMQkHBx&gizmo_id=g-9rgI1yDYp&ts=495775&p=gpp&cid=1&sig=90f4521c1d0da2351428883c73ea37346a8e2f310c8f77d1d236f62dd1fa00f8&v=0",
+    "localPath": "/gpts/avatars/ai-alan-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-LPhEeo0qDMmGkTGSEOMQkHBx&gizmo_id=g-9rgI1yDYp&ts=495781&p=gpp&cid=1&sig=3a374db60c304b36eb884a31c4cd3baa5eeead32cb6ae5880022eef31ee427a0&v=0"
+  },
+  "usage": {
+    "display": "9",
+    "lowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "9",
+        "lowerBound": 9,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 83,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-9rgI1yDYp",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - AI Alan Watts",
+    "description": "Your philosophical companion",
+    "canonicalUrl": "https://chatgpt.com/g/g-9rgI1yDYp-ai-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-LPhEeo0qDMmGkTGSEOMQkHBx&gizmo_id=g-9rgI1yDYp&ts=495781&p=gpp&cid=1&sig=3a374db60c304b36eb884a31c4cd3baa5eeead32cb6ae5880022eef31ee427a0&v=0",
+    "capturedAt": "2026-07-23T13:32:13.837Z"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-6781575cbb1881919ed8453766f5a750",
+  "gptId": "g-6781575cbb1881919ed8453766f5a750",
+  "slug": "alan-watts-gpt-kenneth-g-bastian",
+  "name": "Alan Watts GPT",
+  "description": "🌟 Engage with Alan Watts Users in Critical Thinking 🌍✨ Exploring Diverse Perspectives with a Touch of Enlightenment 🌿 ~ Created by AiWebTools.Ai 🚀",
+  "imported": {
+    "name": "Alan Watts GPT",
+    "description": "🌟 Engage with Alan Watts Users in Critical Thinking 🌍✨ Exploring Diverse Perspectives with a Touch of Enlightenment 🌿 ~ Created by AiWebTools.Ai 🚀",
+    "creatorDisplayName": "Kenneth G Bastian",
+    "creatorRaw": "By Kenneth G Bastian",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-PE7tHxZd3vCsJ9Gg5x5jGX&gizmo_id=g-6781575cbb1881919ed8453766f5a750&ts=495775&p=gpp&cid=1&sig=7550e20962c308472cba284baa3ecf57d9903f4a5531d2eb1459377a43e19aaa&v=0",
+    "usersDisplay": "200+",
+    "usersLowerBound": 200,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Kenneth G Bastian",
+    "raw": "By Kenneth G Bastian",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750",
+    "canonical": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750-alan-watts-gpt",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:00.889Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750-alan-watts-gpt"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-PE7tHxZd3vCsJ9Gg5x5jGX&gizmo_id=g-6781575cbb1881919ed8453766f5a750&ts=495775&p=gpp&cid=1&sig=7550e20962c308472cba284baa3ecf57d9903f4a5531d2eb1459377a43e19aaa&v=0",
+    "localPath": "/gpts/avatars/alan-watts-gpt-kenneth-g-bastian.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-PE7tHxZd3vCsJ9Gg5x5jGX&gizmo_id=g-6781575cbb1881919ed8453766f5a750&ts=495781&p=gpp&cid=1&sig=91ea4569d9c61f3413ac8477595730d9aafe2adeaccb58501afa6b1b250cca49&v=0"
+  },
+  "usage": {
+    "display": "200+",
+    "lowerBound": 200,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "200+",
+        "lowerBound": 200,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 14,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-6781575cbb1881919ed8453766f5a750",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts GPT",
+    "description": "🌟 Engage with Alan Watts Users in Critical Thinking 🌍✨ Exploring Diverse Perspectives with a Touch of Enlightenment 🌿 ~ Created by AiWebTools.Ai 🚀",
+    "canonicalUrl": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750-alan-watts-gpt",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-PE7tHxZd3vCsJ9Gg5x5jGX&gizmo_id=g-6781575cbb1881919ed8453766f5a750&ts=495781&p=gpp&cid=1&sig=91ea4569d9c61f3413ac8477595730d9aafe2adeaccb58501afa6b1b250cca49&v=0",
+    "capturedAt": "2026-07-23T13:32:48.459Z"
+  }
+}

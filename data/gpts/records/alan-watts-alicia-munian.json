@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-67f5ed1afcdc8191ba02bba2024da9e0",
+  "gptId": "g-67f5ed1afcdc8191ba02bba2024da9e0",
+  "slug": "alan-watts-alicia-munian",
+  "name": "Alan Watts",
+  "description": "A digital Alan Watts offering poetic and insightful explorations of existence.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "A digital Alan Watts offering poetic and insightful explorations of existence.",
+    "creatorDisplayName": "Alicia Munian",
+    "creatorRaw": "By Alicia Munian",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-G4raNKMm9GGKm9xHaDU8W7&gizmo_id=g-67f5ed1afcdc8191ba02bba2024da9e0&ts=495775&p=gpp&cid=1&sig=738ab1dadf03aaa84390e3c45b8bac80f0427ea46f521578ef23971e6e79b482&v=0",
+    "usersDisplay": "7",
+    "usersLowerBound": 7,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Alicia Munian",
+    "raw": "By Alicia Munian",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0",
+    "canonical": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:35.616Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-G4raNKMm9GGKm9xHaDU8W7&gizmo_id=g-67f5ed1afcdc8191ba02bba2024da9e0&ts=495775&p=gpp&cid=1&sig=738ab1dadf03aaa84390e3c45b8bac80f0427ea46f521578ef23971e6e79b482&v=0",
+    "localPath": "/gpts/avatars/alan-watts-alicia-munian.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-G4raNKMm9GGKm9xHaDU8W7&gizmo_id=g-67f5ed1afcdc8191ba02bba2024da9e0&ts=495781&p=gpp&cid=1&sig=68fbaf67efb3a702d47823abb489768613c502e1e26fe5abbc04dfc7c1e8f657&v=0"
+  },
+  "usage": {
+    "display": "7",
+    "lowerBound": 7,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "7",
+        "lowerBound": 7,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\bdigital alan\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 74,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-67f5ed1afcdc8191ba02bba2024da9e0",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "A digital Alan Watts offering poetic and insightful explorations of existence.",
+    "canonicalUrl": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-G4raNKMm9GGKm9xHaDU8W7&gizmo_id=g-67f5ed1afcdc8191ba02bba2024da9e0&ts=495781&p=gpp&cid=1&sig=68fbaf67efb3a702d47823abb489768613c502e1e26fe5abbc04dfc7c1e8f657&v=0",
+    "capturedAt": "2026-07-23T13:32:26.685Z"
+  }
+}

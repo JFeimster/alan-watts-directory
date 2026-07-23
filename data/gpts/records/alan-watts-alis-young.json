@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-H5hL1qddN",
+  "gptId": "g-H5hL1qddN",
+  "slug": "alan-watts-alis-young",
+  "name": "Alan Watts",
+  "description": "Fully embodying Alan Watts, discussing modern philosophies",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Fully embodying Alan Watts, discussing modern philosophies",
+    "creatorDisplayName": "alis young",
+    "creatorRaw": "By alis young",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5LCTO4KX0PG3XvzB044ekffH&gizmo_id=g-H5hL1qddN&ts=495775&p=gpp&cid=1&sig=e1a51e60793cd59f60ea81970b718d5b646573ed953b6917a04ce47cc9d0a522&v=0",
+    "usersDisplay": "100+",
+    "usersLowerBound": 100,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "alis young",
+    "raw": "By alis young",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-H5hL1qddN",
+    "canonical": "https://chatgpt.com/g/g-H5hL1qddN-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:37.697Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-H5hL1qddN-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5LCTO4KX0PG3XvzB044ekffH&gizmo_id=g-H5hL1qddN&ts=495775&p=gpp&cid=1&sig=e1a51e60793cd59f60ea81970b718d5b646573ed953b6917a04ce47cc9d0a522&v=0",
+    "localPath": "/gpts/avatars/alan-watts-alis-young.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5LCTO4KX0PG3XvzB044ekffH&gizmo_id=g-H5hL1qddN&ts=495781&p=gpp&cid=1&sig=3d811c4dda4cf36a7f7c6e58150ae1bf6e226253b3b7a6594b3f347db69530c1&v=0"
+  },
+  "usage": {
+    "display": "100+",
+    "lowerBound": 100,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "100+",
+        "lowerBound": 100,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 58,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-H5hL1qddN",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Fully embodying Alan Watts, discussing modern philosophies",
+    "canonicalUrl": "https://chatgpt.com/g/g-H5hL1qddN-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5LCTO4KX0PG3XvzB044ekffH&gizmo_id=g-H5hL1qddN&ts=495781&p=gpp&cid=1&sig=3d811c4dda4cf36a7f7c6e58150ae1bf6e226253b3b7a6594b3f347db69530c1&v=0",
+    "capturedAt": "2026-07-23T13:32:28.309Z"
+  }
+}

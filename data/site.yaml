@@ -1,0 +1,20 @@
+name: Alan Watts Directory
+shortName: AW Directory
+logoText: AW DIRECTORY
+tagline: Find the source. Open the context.
+description: Lectures, books, quotes, transcripts, tools, and modern context.
+independentProject: true
+officialAffiliation: false
+defaultTitle: Alan Watts Directory — Lectures, Books, Quotes, Transcripts and Tools
+titleTemplate: "%s | Alan Watts Directory"
+defaultDescription: Explore Alan Watts lectures, books, contextualized quotations, transcripts, research tools, GPTs, and modern questions through an independent source-conscious directory.
+canonicalBaseUrl: https://alanwattsdirectory.com
+socialLinks: []
+newsletter:
+  status: planned
+  endpoint: null
+  provider: null
+contact:
+  email: null
+  formEndpoint: null
+copyright: "© 2026 Alan Watts Directory. Original editorial and directory material."

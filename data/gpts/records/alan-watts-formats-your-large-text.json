@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-fJYLDmKqI",
+  "gptId": "g-fJYLDmKqI",
+  "slug": "alan-watts-formats-your-large-text",
+  "name": "Alan Watts Formats your Large Text",
+  "description": "Organizes transcripts into readable paragraphs in the tone of Alan Watts",
+  "imported": {
+    "name": "Alan Watts Formats your Large Text",
+    "description": "Organizes transcripts into readable paragraphs in the tone of Alan Watts",
+    "creatorDisplayName": "Andrew Bittner",
+    "creatorRaw": "By Andrew Bittner",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-1CW1b1JeeC64T5Apy2bpPHIy&gizmo_id=g-fJYLDmKqI&ts=495775&p=gpp&cid=1&sig=706d4ac56c90ce0ba6934c15b0ea9e6c33786c9e798ed5cb998d21900cf07a37&v=0",
+    "usersDisplay": "20+",
+    "usersLowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Andrew Bittner",
+    "raw": "By Andrew Bittner",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-fJYLDmKqI",
+    "canonical": "https://chatgpt.com/g/g-fJYLDmKqI-alan-watts-formats-your-large-text",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:52.555Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-fJYLDmKqI-alan-watts-formats-your-large-text"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-1CW1b1JeeC64T5Apy2bpPHIy&gizmo_id=g-fJYLDmKqI&ts=495775&p=gpp&cid=1&sig=706d4ac56c90ce0ba6934c15b0ea9e6c33786c9e798ed5cb998d21900cf07a37&v=0",
+    "localPath": "/gpts/avatars/alan-watts-formats-your-large-text.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-1CW1b1JeeC64T5Apy2bpPHIy&gizmo_id=g-fJYLDmKqI&ts=495781&p=gpp&cid=1&sig=d15a73c3b19ab063330e9ae42c520a844ffdcef4d75b813bffe043855c8a9a65&v=0"
+  },
+  "usage": {
+    "display": "20+",
+    "lowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "20+",
+        "lowerBound": 20,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "research",
+    "source-grounded"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "research",
+      "source-grounded"
+    ],
+    "manual": [],
+    "effective": [
+      "research",
+      "source-grounded"
+    ],
+    "evidence": {
+      "research": [
+        "\\btranscripts?\\b"
+      ],
+      "source-grounded": [
+        "\\btranscripts?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "claimed-in-listing"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 24,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-fJYLDmKqI",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts Formats your Large Text",
+    "description": "Organizes transcripts into readable paragraphs in the tone of Alan Watts",
+    "canonicalUrl": "https://chatgpt.com/g/g-fJYLDmKqI-alan-watts-formats-your-large-text",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-1CW1b1JeeC64T5Apy2bpPHIy&gizmo_id=g-fJYLDmKqI&ts=495781&p=gpp&cid=1&sig=d15a73c3b19ab063330e9ae42c520a844ffdcef4d75b813bffe043855c8a9a65&v=0",
+    "capturedAt": "2026-07-23T13:32:41.079Z"
+  }
+}

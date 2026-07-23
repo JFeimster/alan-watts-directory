@@ -1,0 +1,43 @@
+@media (hover: hover) {
+  .button,
+  .icon-button,
+  .number-card,
+  .topic-module,
+  .question-card,
+  .library-module,
+  .gpt-profile-card,
+  .tool-card,
+  .contribution-grid > *,
+  .mega-menu__item {
+    transition:
+      transform 130ms ease,
+      box-shadow 130ms ease,
+      background-color 130ms ease,
+      color 130ms ease;
+  }
+
+  .button:hover,
+  .icon-button:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 7px 7px 0 var(--ink);
+  }
+
+  .number-card:hover,
+  .topic-module:hover,
+  .library-module:hover,
+  .gpt-profile-card:hover {
+    transform: translate(-4px, -4px);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .question-card:hover,
+  .tool-card:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 6px 6px 0 var(--acid);
+  }
+
+  .contribution-grid > a:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 6px 6px 0 var(--ink);
+  }
+}

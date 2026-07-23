@@ -1,0 +1,384 @@
+{
+  "generatedAt": "2026-07-23T13:32:13.216Z",
+  "processed": 75,
+  "changed": 72,
+  "errors": 0,
+  "blocked": 3,
+  "results": [
+    {
+      "slug": "ai-alan-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "ai-lan-watts-alan-watts-gpt",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "ai-watts-mental-maze-navigator",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-botts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watt",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-a-lot",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-ai",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-alicia-munian",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-alis-young",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-andreas-r-nnestad",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-archive",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-coach-raymond-boustani",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-community-builder",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-daniel-boone-engineering-llc",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-formats-your-large-text",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-george-michalopoulos",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-giovanni-guttadauro",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-gpt-ben",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-gpt-kenneth-g-bastian",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-guide-for-navigating-difficult-times",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-heath-johnson",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-huelsemeyer",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-insights",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-joseph-l-nowlin",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-lets-chat",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-megan-harwood",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-mentor-chuck-mere",
+      "status": "blocked-or-rate-limited",
+      "httpStatus": 403
+    },
+    {
+      "slug": "alan-watts-mentor-jos-guimar-es",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-michael-legary",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-paulo-r-k-danna",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-r-sansom",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-reimagined",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-scholar",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-teaches",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-the-her-version",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-thilo-richter",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-wisdom",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-x",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-ya-canestri",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "alan-watts-yassine-ben-ameur",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "brother-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "chat-with-alan",
+      "status": "blocked-or-rate-limited",
+      "httpStatus": 403
+    },
+    {
+      "slug": "echo-of-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "existential-absurdity",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "higher-self",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "how-to-be-like-alan-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "i-am-q-i-am-you",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "mega-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "mindful-guru",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "my-trip-sitter",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "nunu-mindful-sage",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "philosophic-narrator-alan-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "q",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "red-pill",
+      "status": "blocked-or-rate-limited",
+      "httpStatus": 403
+    },
+    {
+      "slug": "speak-with-alan-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "the-alan-watts-librarian",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "the-collective-consciousness",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "the-mentor-collective",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "the-philosophical-writer",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "the-q-architect-watts-entity-free-thought-magic",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "the-virtual-vegan-alan-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "the-watts-daily-compass",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "watts-of-quantum-light-harmonizer-gpt",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "watts-wisdom-antti-laine",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "watts-wisdom-kachemak-walker",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "watts-wisdom-tyler-j-young",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "wattsbot",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "wisdom-of-alan-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "your-daily-stoic",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "zen-companion",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "zen-guide",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "zen-insights-with-alan-watts",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "zen-sage",
+      "status": "refreshed",
+      "startersFound": 0
+    },
+    {
+      "slug": "zen-wisdom-with-alan-watts-philosophical-guide",
+      "status": "refreshed",
+      "startersFound": 0
+    }
+  ]
+}

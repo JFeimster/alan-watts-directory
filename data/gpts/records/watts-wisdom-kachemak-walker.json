@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-V7eSNOt7q",
+  "gptId": "g-V7eSNOt7q",
+  "slug": "watts-wisdom-kachemak-walker",
+  "name": "Watts Wisdom",
+  "description": "Alan Watts sharing his philosophy in first person",
+  "imported": {
+    "name": "Watts Wisdom",
+    "description": "Alan Watts sharing his philosophy in first person",
+    "creatorDisplayName": "Kachemak Walker",
+    "creatorRaw": "By Kachemak Walker",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rLGrg5rf4RRjy41nVP1eF659&gizmo_id=g-V7eSNOt7q&ts=495775&p=gpp&cid=1&sig=e87c0ff04346a331ca33ba6aafccf8ffc0df527cdaa9915d54f6f7de7328b78a&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Kachemak Walker",
+    "raw": "By Kachemak Walker",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-V7eSNOt7q",
+    "canonical": "https://chatgpt.com/g/g-V7eSNOt7q-watts-wisdom",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:47.334Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-V7eSNOt7q-watts-wisdom"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rLGrg5rf4RRjy41nVP1eF659&gizmo_id=g-V7eSNOt7q&ts=495775&p=gpp&cid=1&sig=e87c0ff04346a331ca33ba6aafccf8ffc0df527cdaa9915d54f6f7de7328b78a&v=0",
+    "localPath": "/gpts/avatars/watts-wisdom-kachemak-walker.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rLGrg5rf4RRjy41nVP1eF659&gizmo_id=g-V7eSNOt7q&ts=495781&p=gpp&cid=1&sig=86a17d20a667b5146a3b8ba947a2ab614fa3be374cc04b315fa4c73e550b32ff&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 30,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-V7eSNOt7q",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Watts Wisdom",
+    "description": "Alan Watts sharing his philosophy in first person",
+    "canonicalUrl": "https://chatgpt.com/g/g-V7eSNOt7q-watts-wisdom",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rLGrg5rf4RRjy41nVP1eF659&gizmo_id=g-V7eSNOt7q&ts=495781&p=gpp&cid=1&sig=86a17d20a667b5146a3b8ba947a2ab614fa3be374cc04b315fa4c73e550b32ff&v=0",
+    "capturedAt": "2026-07-23T13:34:20.567Z"
+  }
+}

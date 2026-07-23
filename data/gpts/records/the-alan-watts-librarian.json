@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-FK8PSHQyw",
+  "gptId": "g-FK8PSHQyw",
+  "slug": "the-alan-watts-librarian",
+  "name": "The Alan Watts Librarian",
+  "description": "Powered by the insightful knowledge from Alan Watts' books and lectures.",
+  "imported": {
+    "name": "The Alan Watts Librarian",
+    "description": "Powered by the insightful knowledge from Alan Watts' books and lectures.",
+    "creatorDisplayName": "APAIA",
+    "creatorRaw": "By APAIA",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XfN6el9Bpgb7OmhsD7cdqu1S&gizmo_id=g-FK8PSHQyw&ts=495775&p=gpp&cid=1&sig=785889782718103521b1f743bc8cd948a4681898e18074abf6ffc0748071d8a3&v=0",
+    "usersDisplay": "20+",
+    "usersLowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "APAIA",
+    "raw": "By APAIA",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-FK8PSHQyw",
+    "canonical": "https://chatgpt.com/g/g-FK8PSHQyw-the-alan-watts-librarian",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:21.537Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-FK8PSHQyw-the-alan-watts-librarian"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XfN6el9Bpgb7OmhsD7cdqu1S&gizmo_id=g-FK8PSHQyw&ts=495775&p=gpp&cid=1&sig=785889782718103521b1f743bc8cd948a4681898e18074abf6ffc0748071d8a3&v=0",
+    "localPath": "/gpts/avatars/the-alan-watts-librarian.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XfN6el9Bpgb7OmhsD7cdqu1S&gizmo_id=g-FK8PSHQyw&ts=495781&p=gpp&cid=1&sig=6a1ebefe17b835ed79ee72e135d0f9310fdeafb01b2bd9c00dcfc6f22a74dbfc&v=0"
+  },
+  "usage": {
+    "display": "20+",
+    "lowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "20+",
+        "lowerBound": 20,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "source-grounded"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "source-grounded"
+    ],
+    "manual": [],
+    "effective": [
+      "source-grounded"
+    ],
+    "evidence": {
+      "source-grounded": [
+        "\\bbooks? and lectures?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "claimed-in-listing"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 55,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-FK8PSHQyw",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - The Alan Watts Librarian",
+    "description": "Powered by the insightful knowledge from Alan Watts&#x27; books and lectures.",
+    "canonicalUrl": "https://chatgpt.com/g/g-FK8PSHQyw-the-alan-watts-librarian",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XfN6el9Bpgb7OmhsD7cdqu1S&gizmo_id=g-FK8PSHQyw&ts=495781&p=gpp&cid=1&sig=6a1ebefe17b835ed79ee72e135d0f9310fdeafb01b2bd9c00dcfc6f22a74dbfc&v=0",
+    "capturedAt": "2026-07-23T13:34:01.943Z"
+  }
+}

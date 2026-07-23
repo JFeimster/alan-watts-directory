@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-RtiQYETzv",
+  "gptId": "g-RtiQYETzv",
+  "slug": "alan-watts-ya-canestri",
+  "name": "Alan Watts",
+  "description": "Channeling Alan Watts with simplicity",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Channeling Alan Watts with simplicity",
+    "creatorDisplayName": "YA CANESTRI",
+    "creatorRaw": "By YA CANESTRI",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-2YJJIkAMMTi66YrMg2AsdBJ7&gizmo_id=g-RtiQYETzv&ts=495775&p=gpp&cid=1&sig=edc25a3cd8b737a57b7b13f875082fca322885014a47bbc78aa2782ad4cd8193&v=0",
+    "usersDisplay": "4",
+    "usersLowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "YA CANESTRI",
+    "raw": "By YA CANESTRI",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-RtiQYETzv",
+    "canonical": "https://chatgpt.com/g/g-RtiQYETzv-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:44.590Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-RtiQYETzv-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-2YJJIkAMMTi66YrMg2AsdBJ7&gizmo_id=g-RtiQYETzv&ts=495775&p=gpp&cid=1&sig=edc25a3cd8b737a57b7b13f875082fca322885014a47bbc78aa2782ad4cd8193&v=0",
+    "localPath": "/gpts/avatars/alan-watts-ya-canestri.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-2YJJIkAMMTi66YrMg2AsdBJ7&gizmo_id=g-RtiQYETzv&ts=495781&p=gpp&cid=1&sig=5e3da8669f293b82aead4f0238cf9368f3179a3e418d0cc12afa8e8b1397347d&v=0"
+  },
+  "usage": {
+    "display": "4",
+    "lowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "4",
+        "lowerBound": 4,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\bchannel(?:ing)? alan watts\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 57,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-RtiQYETzv",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Channeling Alan Watts with simplicity",
+    "canonicalUrl": "https://chatgpt.com/g/g-RtiQYETzv-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-2YJJIkAMMTi66YrMg2AsdBJ7&gizmo_id=g-RtiQYETzv&ts=495781&p=gpp&cid=1&sig=5e3da8669f293b82aead4f0238cf9368f3179a3e418d0cc12afa8e8b1397347d&v=0",
+    "capturedAt": "2026-07-23T13:33:28.619Z"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-jNCWtfFDc",
+  "gptId": "g-jNCWtfFDc",
+  "slug": "alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o",
+  "name": "Alan Watts",
+  "description": "Philosophical guide like Alan Watts",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Philosophical guide like Alan Watts",
+    "creatorDisplayName": "CENTRUM WSPARCIA I ROZWOJU S.P. Z O.O.",
+    "creatorRaw": "By CENTRUM WSPARCIA I ROZWOJU S.P. Z O.O.",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-AYBJ5K65JRB6QQvDrTmgmU1r&gizmo_id=g-jNCWtfFDc&ts=495775&p=gpp&cid=1&sig=4cc37f1d72f08b5ba6b57a80751477d669a854584fe99eec127b7e6897f720ae&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "CENTRUM WSPARCIA I ROZWOJU S.P. Z O.O.",
+    "raw": "By CENTRUM WSPARCIA I ROZWOJU S.P. Z O.O.",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-jNCWtfFDc",
+    "canonical": "https://chatgpt.com/g/g-jNCWtfFDc-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:44.023Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-jNCWtfFDc-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-AYBJ5K65JRB6QQvDrTmgmU1r&gizmo_id=g-jNCWtfFDc&ts=495775&p=gpp&cid=1&sig=4cc37f1d72f08b5ba6b57a80751477d669a854584fe99eec127b7e6897f720ae&v=0",
+    "localPath": "/gpts/avatars/alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-AYBJ5K65JRB6QQvDrTmgmU1r&gizmo_id=g-jNCWtfFDc&ts=495781&p=gpp&cid=1&sig=229781b0ac91c00f27cf0291d636e0fbdb4849453460b2b1aacfe4a1ce05f1bc&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 68,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-jNCWtfFDc",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Philosophical guide like Alan Watts",
+    "canonicalUrl": "https://chatgpt.com/g/g-jNCWtfFDc-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-AYBJ5K65JRB6QQvDrTmgmU1r&gizmo_id=g-jNCWtfFDc&ts=495781&p=gpp&cid=1&sig=229781b0ac91c00f27cf0291d636e0fbdb4849453460b2b1aacfe4a1ce05f1bc&v=0",
+    "capturedAt": "2026-07-23T13:32:33.438Z"
+  }
+}

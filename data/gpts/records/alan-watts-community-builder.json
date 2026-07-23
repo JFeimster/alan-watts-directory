@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-7szGS9A7A",
+  "gptId": "g-7szGS9A7A",
+  "slug": "alan-watts-community-builder",
+  "name": "Alan Watts",
+  "description": "Philosophical insights in the style of Alan Watts.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Philosophical insights in the style of Alan Watts.",
+    "creatorDisplayName": "community builder",
+    "creatorRaw": "By community builder",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SP3qcCpr8z70UM2wsYrg3sz5&gizmo_id=g-7szGS9A7A&ts=495775&p=gpp&cid=1&sig=21b9302abc452cc6d930e69f3da38ea89f0f0610620aa22a4998e9db6746f6c0&v=0",
+    "usersDisplay": "1K+",
+    "usersLowerBound": 1000,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "community builder",
+    "raw": "By community builder",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-7szGS9A7A",
+    "canonical": "https://chatgpt.com/g/g-7szGS9A7A-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:47.973Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-7szGS9A7A-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SP3qcCpr8z70UM2wsYrg3sz5&gizmo_id=g-7szGS9A7A&ts=495775&p=gpp&cid=1&sig=21b9302abc452cc6d930e69f3da38ea89f0f0610620aa22a4998e9db6746f6c0&v=0",
+    "localPath": "/gpts/avatars/alan-watts-community-builder.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SP3qcCpr8z70UM2wsYrg3sz5&gizmo_id=g-7szGS9A7A&ts=495781&p=gpp&cid=1&sig=757834f79ac89fa0465718f388babdb078f2ae6dadc9a2b667fcc4de4404423e&v=0"
+  },
+  "usage": {
+    "display": "1K+",
+    "lowerBound": 1000,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "1K+",
+        "lowerBound": 1000,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 2,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-7szGS9A7A",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Philosophical insights in the style of Alan Watts.",
+    "canonicalUrl": "https://chatgpt.com/g/g-7szGS9A7A-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SP3qcCpr8z70UM2wsYrg3sz5&gizmo_id=g-7szGS9A7A&ts=495781&p=gpp&cid=1&sig=757834f79ac89fa0465718f388babdb078f2ae6dadc9a2b667fcc4de4404423e&v=0",
+    "capturedAt": "2026-07-23T13:32:37.438Z"
+  }
+}

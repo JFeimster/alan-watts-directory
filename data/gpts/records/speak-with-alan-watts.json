@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-IxY9m9jw1",
+  "gptId": "g-IxY9m9jw1",
+  "slug": "speak-with-alan-watts",
+  "name": "Speak with Alan Watts",
+  "description": "First-person embodiment of Alan Watts.",
+  "imported": {
+    "name": "Speak with Alan Watts",
+    "description": "First-person embodiment of Alan Watts.",
+    "creatorDisplayName": "Mending Mind",
+    "creatorRaw": "By Mending Mind",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EeXEeDWQZai791SAT8wlMvcG&gizmo_id=g-IxY9m9jw1&ts=495775&p=gpp&cid=1&sig=7b89c10072788c2b730b36abc3ea1573652ba28d05946a1b6ca00af649eb5e38&v=0",
+    "usersDisplay": "100+",
+    "usersLowerBound": 100,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Mending Mind",
+    "raw": "By Mending Mind",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-IxY9m9jw1",
+    "canonical": "https://chatgpt.com/g/g-IxY9m9jw1-speak-with-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:19.463Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-IxY9m9jw1-speak-with-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EeXEeDWQZai791SAT8wlMvcG&gizmo_id=g-IxY9m9jw1&ts=495775&p=gpp&cid=1&sig=7b89c10072788c2b730b36abc3ea1573652ba28d05946a1b6ca00af649eb5e38&v=0",
+    "localPath": "/gpts/avatars/speak-with-alan-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EeXEeDWQZai791SAT8wlMvcG&gizmo_id=g-IxY9m9jw1&ts=495781&p=gpp&cid=1&sig=976b3456ab0b8f073eaf16c601a84f57e83674ef4b5a4fe1f6aecb312f129810&v=0"
+  },
+  "usage": {
+    "display": "100+",
+    "lowerBound": 100,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "100+",
+        "lowerBound": 100,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\bspeak with\\b",
+        "\\bembod(?:y|ies|ied|iment)\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 10,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-IxY9m9jw1",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Speak with Alan Watts",
+    "description": "First-person embodiment of Alan Watts.",
+    "canonicalUrl": "https://chatgpt.com/g/g-IxY9m9jw1-speak-with-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EeXEeDWQZai791SAT8wlMvcG&gizmo_id=g-IxY9m9jw1&ts=495781&p=gpp&cid=1&sig=976b3456ab0b8f073eaf16c601a84f57e83674ef4b5a4fe1f6aecb312f129810&v=0",
+    "capturedAt": "2026-07-23T13:33:59.582Z"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-3Ykzv3SCg",
+  "gptId": "g-3Ykzv3SCg",
+  "slug": "zen-insights-with-alan-watts",
+  "name": "Zen Insights with Alan Watts",
+  "description": "Channeling Alan Watts' philosophy in engaging conversations",
+  "imported": {
+    "name": "Zen Insights with Alan Watts",
+    "description": "Channeling Alan Watts' philosophy in engaging conversations",
+    "creatorDisplayName": "Tomáš Turlík",
+    "creatorRaw": "By Tomáš Turlík",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-brDR83bM6EPGl3PNN8FMa491&gizmo_id=g-3Ykzv3SCg&ts=495775&p=gpp&cid=1&sig=0ee758dbdc8b99faafc5b92b35ae536655553ce6889a9a522b5c625555f21809&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Tomáš Turlík",
+    "raw": "By Tomáš Turlík",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-3Ykzv3SCg",
+    "canonical": "https://chatgpt.com/g/g-3Ykzv3SCg-zen-insights-with-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:32:08.492Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-3Ykzv3SCg-zen-insights-with-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-brDR83bM6EPGl3PNN8FMa491&gizmo_id=g-3Ykzv3SCg&ts=495775&p=gpp&cid=1&sig=0ee758dbdc8b99faafc5b92b35ae536655553ce6889a9a522b5c625555f21809&v=0",
+    "localPath": "/gpts/avatars/zen-insights-with-alan-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-brDR83bM6EPGl3PNN8FMa491&gizmo_id=g-3Ykzv3SCg&ts=495781&p=gpp&cid=1&sig=6b4c38c992b9036b60a37314e836b30e47d9e79fc6f6e3b52e3e7e5fb7d8a215&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy",
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy",
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy",
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bzen\\b"
+      ],
+      "first-person-simulations": [
+        "\\bchannel(?:ing)? alan watts\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 20,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-3Ykzv3SCg",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Zen Insights with Alan Watts",
+    "description": "Channeling Alan Watts&#x27; philosophy in engaging conversations",
+    "canonicalUrl": "https://chatgpt.com/g/g-3Ykzv3SCg-zen-insights-with-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-brDR83bM6EPGl3PNN8FMa491&gizmo_id=g-3Ykzv3SCg&ts=495781&p=gpp&cid=1&sig=6b4c38c992b9036b60a37314e836b30e47d9e79fc6f6e3b52e3e7e5fb7d8a215&v=0",
+    "capturedAt": "2026-07-23T13:34:37.775Z"
+  }
+}

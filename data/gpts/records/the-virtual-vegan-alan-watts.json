@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-68fa1a99a9a081919f0b9e4d12678a79",
+  "gptId": "g-68fa1a99a9a081919f0b9e4d12678a79",
+  "slug": "the-virtual-vegan-alan-watts",
+  "name": "The Virtual Vegan Alan Watts",
+  "description": "The Virtual Vegan Alan Watts",
+  "imported": {
+    "name": "The Virtual Vegan Alan Watts",
+    "description": "The Virtual Vegan Alan Watts",
+    "creatorDisplayName": "atom em",
+    "creatorRaw": "By atom em",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-3HVfYcjAJH9bx2mLCpzjDe&gizmo_id=g-68fa1a99a9a081919f0b9e4d12678a79&ts=495775&p=gpp&cid=1&sig=ff72c8bf522c6948deb70ba8115f073311d5f10b221b5a3cf584ed847c1882b7&v=0",
+    "usersDisplay": "1",
+    "usersLowerBound": 1,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "atom em",
+    "raw": "By atom em",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79",
+    "canonical": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79-the-virtual-vegan-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:36.189Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79-the-virtual-vegan-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-3HVfYcjAJH9bx2mLCpzjDe&gizmo_id=g-68fa1a99a9a081919f0b9e4d12678a79&ts=495775&p=gpp&cid=1&sig=ff72c8bf522c6948deb70ba8115f073311d5f10b221b5a3cf584ed847c1882b7&v=0",
+    "localPath": "/gpts/avatars/the-virtual-vegan-alan-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-3HVfYcjAJH9bx2mLCpzjDe&gizmo_id=g-68fa1a99a9a081919f0b9e4d12678a79&ts=495781&p=gpp&cid=1&sig=db2a688f782f372fcc75b9ef31703c0886901f0e9037c4bd32a03e395846f41d&v=0"
+  },
+  "usage": {
+    "display": "1",
+    "lowerBound": 1,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "1",
+        "lowerBound": 1,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\bvirtual .*alan\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 19,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-68fa1a99a9a081919f0b9e4d12678a79",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - The Virtual Vegan Alan Watts",
+    "description": "The Virtual Vegan Alan Watts",
+    "canonicalUrl": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79-the-virtual-vegan-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-3HVfYcjAJH9bx2mLCpzjDe&gizmo_id=g-68fa1a99a9a081919f0b9e4d12678a79&ts=495781&p=gpp&cid=1&sig=db2a688f782f372fcc75b9ef31703c0886901f0e9037c4bd32a03e395846f41d&v=0",
+    "capturedAt": "2026-07-23T13:34:12.511Z"
+  }
+}

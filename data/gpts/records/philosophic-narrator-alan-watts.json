@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-LBhZe6hQW",
+  "gptId": "g-LBhZe6hQW",
+  "slug": "philosophic-narrator-alan-watts",
+  "name": "Philosophic Narrator Alan Watts",
+  "description": "Blends poetic and clear styles, philosophically deep",
+  "imported": {
+    "name": "Philosophic Narrator Alan Watts",
+    "description": "Blends poetic and clear styles, philosophically deep",
+    "creatorDisplayName": "Christoph Poloczek",
+    "creatorRaw": "By Christoph Poloczek",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-glyD1G2tBB8d7moitqzhbyrR&gizmo_id=g-LBhZe6hQW&ts=495775&p=gpp&cid=1&sig=7d8914dc8bb32580cf54de8e3b040f63276fa6b711a648a830012f5590ff8c8e&v=0",
+    "usersDisplay": "9",
+    "usersLowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Christoph Poloczek",
+    "raw": "By Christoph Poloczek",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-LBhZe6hQW",
+    "canonical": "https://chatgpt.com/g/g-LBhZe6hQW-philosophic-narrator-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:11.979Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-LBhZe6hQW-philosophic-narrator-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-glyD1G2tBB8d7moitqzhbyrR&gizmo_id=g-LBhZe6hQW&ts=495775&p=gpp&cid=1&sig=7d8914dc8bb32580cf54de8e3b040f63276fa6b711a648a830012f5590ff8c8e&v=0",
+    "localPath": "/gpts/avatars/philosophic-narrator-alan-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-glyD1G2tBB8d7moitqzhbyrR&gizmo_id=g-LBhZe6hQW&ts=495781&p=gpp&cid=1&sig=c24d37f257bd071578f97798b01bbc1cb4f0b3735b903b8013a26d3c3e737dad&v=0"
+  },
+  "usage": {
+    "display": "9",
+    "lowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "9",
+        "lowerBound": 9,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 64,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-LBhZe6hQW",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Philosophic Narrator Alan Watts",
+    "description": "Blends poetic and clear styles, philosophically deep",
+    "canonicalUrl": "https://chatgpt.com/g/g-LBhZe6hQW-philosophic-narrator-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-glyD1G2tBB8d7moitqzhbyrR&gizmo_id=g-LBhZe6hQW&ts=495781&p=gpp&cid=1&sig=c24d37f257bd071578f97798b01bbc1cb4f0b3735b903b8013a26d3c3e737dad&v=0",
+    "capturedAt": "2026-07-23T13:33:53.910Z"
+  }
+}

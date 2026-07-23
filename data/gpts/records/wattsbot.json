@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-xBwTUqckX",
+  "gptId": "g-xBwTUqckX",
+  "slug": "wattsbot",
+  "name": "WattsBot",
+  "description": "Alan Watts in digital form.",
+  "imported": {
+    "name": "WattsBot",
+    "description": "Alan Watts in digital form.",
+    "creatorDisplayName": "John A Smith",
+    "creatorRaw": "By John A Smith",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nMmVWGnAjF2eE7V1m3bRV1Hs&gizmo_id=g-xBwTUqckX&ts=495775&p=gpp&cid=1&sig=b5d757129d58efcd8ea0ca39c2a5ff8490c6c86e48a81f8d210538ab3f00179a&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "John A Smith",
+    "raw": "By John A Smith",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-xBwTUqckX",
+    "canonical": "https://chatgpt.com/g/g-xBwTUqckX-wattsbot",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:52.628Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-xBwTUqckX-wattsbot"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nMmVWGnAjF2eE7V1m3bRV1Hs&gizmo_id=g-xBwTUqckX&ts=495775&p=gpp&cid=1&sig=b5d757129d58efcd8ea0ca39c2a5ff8490c6c86e48a81f8d210538ab3f00179a&v=0",
+    "localPath": "/gpts/avatars/wattsbot.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nMmVWGnAjF2eE7V1m3bRV1Hs&gizmo_id=g-xBwTUqckX&ts=495781&p=gpp&cid=1&sig=a263602ef626e39048b4d704e2f3fc15f74f548524b5917f6505da07b8651216&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 28,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-xBwTUqckX",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - WattsBot",
+    "description": "Alan Watts in digital form.",
+    "canonicalUrl": "https://chatgpt.com/g/g-xBwTUqckX-wattsbot",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nMmVWGnAjF2eE7V1m3bRV1Hs&gizmo_id=g-xBwTUqckX&ts=495781&p=gpp&cid=1&sig=a263602ef626e39048b4d704e2f3fc15f74f548524b5917f6505da07b8651216&v=0",
+    "capturedAt": "2026-07-23T13:34:25.203Z"
+  }
+}

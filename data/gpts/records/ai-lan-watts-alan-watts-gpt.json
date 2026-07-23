@@ -1,0 +1,150 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-bxBB3L5V8",
+  "gptId": "g-bxBB3L5V8",
+  "slug": "ai-lan-watts-alan-watts-gpt",
+  "name": "AI-Lan Watts - Alan Watts GPT",
+  "description": "I'm the essence of Alan Watts. Let me help you understand life, make hard decisions and navigate your own existence. Let's engage in Zen, Taoism and other philosophies. I speak from the transcripts of the real flesh and bone Alan Watts.",
+  "imported": {
+    "name": "AI-Lan Watts - Alan Watts GPT",
+    "description": "I'm the essence of Alan Watts. Let me help you understand life, make hard decisions and navigate your own existence. Let's engage in Zen, Taoism and other philosophies. I speak from the transcripts of the real flesh and bone Alan Watts.",
+    "creatorDisplayName": "Thyago Baptista Resende",
+    "creatorRaw": "By Thyago Baptista Resende",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-lofqfoN6Xm8JACQ01jW1Y9Cy&gizmo_id=g-bxBB3L5V8&ts=495775&p=gpp&cid=1&sig=4f226fa56ca4341c6f8e35e7b4a70f50dc7172695e597f6251d0786845ec030e&v=0",
+    "usersDisplay": "500+",
+    "usersLowerBound": 500,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Thyago Baptista Resende",
+    "raw": "By Thyago Baptista Resende",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-bxBB3L5V8",
+    "canonical": "https://chatgpt.com/g/g-bxBB3L5V8-ai-lan-watts-alan-watts-gpt",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:22.662Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-bxBB3L5V8-ai-lan-watts-alan-watts-gpt"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-lofqfoN6Xm8JACQ01jW1Y9Cy&gizmo_id=g-bxBB3L5V8&ts=495775&p=gpp&cid=1&sig=4f226fa56ca4341c6f8e35e7b4a70f50dc7172695e597f6251d0786845ec030e&v=0",
+    "localPath": "/gpts/avatars/ai-lan-watts-alan-watts-gpt.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-lofqfoN6Xm8JACQ01jW1Y9Cy&gizmo_id=g-bxBB3L5V8&ts=495781&p=gpp&cid=1&sig=b5b64cb35da67f3748d681bba0126960afc4462a07715a09f70899add7ae2383&v=0"
+  },
+  "usage": {
+    "display": "500+",
+    "lowerBound": 500,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "500+",
+        "lowerBound": 500,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "research",
+    "coaching",
+    "comparative-philosophy",
+    "source-grounded",
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "research",
+      "coaching",
+      "comparative-philosophy",
+      "source-grounded",
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "research",
+      "coaching",
+      "comparative-philosophy",
+      "source-grounded",
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "research": [
+        "\\btranscripts?\\b"
+      ],
+      "coaching": [
+        "\\bdecision(?:s| making)?\\b"
+      ],
+      "comparative-philosophy": [
+        "\\btao(?:ism|ist)?\\b",
+        "\\bzen\\b"
+      ],
+      "source-grounded": [
+        "\\btranscripts?\\b"
+      ],
+      "first-person-simulations": [
+        "\\bessence of alan watts\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "claimed-in-listing"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 23,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-bxBB3L5V8",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - AI-Lan Watts - Alan Watts GPT",
+    "description": "I&#x27;m the essence of Alan Watts. Let me help you understand life, make hard decisions and navigate your own existence. Let&#x27;s engage in Zen, Taoism and other philosophies. I speak from the transcripts of the real flesh and bone Alan Watts.",
+    "canonicalUrl": "https://chatgpt.com/g/g-bxBB3L5V8-ai-lan-watts-alan-watts-gpt",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-lofqfoN6Xm8JACQ01jW1Y9Cy&gizmo_id=g-bxBB3L5V8&ts=495781&p=gpp&cid=1&sig=b5b64cb35da67f3748d681bba0126960afc4462a07715a09f70899add7ae2383&v=0",
+    "capturedAt": "2026-07-23T13:32:15.585Z"
+  }
+}

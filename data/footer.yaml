@@ -1,0 +1,83 @@
+groups:
+- label: EXPLORE
+  items:
+  - label: Start Here
+    href: /start-here
+  - label: Topics
+    href: /topics
+  - label: Timeline
+    href: /timeline
+- label: LIBRARY
+  items:
+  - label: Lectures
+    href: /lectures
+  - label: Books
+    href: /books
+  - label: Quotes
+    href: /quotes
+  - label: Transcripts
+    href: /transcripts
+- label: MEDIA
+  items:
+  - label: Essays
+    href: /essays
+  - label: Videos
+    href: /videos
+  - label: Newsletter
+    href: /newsletter
+- label: COMMUNITY
+  items:
+  - label: Discussions
+    href: /discussions
+  - label: Listening Club
+    href: /listening-club
+  - label: Corrections
+    href: /corrections
+- label: TOOLS
+  items:
+  - label: Quote Verifier
+    href: /tools/quote-verifier
+  - label: Lecture Finder
+    href: /tools/lecture-finder
+  - label: GPT Directory
+    href: /gpts
+- label: STANDARDS
+  items:
+  - label: Authenticity
+    href: /about/authenticity
+  - label: Editorial Standards
+    href: /about/editorial-standards
+  - label: Sources
+    href: /about/sources-and-attribution
+  - label: AI Policy
+    href: /about/ai-policy
+  - label: Accessibility
+    href: /accessibility
+- label: PROJECT
+  items:
+  - label: About
+    href: /about
+  - label: Privacy
+    href: /privacy
+  - label: Terms
+    href: /terms
+  - label: Copyright
+    href: /copyright
+  - label: Licensing
+    href: /licensing
+  - label: Contact
+    href: /contact
+  - label: Sitemap
+    href: /sitemap.xml
+- label: PROFESSIONAL
+  items:
+  - label: Speaking
+    href: /speaking
+  - label: Services
+    href: /services
+  - label: Partners
+    href: /partners
+  - label: Accelerator
+    href: /accelerator
+  - label: Sponsor
+    href: /sponsor

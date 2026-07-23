@@ -1,0 +1,23 @@
+{
+  "slug": "core-ideas",
+  "title": "Core Ideas",
+  "description": "A map of recurring questions, terms, traditions, and tensions.",
+  "status": "live",
+  "cta": "OPEN GUIDE",
+  "intro": "This guide is an editorial orientation layer. Historical claims, quotations, dates, and source relationships are added only when supported by repository records.",
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "A map of recurring questions, terms, traditions, and tensions."
+    },
+    {
+      "label": "SOURCE STANDARD",
+      "text": "Records remain visibly incomplete until a source, provenance note, or review status is available."
+    },
+    {
+      "label": "NEXT STEP",
+      "text": "Use the linked directory hubs to compare available records and return when the index expands."
+    }
+  ],
+  "order": 3
+}

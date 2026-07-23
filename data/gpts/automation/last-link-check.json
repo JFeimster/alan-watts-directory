@@ -1,0 +1,536 @@
+{
+  "generatedAt": "2026-07-23T13:29:19.518Z",
+  "processed": 75,
+  "available": 74,
+  "unavailable": 0,
+  "blocked": 1,
+  "changed": 75,
+  "errors": 0,
+  "results": [
+    {
+      "slug": "ai-alan-watts",
+      "target": "https://chatgpt.com/g/g-9rgI1yDYp",
+      "finalUrl": "https://chatgpt.com/g/g-9rgI1yDYp-ai-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "ai-lan-watts-alan-watts-gpt",
+      "target": "https://chatgpt.com/g/g-bxBB3L5V8",
+      "finalUrl": "https://chatgpt.com/g/g-bxBB3L5V8-ai-lan-watts-alan-watts-gpt",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "ai-watts-mental-maze-navigator",
+      "target": "https://chatgpt.com/g/g-3Q5hXw68N",
+      "finalUrl": "https://chatgpt.com/g/g-3Q5hXw68N-ai-watts-mental-maze-navigator",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-botts",
+      "target": "https://chatgpt.com/g/g-U38b9FZX9",
+      "finalUrl": "https://chatgpt.com/g/g-U38b9FZX9-alan-botts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watt",
+      "target": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d",
+      "finalUrl": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d-alan-watt",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-a-lot",
+      "target": "https://chatgpt.com/g/g-bZ5ihJAoi",
+      "finalUrl": "https://chatgpt.com/g/g-bZ5ihJAoi-alan-watts-a-lot",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-ai",
+      "target": "https://chatgpt.com/g/g-ZbKsN1kgi",
+      "finalUrl": "https://chatgpt.com/g/g-ZbKsN1kgi-alan-watts-ai",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-alicia-munian",
+      "target": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0",
+      "finalUrl": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-alis-young",
+      "target": "https://chatgpt.com/g/g-H5hL1qddN",
+      "finalUrl": "https://chatgpt.com/g/g-H5hL1qddN-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-andreas-r-nnestad",
+      "target": "https://chatgpt.com/g/g-AnaboDHv7",
+      "finalUrl": "https://chatgpt.com/g/g-AnaboDHv7-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-archive",
+      "target": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18",
+      "finalUrl": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18-alan-watts-archive",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o",
+      "target": "https://chatgpt.com/g/g-jNCWtfFDc",
+      "finalUrl": "https://chatgpt.com/g/g-jNCWtfFDc-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-coach-raymond-boustani",
+      "target": "https://chatgpt.com/g/g-Fk3HQ1Cb3",
+      "finalUrl": "https://chatgpt.com/g/g-Fk3HQ1Cb3-alan-watts-coach",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-community-builder",
+      "target": "https://chatgpt.com/g/g-7szGS9A7A",
+      "finalUrl": "https://chatgpt.com/g/g-7szGS9A7A-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-daniel-boone-engineering-llc",
+      "target": "https://chatgpt.com/g/g-68e3c3f616208191888d10a08820398a",
+      "finalUrl": "https://chatgpt.com/g/g-68e3c3f616208191888d10a08820398a-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-formats-your-large-text",
+      "target": "https://chatgpt.com/g/g-fJYLDmKqI",
+      "finalUrl": "https://chatgpt.com/g/g-fJYLDmKqI-alan-watts-formats-your-large-text",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-george-michalopoulos",
+      "target": "https://chatgpt.com/g/g-6AHgyLVyX",
+      "finalUrl": "https://chatgpt.com/g/g-6AHgyLVyX-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-giovanni-guttadauro",
+      "target": "https://chatgpt.com/g/g-ZJPXwFTrB",
+      "finalUrl": "https://chatgpt.com/g/g-ZJPXwFTrB-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-gpt-ben",
+      "target": "https://chatgpt.com/g/g-UdexyGg1G",
+      "finalUrl": "https://chatgpt.com/auth/login?next=%2Fg%2Fg-UdexyGg1G-alan-watts-gpt",
+      "httpStatus": 403,
+      "status": "blocked-or-rate-limited"
+    },
+    {
+      "slug": "alan-watts-gpt-kenneth-g-bastian",
+      "target": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750",
+      "finalUrl": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750-alan-watts-gpt",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-guide-for-navigating-difficult-times",
+      "target": "https://chatgpt.com/g/g-qLSmUZSc8",
+      "finalUrl": "https://chatgpt.com/g/g-qLSmUZSc8-alan-watts-guide-for-navigating-difficult-times",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-heath-johnson",
+      "target": "https://chatgpt.com/g/g-MttAB54HL",
+      "finalUrl": "https://chatgpt.com/g/g-MttAB54HL-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-huelsemeyer",
+      "target": "https://chatgpt.com/g/g-fs3LIk5SG",
+      "finalUrl": "https://chatgpt.com/g/g-fs3LIk5SG-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-insights",
+      "target": "https://chatgpt.com/g/g-i3sUvNPYR",
+      "finalUrl": "https://chatgpt.com/g/g-i3sUvNPYR-alan-watts-insights",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-joseph-l-nowlin",
+      "target": "https://chatgpt.com/g/g-ciYCb18ho",
+      "finalUrl": "https://chatgpt.com/g/g-ciYCb18ho-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-lets-chat",
+      "target": "https://chatgpt.com/g/g-Fvq4kpfG8",
+      "finalUrl": "https://chatgpt.com/g/g-Fvq4kpfG8-alan-watts-let-s-chat",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-megan-harwood",
+      "target": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832",
+      "finalUrl": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-mentor-chuck-mere",
+      "target": "https://chatgpt.com/g/g-692db72a7fc0819193b5381b20f5c66e",
+      "finalUrl": "https://chatgpt.com/g/g-692db72a7fc0819193b5381b20f5c66e-alan-watts-mentor",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-mentor-jos-guimar-es",
+      "target": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb",
+      "finalUrl": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb-alan-watts-mentor",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-michael-legary",
+      "target": "https://chatgpt.com/g/g-INFMp97mG",
+      "finalUrl": "https://chatgpt.com/g/g-INFMp97mG-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-paulo-r-k-danna",
+      "target": "https://chatgpt.com/g/g-v0q5Yksuo",
+      "finalUrl": "https://chatgpt.com/g/g-v0q5Yksuo-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-r-sansom",
+      "target": "https://chatgpt.com/g/g-57f15zp1d",
+      "finalUrl": "https://chatgpt.com/g/g-57f15zp1d-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-reimagined",
+      "target": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6",
+      "finalUrl": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6-alan-watts-reimagined",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-scholar",
+      "target": "https://chatgpt.com/g/g-sjRqwrIIb",
+      "finalUrl": "https://chatgpt.com/g/g-sjRqwrIIb-alan-watts-scholar",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-teaches",
+      "target": "https://chatgpt.com/g/g-LAk1hJqhy",
+      "finalUrl": "https://chatgpt.com/g/g-LAk1hJqhy-alan-watts-teaches",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-the-her-version",
+      "target": "https://chatgpt.com/g/g-bHAnXmWYJ",
+      "finalUrl": "https://chatgpt.com/g/g-bHAnXmWYJ-alan-watts-the-her-version",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-thilo-richter",
+      "target": "https://chatgpt.com/g/g-DzsxuvtlQ",
+      "finalUrl": "https://chatgpt.com/g/g-DzsxuvtlQ-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-wisdom",
+      "target": "https://chatgpt.com/g/g-p6dYZSFIA",
+      "finalUrl": "https://chatgpt.com/g/g-p6dYZSFIA-alan-watts-wisdom",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-x",
+      "target": "https://chatgpt.com/g/g-jwUDPSrCs",
+      "finalUrl": "https://chatgpt.com/g/g-jwUDPSrCs-alan-watts-x",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-ya-canestri",
+      "target": "https://chatgpt.com/g/g-RtiQYETzv",
+      "finalUrl": "https://chatgpt.com/g/g-RtiQYETzv-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "alan-watts-yassine-ben-ameur",
+      "target": "https://chatgpt.com/g/g-1ypuJajmO",
+      "finalUrl": "https://chatgpt.com/g/g-1ypuJajmO-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "brother-watts",
+      "target": "https://chatgpt.com/g/g-OoQd5LQXr",
+      "finalUrl": "https://chatgpt.com/g/g-OoQd5LQXr-brother-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "chat-with-alan",
+      "target": "https://chatgpt.com/g/g-lNFoVVDSE",
+      "finalUrl": "https://chatgpt.com/g/g-lNFoVVDSE-chat-with-alan",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "echo-of-watts",
+      "target": "https://chatgpt.com/g/g-6826298e50188191bb6fa925853adb7f",
+      "finalUrl": "https://chatgpt.com/g/g-6826298e50188191bb6fa925853adb7f-echo-of-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "existential-absurdity",
+      "target": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac",
+      "finalUrl": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac-existential-absurdity",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "higher-self",
+      "target": "https://chatgpt.com/g/g-A0XYul3NK",
+      "finalUrl": "https://chatgpt.com/g/g-A0XYul3NK-higher-self",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "how-to-be-like-alan-watts",
+      "target": "https://chatgpt.com/g/g-15WyGHRwY",
+      "finalUrl": "https://chatgpt.com/g/g-15WyGHRwY-how-to-be-like-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "i-am-q-i-am-you",
+      "target": "https://chatgpt.com/g/g-6904258cf6a0819197b10755d4cc3632",
+      "finalUrl": "https://chatgpt.com/g/g-6904258cf6a0819197b10755d4cc3632-i-am-q-i-am-you",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "mega-watts",
+      "target": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e",
+      "finalUrl": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e-mega-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "mindful-guru",
+      "target": "https://chatgpt.com/g/g-OmX7n8O0G",
+      "finalUrl": "https://chatgpt.com/g/g-OmX7n8O0G-mindful-guru",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "my-trip-sitter",
+      "target": "https://chatgpt.com/g/g-SP8DFRrOg",
+      "finalUrl": "https://chatgpt.com/g/g-SP8DFRrOg-my-trip-sitter",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "nunu-mindful-sage",
+      "target": "https://chatgpt.com/g/g-6731dd3706d08190a675443bde8aa36f",
+      "finalUrl": "https://chatgpt.com/g/g-6731dd3706d08190a675443bde8aa36f-nunu-mindful-sage",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "philosophic-narrator-alan-watts",
+      "target": "https://chatgpt.com/g/g-LBhZe6hQW",
+      "finalUrl": "https://chatgpt.com/g/g-LBhZe6hQW-philosophic-narrator-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "q",
+      "target": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6",
+      "finalUrl": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6-q",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "red-pill",
+      "target": "https://chatgpt.com/g/g-hpsnyhvwg",
+      "finalUrl": "https://chatgpt.com/g/g-hpsnyhvwg-red-pill",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "speak-with-alan-watts",
+      "target": "https://chatgpt.com/g/g-IxY9m9jw1",
+      "finalUrl": "https://chatgpt.com/g/g-IxY9m9jw1-speak-with-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "the-alan-watts-librarian",
+      "target": "https://chatgpt.com/g/g-FK8PSHQyw",
+      "finalUrl": "https://chatgpt.com/g/g-FK8PSHQyw-the-alan-watts-librarian",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "the-collective-consciousness",
+      "target": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0",
+      "finalUrl": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0-the-collective-consciousness",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "the-mentor-collective",
+      "target": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39",
+      "finalUrl": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39-the-mentor-collective",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "the-philosophical-writer",
+      "target": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70",
+      "finalUrl": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70-the-philosophical-writer",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "the-q-architect-watts-entity-free-thought-magic",
+      "target": "https://chatgpt.com/g/g-n7yvUUmoT",
+      "finalUrl": "https://chatgpt.com/g/g-n7yvUUmoT-the-q-architect-watts-entity-free-thought-magic",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "the-virtual-vegan-alan-watts",
+      "target": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79",
+      "finalUrl": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79-the-virtual-vegan-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "the-watts-daily-compass",
+      "target": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2",
+      "finalUrl": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2-the-watt-s-daily-compass",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "watts-of-quantum-light-harmonizer-gpt",
+      "target": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11",
+      "finalUrl": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11-watts-of-quantum-light-harmonizer-gpt",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "watts-wisdom-antti-laine",
+      "target": "https://chatgpt.com/g/g-QT00nZLvE",
+      "finalUrl": "https://chatgpt.com/g/g-QT00nZLvE-watts-wisdom",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "watts-wisdom-kachemak-walker",
+      "target": "https://chatgpt.com/g/g-V7eSNOt7q",
+      "finalUrl": "https://chatgpt.com/g/g-V7eSNOt7q-watts-wisdom",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "watts-wisdom-tyler-j-young",
+      "target": "https://chatgpt.com/g/g-z9NwDOc2M",
+      "finalUrl": "https://chatgpt.com/g/g-z9NwDOc2M-watts-wisdom",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "wattsbot",
+      "target": "https://chatgpt.com/g/g-xBwTUqckX",
+      "finalUrl": "https://chatgpt.com/g/g-xBwTUqckX-wattsbot",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "wisdom-of-alan-watts",
+      "target": "https://chatgpt.com/g/g-RZVIBzGWz",
+      "finalUrl": "https://chatgpt.com/g/g-RZVIBzGWz-wisdom-of-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "your-daily-stoic",
+      "target": "https://chatgpt.com/g/g-sTAl9H8eK",
+      "finalUrl": "https://chatgpt.com/g/g-sTAl9H8eK-your-daily-stoic",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "zen-companion",
+      "target": "https://chatgpt.com/g/g-g6UfZrXg4",
+      "finalUrl": "https://chatgpt.com/g/g-g6UfZrXg4-zen-companion",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "zen-guide",
+      "target": "https://chatgpt.com/g/g-Yvurb5KcZ",
+      "finalUrl": "https://chatgpt.com/g/g-Yvurb5KcZ-zen-guide",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "zen-insights-with-alan-watts",
+      "target": "https://chatgpt.com/g/g-3Ykzv3SCg",
+      "finalUrl": "https://chatgpt.com/g/g-3Ykzv3SCg-zen-insights-with-alan-watts",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "zen-sage",
+      "target": "https://chatgpt.com/g/g-iZmXSMq11",
+      "finalUrl": "https://chatgpt.com/g/g-iZmXSMq11-zen-sage",
+      "httpStatus": 200,
+      "status": "validated"
+    },
+    {
+      "slug": "zen-wisdom-with-alan-watts-philosophical-guide",
+      "target": "https://chatgpt.com/g/g-TiulZHtyd",
+      "finalUrl": "https://chatgpt.com/g/g-TiulZHtyd-zen-wisdom-with-alan-watts-philosophical-guide",
+      "httpStatus": 200,
+      "status": "validated"
+    }
+  ]
+}

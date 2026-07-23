@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Echo of Watts">
+  <rect width="320" height="320" rx="56" fill="#594b2f"/>
+  <circle cx="250" cy="70" r="80" fill="rgba(255,255,255,0.07)"/>
+  <text x="160" y="188" text-anchor="middle" font-family="Georgia,serif" font-size="112" font-weight="700" letter-spacing="-8" fill="#f4efe4">EO</text>
+</svg>

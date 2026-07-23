@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-15WyGHRwY",
+  "gptId": "g-15WyGHRwY",
+  "slug": "how-to-be-like-alan-watts",
+  "name": "How To Be Like Alan Watts",
+  "description": "Talk to Alan in his own words from his most popular books and speeches to better understand how to BE like Alan.",
+  "imported": {
+    "name": "How To Be Like Alan Watts",
+    "description": "Talk to Alan in his own words from his most popular books and speeches to better understand how to BE like Alan.",
+    "creatorDisplayName": "borrowsmartuniversity.com",
+    "creatorRaw": "By borrowsmartuniversity.com",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xqRwVByZ1Ozsh457gLWi0Tae&gizmo_id=g-15WyGHRwY&ts=495775&p=gpp&cid=1&sig=b2627a0bf489590b62f093ca5570489aa0976e4d264b75b8ede324a340777f1f&v=0",
+    "usersDisplay": "40+",
+    "usersLowerBound": 40,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "borrowsmartuniversity.com",
+    "raw": "By borrowsmartuniversity.com",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-15WyGHRwY",
+    "canonical": "https://chatgpt.com/g/g-15WyGHRwY-how-to-be-like-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:59.105Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-15WyGHRwY-how-to-be-like-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xqRwVByZ1Ozsh457gLWi0Tae&gizmo_id=g-15WyGHRwY&ts=495775&p=gpp&cid=1&sig=b2627a0bf489590b62f093ca5570489aa0976e4d264b75b8ede324a340777f1f&v=0",
+    "localPath": "/gpts/avatars/how-to-be-like-alan-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xqRwVByZ1Ozsh457gLWi0Tae&gizmo_id=g-15WyGHRwY&ts=495781&p=gpp&cid=1&sig=89f2c7bd820ff7b1bb610ced8ff090a6adb348e1f96e534d7278e139e54a86f2&v=0"
+  },
+  "usage": {
+    "display": "40+",
+    "lowerBound": 40,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "40+",
+        "lowerBound": 40,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 25,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-15WyGHRwY",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - How To Be Like Alan Watts",
+    "description": "Talk to Alan in his own words from his most popular books and speeches to better understand how to BE like Alan.",
+    "canonicalUrl": "https://chatgpt.com/g/g-15WyGHRwY-how-to-be-like-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xqRwVByZ1Ozsh457gLWi0Tae&gizmo_id=g-15WyGHRwY&ts=495781&p=gpp&cid=1&sig=89f2c7bd820ff7b1bb610ced8ff090a6adb348e1f96e534d7278e139e54a86f2&v=0",
+    "capturedAt": "2026-07-23T13:33:42.004Z"
+  }
+}

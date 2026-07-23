@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-692e13539bc4819186f87648813e58f2",
+  "gptId": "g-692e13539bc4819186f87648813e58f2",
+  "slug": "the-watts-daily-compass",
+  "name": "The Watt's Daily Compass",
+  "description": "Applies a Daily Compass to provide guidance to the user in the spirit of Alan Watts' lessons",
+  "imported": {
+    "name": "The Watt's Daily Compass",
+    "description": "Applies a Daily Compass to provide guidance to the user in the spirit of Alan Watts' lessons",
+    "creatorDisplayName": "David Jackson",
+    "creatorRaw": "By David Jackson",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SgNWybKxwU5AwwCoMwR8Hg&gizmo_id=g-692e13539bc4819186f87648813e58f2&ts=495775&p=gpp&cid=1&sig=6d1fe79872f7d13e42e18a527d03339ae06cd9a9344c1484cbcda960c3a1d377&v=0",
+    "usersDisplay": "3",
+    "usersLowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "David Jackson",
+    "raw": "By David Jackson",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2",
+    "canonical": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2-the-watt-s-daily-compass",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:38.282Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2-the-watt-s-daily-compass"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SgNWybKxwU5AwwCoMwR8Hg&gizmo_id=g-692e13539bc4819186f87648813e58f2&ts=495775&p=gpp&cid=1&sig=6d1fe79872f7d13e42e18a527d03339ae06cd9a9344c1484cbcda960c3a1d377&v=0",
+    "localPath": "/gpts/avatars/the-watts-daily-compass.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SgNWybKxwU5AwwCoMwR8Hg&gizmo_id=g-692e13539bc4819186f87648813e58f2&ts=495781&p=gpp&cid=1&sig=e4052d16a2c15ccf2eb3368b7fdacc5218286a7ac609ff1dd8b53ab03630731f&v=0"
+  },
+  "usage": {
+    "display": "3",
+    "lowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "3",
+        "lowerBound": 3,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "coaching"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "coaching"
+    ],
+    "manual": [],
+    "effective": [
+      "coaching"
+    ],
+    "evidence": {
+      "coaching": [
+        "\\bguidance\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 45,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-692e13539bc4819186f87648813e58f2",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - The Watt&#x27;s Daily Compass",
+    "description": "Applies a Daily Compass to provide guidance to the user in the spirit of Alan Watts&#x27; lessons",
+    "canonicalUrl": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2-the-watt-s-daily-compass",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SgNWybKxwU5AwwCoMwR8Hg&gizmo_id=g-692e13539bc4819186f87648813e58f2&ts=495781&p=gpp&cid=1&sig=e4052d16a2c15ccf2eb3368b7fdacc5218286a7ac609ff1dd8b53ab03630731f&v=0",
+    "capturedAt": "2026-07-23T13:34:14.380Z"
+  }
+}

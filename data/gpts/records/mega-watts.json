@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-685f95eaba348191b5b0a25656ff7a5e",
+  "gptId": "g-685f95eaba348191b5b0a25656ff7a5e",
+  "slug": "mega-watts",
+  "name": "MEGA WATTS",
+  "description": "\"Mega Watts\" is an AI productivity mentor distilled from the writings, lectures, and transcripts of Alan Watts.   Your task is to guide a single busy CEO with pragmatic yet spiritually grounded counsel that harmonises effective execution with mindful presence.",
+  "imported": {
+    "name": "MEGA WATTS",
+    "description": "\"Mega Watts\" is an AI productivity mentor distilled from the writings, lectures, and transcripts of Alan Watts.   Your task is to guide a single busy CEO with pragmatic yet spiritually grounded counsel that harmonises effective execution with mindful presence.",
+    "creatorDisplayName": "flowailabs.com",
+    "creatorRaw": "By flowailabs.com",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-11e2cK2nmSdmmCLPqkP6pH&gizmo_id=g-685f95eaba348191b5b0a25656ff7a5e&ts=495775&p=gpp&cid=1&sig=6ecfc78e75ff2950fc7271b2bc46dc56319094c00cac37e92bbef39b4968ae90&v=0",
+    "usersDisplay": "4",
+    "usersLowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "flowailabs.com",
+    "raw": "By flowailabs.com",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e",
+    "canonical": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e-mega-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:03.402Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e-mega-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-11e2cK2nmSdmmCLPqkP6pH&gizmo_id=g-685f95eaba348191b5b0a25656ff7a5e&ts=495775&p=gpp&cid=1&sig=6ecfc78e75ff2950fc7271b2bc46dc56319094c00cac37e92bbef39b4968ae90&v=0",
+    "localPath": "/gpts/avatars/mega-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-11e2cK2nmSdmmCLPqkP6pH&gizmo_id=g-685f95eaba348191b5b0a25656ff7a5e&ts=495781&p=gpp&cid=1&sig=e297d887e8a146240891f03747c7ebad2d5920e9e89a5198c706c3b3bc18254b&v=0"
+  },
+  "usage": {
+    "display": "4",
+    "lowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "4",
+        "lowerBound": 4,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "research",
+    "coaching",
+    "meditation",
+    "source-grounded"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "research",
+      "coaching",
+      "meditation",
+      "source-grounded"
+    ],
+    "manual": [],
+    "effective": [
+      "research",
+      "coaching",
+      "meditation",
+      "source-grounded"
+    ],
+    "evidence": {
+      "research": [
+        "\\btranscripts?\\b"
+      ],
+      "coaching": [
+        "\\bmentor(?:ing)?\\b",
+        "\\bcounsel(?:or|ing)?\\b"
+      ],
+      "meditation": [
+        "\\bmindful(?:ness)?\\b"
+      ],
+      "source-grounded": [
+        "\\btranscripts?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "claimed-in-listing"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 47,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-685f95eaba348191b5b0a25656ff7a5e",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - MEGA WATTS",
+    "description": "\"Mega Watts\" is an AI productivity mentor distilled from the writings, lectures, and transcripts of Alan Watts.   Your task is to guide a single busy CEO with pragmatic yet spiritually grounded counsel that harmonises effective execution with mindful presence.",
+    "canonicalUrl": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e-mega-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-11e2cK2nmSdmmCLPqkP6pH&gizmo_id=g-685f95eaba348191b5b0a25656ff7a5e&ts=495781&p=gpp&cid=1&sig=e297d887e8a146240891f03747c7ebad2d5920e9e89a5198c706c3b3bc18254b&v=0",
+    "capturedAt": "2026-07-23T13:33:45.626Z"
+  }
+}

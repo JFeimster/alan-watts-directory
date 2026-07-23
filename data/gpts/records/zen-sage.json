@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-iZmXSMq11",
+  "gptId": "g-iZmXSMq11",
+  "slug": "zen-sage",
+  "name": "Zen Sage",
+  "description": "Zen mentor in Alan Watts' conversational style.",
+  "imported": {
+    "name": "Zen Sage",
+    "description": "Zen mentor in Alan Watts' conversational style.",
+    "creatorDisplayName": "Ben Thomas",
+    "creatorRaw": "By Ben Thomas",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-Uz7h3c7LEgK4mcL3HtirKTnZ&gizmo_id=g-iZmXSMq11&ts=495775&p=gpp&cid=1&sig=0ff9c5924d73125d96acb23368914f7cdb84d094c6e4a2339e833f36ec1a779a&v=0",
+    "usersDisplay": "3",
+    "usersLowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Ben Thomas",
+    "raw": "By Ben Thomas",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-iZmXSMq11",
+    "canonical": "https://chatgpt.com/g/g-iZmXSMq11-zen-sage",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:32:10.230Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-iZmXSMq11-zen-sage"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-Uz7h3c7LEgK4mcL3HtirKTnZ&gizmo_id=g-iZmXSMq11&ts=495775&p=gpp&cid=1&sig=0ff9c5924d73125d96acb23368914f7cdb84d094c6e4a2339e833f36ec1a779a&v=0",
+    "localPath": "/gpts/avatars/zen-sage.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-Uz7h3c7LEgK4mcL3HtirKTnZ&gizmo_id=g-iZmXSMq11&ts=495781&p=gpp&cid=1&sig=925e6d3b4081a9a560a936acd84a028ce1b97dddc1b184ce05dd6def8016f7ce&v=0"
+  },
+  "usage": {
+    "display": "3",
+    "lowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "3",
+        "lowerBound": 3,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "coaching",
+    "comparative-philosophy"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "coaching",
+      "comparative-philosophy"
+    ],
+    "manual": [],
+    "effective": [
+      "coaching",
+      "comparative-philosophy"
+    ],
+    "evidence": {
+      "coaching": [
+        "\\bmentor(?:ing)?\\b"
+      ],
+      "comparative-philosophy": [
+        "\\bzen\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 65,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-iZmXSMq11",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Zen Sage",
+    "description": "Zen mentor in Alan Watts&#x27; conversational style.",
+    "canonicalUrl": "https://chatgpt.com/g/g-iZmXSMq11-zen-sage",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-Uz7h3c7LEgK4mcL3HtirKTnZ&gizmo_id=g-iZmXSMq11&ts=495781&p=gpp&cid=1&sig=925e6d3b4081a9a560a936acd84a028ce1b97dddc1b184ce05dd6def8016f7ce&v=0",
+    "capturedAt": "2026-07-23T13:34:39.821Z"
+  }
+}

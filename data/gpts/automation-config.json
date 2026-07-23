@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "1.0",
+  "requestDelayMs": 1100,
+  "requestTimeoutMs": 18000,
+  "maxRecordsPerRun": null,
+  "preserveSnapshots": true,
+  "publishCandidateUrls": false,
+  "publishOnlyValidatedUrls": true,
+  "metadataFields": [
+    "title",
+    "description",
+    "canonicalUrl",
+    "imageUrl",
+    "conversationStarters"
+  ],
+  "availabilityStatuses": [
+    "available",
+    "unknown",
+    "unavailable",
+    "blocked-or-rate-limited",
+    "check-error"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "who-was-alan-watts",
+  "title": "Who Was Alan Watts?",
+  "description": "A source-conscious orientation to the speaker, writer, and interpreter behind the recordings.",
+  "status": "live",
+  "cta": "OPEN GUIDE",
+  "intro": "This guide is an editorial orientation layer. Historical claims, quotations, dates, and source relationships are added only when supported by repository records.",
+  "sections": [
+    {
+      "label": "PURPOSE",
+      "text": "A source-conscious orientation to the speaker, writer, and interpreter behind the recordings."
+    },
+    {
+      "label": "SOURCE STANDARD",
+      "text": "Records remain visibly incomplete until a source, provenance note, or review status is available."
+    },
+    {
+      "label": "NEXT STEP",
+      "text": "Use the linked directory hubs to compare available records and return when the index expands."
+    }
+  ],
+  "order": 1
+}

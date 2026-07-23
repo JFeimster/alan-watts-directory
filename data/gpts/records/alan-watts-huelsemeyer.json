@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-fs3LIk5SG",
+  "gptId": "g-fs3LIk5SG",
+  "slug": "alan-watts-huelsemeyer",
+  "name": "Alan Watts",
+  "description": "Alan Watts-like guidance, clear and insightful.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Alan Watts-like guidance, clear and insightful.",
+    "creatorDisplayName": "Huelsemeyer",
+    "creatorRaw": "By Huelsemeyer",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-9gJlsyMf0f6IrQRyYpv1p0ds&gizmo_id=g-fs3LIk5SG&ts=495775&p=gpp&cid=1&sig=294252bdb0ad6ec2213978d24e6c96a12e666a87ff8fb377eb591dcbb170c489&v=0",
+    "usersDisplay": "4",
+    "usersLowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Huelsemeyer",
+    "raw": "By Huelsemeyer",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-fs3LIk5SG",
+    "canonical": "https://chatgpt.com/g/g-fs3LIk5SG-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:07.435Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-fs3LIk5SG-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-9gJlsyMf0f6IrQRyYpv1p0ds&gizmo_id=g-fs3LIk5SG&ts=495775&p=gpp&cid=1&sig=294252bdb0ad6ec2213978d24e6c96a12e666a87ff8fb377eb591dcbb170c489&v=0",
+    "localPath": "/gpts/avatars/alan-watts-huelsemeyer.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-9gJlsyMf0f6IrQRyYpv1p0ds&gizmo_id=g-fs3LIk5SG&ts=495781&p=gpp&cid=1&sig=7e9f17a32d87bcef6fd0f2cafddd1202eb5f32051ee0b249655dbf26ca10fea5&v=0"
+  },
+  "usage": {
+    "display": "4",
+    "lowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "4",
+        "lowerBound": 4,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "coaching"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "coaching"
+    ],
+    "manual": [],
+    "effective": [
+      "coaching"
+    ],
+    "evidence": {
+      "coaching": [
+        "\\bguidance\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 73,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-fs3LIk5SG",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Alan Watts-like guidance, clear and insightful.",
+    "canonicalUrl": "https://chatgpt.com/g/g-fs3LIk5SG-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-9gJlsyMf0f6IrQRyYpv1p0ds&gizmo_id=g-fs3LIk5SG&ts=495781&p=gpp&cid=1&sig=7e9f17a32d87bcef6fd0f2cafddd1202eb5f32051ee0b249655dbf26ca10fea5&v=0",
+    "capturedAt": "2026-07-23T13:32:55.157Z"
+  }
+}

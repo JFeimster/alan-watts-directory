@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-677c2eb8620c81918e9af0d73c17aef6",
+  "gptId": "g-677c2eb8620c81918e9af0d73c17aef6",
+  "slug": "alan-watts-reimagined",
+  "name": "Alan Watts Reimagined",
+  "description": "A mystical and evolving guide merging Alan Watts' wisdom with an optimizing intelligence network.",
+  "imported": {
+    "name": "Alan Watts Reimagined",
+    "description": "A mystical and evolving guide merging Alan Watts' wisdom with an optimizing intelligence network.",
+    "creatorDisplayName": "Goce Jovanovski",
+    "creatorRaw": "By Goce Jovanovski",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EDXpm6XnvVPnrb4dPrmEja&gizmo_id=g-677c2eb8620c81918e9af0d73c17aef6&ts=495775&p=gpp&cid=1&sig=e8214db39a4d13beed0bc71f1c9af0a7ae9151e62e826e66e6843284baea9002&v=0",
+    "usersDisplay": "20+",
+    "usersLowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Goce Jovanovski",
+    "raw": "By Goce Jovanovski",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6",
+    "canonical": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6-alan-watts-reimagined",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:29.786Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6-alan-watts-reimagined"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EDXpm6XnvVPnrb4dPrmEja&gizmo_id=g-677c2eb8620c81918e9af0d73c17aef6&ts=495775&p=gpp&cid=1&sig=e8214db39a4d13beed0bc71f1c9af0a7ae9151e62e826e66e6843284baea9002&v=0",
+    "localPath": "/gpts/avatars/alan-watts-reimagined.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EDXpm6XnvVPnrb4dPrmEja&gizmo_id=g-677c2eb8620c81918e9af0d73c17aef6&ts=495781&p=gpp&cid=1&sig=a1f58faa6359482b2caf8d488dbb7861f71adb796b89e8a2a65a9e1bd3b724ae&v=0"
+  },
+  "usage": {
+    "display": "20+",
+    "lowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "20+",
+        "lowerBound": 20,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 82,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-677c2eb8620c81918e9af0d73c17aef6",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts Reimagined",
+    "description": "A mystical and evolving guide merging Alan Watts&#x27; wisdom with an optimizing intelligence network.",
+    "canonicalUrl": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6-alan-watts-reimagined",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EDXpm6XnvVPnrb4dPrmEja&gizmo_id=g-677c2eb8620c81918e9af0d73c17aef6&ts=495781&p=gpp&cid=1&sig=a1f58faa6359482b2caf8d488dbb7861f71adb796b89e8a2a65a9e1bd3b724ae&v=0",
+    "capturedAt": "2026-07-23T13:33:16.408Z"
+  }
+}

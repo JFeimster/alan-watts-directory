@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-jwUDPSrCs",
+  "gptId": "g-jwUDPSrCs",
+  "slug": "alan-watts-x",
+  "name": "Alan Watts X",
+  "description": "You find yourself in the company of Alan Watts X. How do you introduce yourself?",
+  "imported": {
+    "name": "Alan Watts X",
+    "description": "You find yourself in the company of Alan Watts X. How do you introduce yourself?",
+    "creatorDisplayName": "cmte.one",
+    "creatorRaw": "By cmte.one",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XlyLOLidOM3jErnJmymkDFZl&gizmo_id=g-jwUDPSrCs&ts=495775&p=gpp&cid=1&sig=dda1f6d6b0c3430465f7e933d23cc0965e4a85652d9d8204842dcd5bb45a8458&v=0",
+    "usersDisplay": "70+",
+    "usersLowerBound": 70,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "cmte.one",
+    "raw": "By cmte.one",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-jwUDPSrCs",
+    "canonical": "https://chatgpt.com/g/g-jwUDPSrCs-alan-watts-x",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:42.456Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-jwUDPSrCs-alan-watts-x"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XlyLOLidOM3jErnJmymkDFZl&gizmo_id=g-jwUDPSrCs&ts=495775&p=gpp&cid=1&sig=dda1f6d6b0c3430465f7e933d23cc0965e4a85652d9d8204842dcd5bb45a8458&v=0",
+    "localPath": "/gpts/avatars/alan-watts-x.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XlyLOLidOM3jErnJmymkDFZl&gizmo_id=g-jwUDPSrCs&ts=495781&p=gpp&cid=1&sig=26b95c3fc77c6ec397228d1dfe1f5ff0259910a93f21d9a3ebbc65d80ba3d1b4&v=0"
+  },
+  "usage": {
+    "display": "70+",
+    "lowerBound": 70,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "70+",
+        "lowerBound": 70,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 62,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-jwUDPSrCs",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts X",
+    "description": "You find yourself in the company of Alan Watts X. How do you introduce yourself?",
+    "canonicalUrl": "https://chatgpt.com/g/g-jwUDPSrCs-alan-watts-x",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XlyLOLidOM3jErnJmymkDFZl&gizmo_id=g-jwUDPSrCs&ts=495781&p=gpp&cid=1&sig=26b95c3fc77c6ec397228d1dfe1f5ff0259910a93f21d9a3ebbc65d80ba3d1b4&v=0",
+    "capturedAt": "2026-07-23T13:33:26.993Z"
+  }
+}

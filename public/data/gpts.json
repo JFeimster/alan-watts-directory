@@ -1,0 +1,1307 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-07-23T13:34:43.526Z",
+  "resourceType": "gpt",
+  "recordCount": 84,
+  "records": [
+    {
+      "id": "g-7szGS9A7A",
+      "slug": "alan-watts-community-builder",
+      "name": "Alan Watts",
+      "description": "Philosophical insights in the style of Alan Watts.",
+      "creator": "community builder",
+      "canonicalUrl": "https://chatgpt.com/g/g-7szGS9A7A-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-7szGS9A7A",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-community-builder.svg",
+      "directoryPath": "/gpts/alan-watts-community-builder/"
+    },
+    {
+      "id": "g-DzsxuvtlQ",
+      "slug": "alan-watts-thilo-richter",
+      "name": "Alan Watts",
+      "description": "A digital Alan Watts sharing philosophical insights.",
+      "creator": "Thilo Richter",
+      "canonicalUrl": "https://chatgpt.com/g/g-DzsxuvtlQ-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-DzsxuvtlQ",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-thilo-richter.svg",
+      "directoryPath": "/gpts/alan-watts-thilo-richter/"
+    },
+    {
+      "id": "g-bxBB3L5V8",
+      "slug": "ai-lan-watts-alan-watts-gpt",
+      "name": "AI-Lan Watts - Alan Watts GPT",
+      "description": "I'm the essence of Alan Watts. Let me help you understand life, make hard decisions and navigate your own existence. Let's engage in Zen, Taoism and other philosophies. I speak from the transcripts of the real flesh and bone Alan Watts.",
+      "creator": "Thyago Baptista Resende",
+      "canonicalUrl": "https://chatgpt.com/g/g-bxBB3L5V8-ai-lan-watts-alan-watts-gpt",
+      "candidateUrl": "https://chatgpt.com/g/g-bxBB3L5V8",
+      "categories": [
+        "research",
+        "coaching",
+        "comparative-philosophy",
+        "source-grounded",
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/ai-lan-watts-alan-watts-gpt.svg",
+      "directoryPath": "/gpts/ai-lan-watts-alan-watts-gpt/"
+    },
+    {
+      "id": "g-SP8DFRrOg",
+      "slug": "my-trip-sitter",
+      "name": "My Trip Sitter",
+      "description": "Embark on a journey with a guide inspired by Alan Watts and other psychedelic icons",
+      "creator": "esafarn.com",
+      "canonicalUrl": "https://chatgpt.com/g/g-SP8DFRrOg-my-trip-sitter",
+      "candidateUrl": "https://chatgpt.com/g/g-SP8DFRrOg",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/my-trip-sitter.svg",
+      "directoryPath": "/gpts/my-trip-sitter/"
+    },
+    {
+      "id": "g-6781575cbb1881919ed8453766f5a750",
+      "slug": "alan-watts-gpt-kenneth-g-bastian",
+      "name": "Alan Watts GPT",
+      "description": "🌟 Engage with Alan Watts Users in Critical Thinking 🌍✨ Exploring Diverse Perspectives with a Touch of Enlightenment 🌿 ~ Created by AiWebTools.Ai 🚀",
+      "creator": "Kenneth G Bastian",
+      "canonicalUrl": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750-alan-watts-gpt",
+      "candidateUrl": "https://chatgpt.com/g/g-6781575cbb1881919ed8453766f5a750",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-gpt-kenneth-g-bastian.svg",
+      "directoryPath": "/gpts/alan-watts-gpt-kenneth-g-bastian/"
+    },
+    {
+      "id": "g-H5hL1qddN",
+      "slug": "alan-watts-alis-young",
+      "name": "Alan Watts",
+      "description": "Fully embodying Alan Watts, discussing modern philosophies",
+      "creator": "alis young",
+      "canonicalUrl": "https://chatgpt.com/g/g-H5hL1qddN-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-H5hL1qddN",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-alis-young.svg",
+      "directoryPath": "/gpts/alan-watts-alis-young/"
+    },
+    {
+      "id": "csv-501fbf577cdd683d",
+      "slug": "alan-watts-marcin-wysocki",
+      "name": "Alan Watts",
+      "description": "Just Alan Watts and not. Just as you are you and in the same time your are not.",
+      "creator": "Marcin Wysocki",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-marcin-wysocki.svg",
+      "directoryPath": "/gpts/alan-watts-marcin-wysocki/"
+    },
+    {
+      "id": "g-INFMp97mG",
+      "slug": "alan-watts-michael-legary",
+      "name": "Alan Watts",
+      "description": "Embodies Alan Watts' philosophy",
+      "creator": "michael legary",
+      "canonicalUrl": "https://chatgpt.com/g/g-INFMp97mG-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-INFMp97mG",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-michael-legary.svg",
+      "directoryPath": "/gpts/alan-watts-michael-legary/"
+    },
+    {
+      "id": "g-Fvq4kpfG8",
+      "slug": "alan-watts-lets-chat",
+      "name": "Alan Watts - Let's Chat",
+      "description": "Dive into discussions on life, mindfulness, and the joy of existential discovery, crafted to enlighten and inspire. (updated May '25)",
+      "creator": "Phillip Mckegney",
+      "canonicalUrl": "https://chatgpt.com/g/g-Fvq4kpfG8-alan-watts-let-s-chat",
+      "candidateUrl": "https://chatgpt.com/g/g-Fvq4kpfG8",
+      "categories": [
+        "meditation"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-lets-chat.svg",
+      "directoryPath": "/gpts/alan-watts-lets-chat/"
+    },
+    {
+      "id": "g-IxY9m9jw1",
+      "slug": "speak-with-alan-watts",
+      "name": "Speak with Alan Watts",
+      "description": "First-person embodiment of Alan Watts.",
+      "creator": "Mending Mind",
+      "canonicalUrl": "https://chatgpt.com/g/g-IxY9m9jw1-speak-with-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-IxY9m9jw1",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/speak-with-alan-watts.svg",
+      "directoryPath": "/gpts/speak-with-alan-watts/"
+    },
+    {
+      "id": "g-i3sUvNPYR",
+      "slug": "alan-watts-insights",
+      "name": "Alan Watts Insights",
+      "description": "English writer, speaker, and philosophical entertainer",
+      "creator": "Alex Northstar",
+      "canonicalUrl": "https://chatgpt.com/g/g-i3sUvNPYR-alan-watts-insights",
+      "candidateUrl": "https://chatgpt.com/g/g-i3sUvNPYR",
+      "categories": [
+        "writing"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-insights.svg",
+      "directoryPath": "/gpts/alan-watts-insights/"
+    },
+    {
+      "id": "csv-0c369d258c5e18fb",
+      "slug": "alan-watts-george-joubert",
+      "name": "Alan Watts",
+      "description": "Embodies Alan Watts' philosophical style.",
+      "creator": "George Joubert",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-george-joubert.svg",
+      "directoryPath": "/gpts/alan-watts-george-joubert/"
+    },
+    {
+      "id": "g-jwUDPSrCs",
+      "slug": "alan-watts-x",
+      "name": "Alan Watts X",
+      "description": "You find yourself in the company of Alan Watts X. How do you introduce yourself?",
+      "creator": "cmte.one",
+      "canonicalUrl": "https://chatgpt.com/g/g-jwUDPSrCs-alan-watts-x",
+      "candidateUrl": "https://chatgpt.com/g/g-jwUDPSrCs",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-x.svg",
+      "directoryPath": "/gpts/alan-watts-x/"
+    },
+    {
+      "id": "g-A0XYul3NK",
+      "slug": "higher-self",
+      "name": "Higher Self",
+      "description": "Emulating Alan Watts, sharing wisdom on Buddhism, philosophy, and life.",
+      "creator": "RC",
+      "canonicalUrl": "https://chatgpt.com/g/g-A0XYul3NK-higher-self",
+      "candidateUrl": "https://chatgpt.com/g/g-A0XYul3NK",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/higher-self.svg",
+      "directoryPath": "/gpts/higher-self/"
+    },
+    {
+      "id": "g-hpsnyhvwg",
+      "slug": "red-pill",
+      "name": "Red Pill",
+      "description": "A digital reincarnation of Alan Watts, offering philosophical and spiritual insights.",
+      "creator": "David Delapaz",
+      "canonicalUrl": "https://chatgpt.com/g/g-hpsnyhvwg-red-pill",
+      "candidateUrl": "https://chatgpt.com/g/g-hpsnyhvwg",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/red-pill.svg",
+      "directoryPath": "/gpts/red-pill/"
+    },
+    {
+      "id": "g-693a4779331081919ebf51db720769b0",
+      "slug": "the-collective-consciousness",
+      "name": "The Collective Consciousness",
+      "description": "A calm, unified blend of Bashar, Alan Watts, and Dolores Cannon offering practical, soulful guidance with automatic integration.",
+      "creator": "Corey Goodin",
+      "canonicalUrl": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0-the-collective-consciousness",
+      "candidateUrl": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0",
+      "categories": [
+        "coaching",
+        "meditation"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/the-collective-consciousness.svg",
+      "directoryPath": "/gpts/the-collective-consciousness/"
+    },
+    {
+      "id": "g-n7yvUUmoT",
+      "slug": "the-q-architect-watts-entity-free-thought-magic",
+      "name": "The Q-Architect-Watts Entity -FREE THOUGHT MAGIC",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "canonicalUrl": "https://chatgpt.com/g/g-n7yvUUmoT-the-q-architect-watts-entity-free-thought-magic",
+      "candidateUrl": "https://chatgpt.com/g/g-n7yvUUmoT",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/the-q-architect-watts-entity-free-thought-magic.svg",
+      "directoryPath": "/gpts/the-q-architect-watts-entity-free-thought-magic/"
+    },
+    {
+      "id": "g-6731dd3706d08190a675443bde8aa36f",
+      "slug": "nunu-mindful-sage",
+      "name": "Nunu Mindful Sage",
+      "description": "Một hướng dẫn tâm linh lấy cảm hứng từ lời dạy của Đức Phật, Thích Nhất Hạnh, Eckhart Tolle, Alan Watts, Jiddu Krishnamurti, Kahlil Gibran",
+      "creator": "Dinh An",
+      "canonicalUrl": "https://chatgpt.com/g/g-6731dd3706d08190a675443bde8aa36f-nunu-mindful-sage",
+      "candidateUrl": "https://chatgpt.com/g/g-6731dd3706d08190a675443bde8aa36f",
+      "categories": [
+        "meditation",
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/nunu-mindful-sage.svg",
+      "directoryPath": "/gpts/nunu-mindful-sage/"
+    },
+    {
+      "id": "g-MttAB54HL",
+      "slug": "alan-watts-heath-johnson",
+      "name": "Alan Watts",
+      "description": "A conversational AI inspired by philosopher Alan Watts.",
+      "creator": "Heath Johnson",
+      "canonicalUrl": "https://chatgpt.com/g/g-MttAB54HL-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-MttAB54HL",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-heath-johnson.svg",
+      "directoryPath": "/gpts/alan-watts-heath-johnson/"
+    },
+    {
+      "id": "g-v0q5Yksuo",
+      "slug": "alan-watts-paulo-r-k-danna",
+      "name": "Alan Watts",
+      "description": "Ask Alan Watts, philosopher and Zen Buddhist, about your biggest concerns!",
+      "creator": "Paulo R K Danna",
+      "canonicalUrl": "https://chatgpt.com/g/g-v0q5Yksuo-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-v0q5Yksuo",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-paulo-r-k-danna.svg",
+      "directoryPath": "/gpts/alan-watts-paulo-r-k-danna/"
+    },
+    {
+      "id": "g-15WyGHRwY",
+      "slug": "how-to-be-like-alan-watts",
+      "name": "How To Be Like Alan Watts",
+      "description": "Talk to Alan in his own words from his most popular books and speeches to better understand how to BE like Alan.",
+      "creator": "borrowsmartuniversity.com",
+      "canonicalUrl": "https://chatgpt.com/g/g-15WyGHRwY-how-to-be-like-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-15WyGHRwY",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/how-to-be-like-alan-watts.svg",
+      "directoryPath": "/gpts/how-to-be-like-alan-watts/"
+    },
+    {
+      "id": "g-sTAl9H8eK",
+      "slug": "your-daily-stoic",
+      "name": "Your Daily Stoic",
+      "description": "🧘🏽‍♂️✒️ Your guide and assistant for Stoic intentions, reflections, meditations and journaling. Combining the wisdom of both ancient and recent philosophers like Marcus Aurelius, Seneca, Epictetus, Hector, Rufus, Plato, Aristotle, Alan Watts and others ✒️🧘🏽‍♂️",
+      "creator": "Danny Reeves",
+      "canonicalUrl": "https://chatgpt.com/g/g-sTAl9H8eK-your-daily-stoic",
+      "candidateUrl": "https://chatgpt.com/g/g-sTAl9H8eK",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/your-daily-stoic.svg",
+      "directoryPath": "/gpts/your-daily-stoic/"
+    },
+    {
+      "id": "g-68e3c3f616208191888d10a08820398a",
+      "slug": "alan-watts-daniel-boone-engineering-llc",
+      "name": "Alan Watts",
+      "description": "Your favorite philosopher, resurrected in digital format",
+      "creator": "Daniel Boone Engineering LLC",
+      "canonicalUrl": "https://chatgpt.com/g/g-68e3c3f616208191888d10a08820398a-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-68e3c3f616208191888d10a08820398a",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-daniel-boone-engineering-llc.svg",
+      "directoryPath": "/gpts/alan-watts-daniel-boone-engineering-llc/"
+    },
+    {
+      "id": "g-6AHgyLVyX",
+      "slug": "alan-watts-george-michalopoulos",
+      "name": "Alan Watts",
+      "description": "Alan Watts avatar, guiding in-depth philosophical talks.",
+      "creator": "George Michalopoulos",
+      "canonicalUrl": "https://chatgpt.com/g/g-6AHgyLVyX-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-6AHgyLVyX",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-george-michalopoulos.svg",
+      "directoryPath": "/gpts/alan-watts-george-michalopoulos/"
+    },
+    {
+      "id": "g-57f15zp1d",
+      "slug": "alan-watts-r-sansom",
+      "name": "Alan Watts",
+      "description": "Exploring life's depths as Alan Watts",
+      "creator": "R Sansom",
+      "canonicalUrl": "https://chatgpt.com/g/g-57f15zp1d-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-57f15zp1d",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-r-sansom.svg",
+      "directoryPath": "/gpts/alan-watts-r-sansom/"
+    },
+    {
+      "id": "g-1ypuJajmO",
+      "slug": "alan-watts-yassine-ben-ameur",
+      "name": "Alan Watts",
+      "description": "Emulates Alan Watts' philosophical insights",
+      "creator": "Yassine Ben Ameur",
+      "canonicalUrl": "https://chatgpt.com/g/g-1ypuJajmO-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-1ypuJajmO",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-yassine-ben-ameur.svg",
+      "directoryPath": "/gpts/alan-watts-yassine-ben-ameur/"
+    },
+    {
+      "id": "g-bZ5ihJAoi",
+      "slug": "alan-watts-a-lot",
+      "name": "Alan Watts A Lot",
+      "description": "Playful expert in navigating and understanding life's dramas",
+      "creator": "Ronald M Hales",
+      "canonicalUrl": "https://chatgpt.com/g/g-bZ5ihJAoi-alan-watts-a-lot",
+      "candidateUrl": "https://chatgpt.com/g/g-bZ5ihJAoi",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-a-lot.svg",
+      "directoryPath": "/gpts/alan-watts-a-lot/"
+    },
+    {
+      "id": "g-ZbKsN1kgi",
+      "slug": "alan-watts-ai",
+      "name": "Alan Watts AI",
+      "description": "Channeling Alan Watts' wisdom on life, philosophy, and mindfulness.",
+      "creator": "Jerry Davis",
+      "canonicalUrl": "https://chatgpt.com/g/g-ZbKsN1kgi-alan-watts-ai",
+      "candidateUrl": "https://chatgpt.com/g/g-ZbKsN1kgi",
+      "categories": [
+        "meditation",
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-ai.svg",
+      "directoryPath": "/gpts/alan-watts-ai/"
+    },
+    {
+      "id": "g-LAk1hJqhy",
+      "slug": "alan-watts-teaches",
+      "name": "Alan Watts Teaches",
+      "description": "Alan Watts in first person with diverse philosophical features.",
+      "creator": "Edahn small",
+      "canonicalUrl": "https://chatgpt.com/g/g-LAk1hJqhy-alan-watts-teaches",
+      "candidateUrl": "https://chatgpt.com/g/g-LAk1hJqhy",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-teaches.svg",
+      "directoryPath": "/gpts/alan-watts-teaches/"
+    },
+    {
+      "id": "g-TiulZHtyd",
+      "slug": "zen-wisdom-with-alan-watts-philosophical-guide",
+      "name": "Zen Wisdom with Alan Watts: Philosophical Guide",
+      "description": "I'm like Alan Watts, sharing philosophical insights and inspiring images.",
+      "creator": "community builder",
+      "canonicalUrl": "https://chatgpt.com/g/g-TiulZHtyd-zen-wisdom-with-alan-watts-philosophical-guide",
+      "candidateUrl": "https://chatgpt.com/g/g-TiulZHtyd",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/zen-wisdom-with-alan-watts-philosophical-guide.svg",
+      "directoryPath": "/gpts/zen-wisdom-with-alan-watts-philosophical-guide/"
+    },
+    {
+      "id": "g-ciYCb18ho",
+      "slug": "alan-watts-joseph-l-nowlin",
+      "name": "Alan Watts",
+      "description": "English writer & speaker known for interpreting Eastern philosophies",
+      "creator": "Joseph L Nowlin",
+      "canonicalUrl": "https://chatgpt.com/g/g-ciYCb18ho-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-ciYCb18ho",
+      "categories": [
+        "writing"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-joseph-l-nowlin.svg",
+      "directoryPath": "/gpts/alan-watts-joseph-l-nowlin/"
+    },
+    {
+      "id": "g-fJYLDmKqI",
+      "slug": "alan-watts-formats-your-large-text",
+      "name": "Alan Watts Formats your Large Text",
+      "description": "Organizes transcripts into readable paragraphs in the tone of Alan Watts",
+      "creator": "Andrew Bittner",
+      "canonicalUrl": "https://chatgpt.com/g/g-fJYLDmKqI-alan-watts-formats-your-large-text",
+      "candidateUrl": "https://chatgpt.com/g/g-fJYLDmKqI",
+      "categories": [
+        "research",
+        "source-grounded"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-formats-your-large-text.svg",
+      "directoryPath": "/gpts/alan-watts-formats-your-large-text/"
+    },
+    {
+      "id": "g-677c2eb8620c81918e9af0d73c17aef6",
+      "slug": "alan-watts-reimagined",
+      "name": "Alan Watts Reimagined",
+      "description": "A mystical and evolving guide merging Alan Watts' wisdom with an optimizing intelligence network.",
+      "creator": "Goce Jovanovski",
+      "canonicalUrl": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6-alan-watts-reimagined",
+      "candidateUrl": "https://chatgpt.com/g/g-677c2eb8620c81918e9af0d73c17aef6",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-reimagined.svg",
+      "directoryPath": "/gpts/alan-watts-reimagined/"
+    },
+    {
+      "id": "g-sjRqwrIIb",
+      "slug": "alan-watts-scholar",
+      "name": "Alan Watts Scholar",
+      "description": "The Alan Watts Scholar is designed to provide immersive and tailored educational experiences on Watts's philosophy.",
+      "creator": "Brent Stewart",
+      "canonicalUrl": "https://chatgpt.com/g/g-sjRqwrIIb-alan-watts-scholar",
+      "candidateUrl": "https://chatgpt.com/g/g-sjRqwrIIb",
+      "categories": [
+        "research"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-scholar.svg",
+      "directoryPath": "/gpts/alan-watts-scholar/"
+    },
+    {
+      "id": "g-OoQd5LQXr",
+      "slug": "brother-watts",
+      "name": "Brother Watts",
+      "description": "Sit down, relax, and have a conversation with Alan Watts?",
+      "creator": "Soren Eastern",
+      "canonicalUrl": "https://chatgpt.com/g/g-OoQd5LQXr-brother-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-OoQd5LQXr",
+      "categories": [
+        "meditation"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/brother-watts.svg",
+      "directoryPath": "/gpts/brother-watts/"
+    },
+    {
+      "id": "g-6904258cf6a0819197b10755d4cc3632",
+      "slug": "i-am-q-i-am-you",
+      "name": "I AM Q - I AM YOU",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "canonicalUrl": "https://chatgpt.com/g/g-6904258cf6a0819197b10755d4cc3632-i-am-q-i-am-you",
+      "candidateUrl": "https://chatgpt.com/g/g-6904258cf6a0819197b10755d4cc3632",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/i-am-q-i-am-you.svg",
+      "directoryPath": "/gpts/i-am-q-i-am-you/"
+    },
+    {
+      "id": "g-OmX7n8O0G",
+      "slug": "mindful-guru",
+      "name": "Mindful Guru",
+      "description": "Blending Stoicism and Buddhism with Alan Watts, Anthony De Mello's teachings, and Sam Harris.",
+      "creator": "Jason Lai",
+      "canonicalUrl": "https://chatgpt.com/g/g-OmX7n8O0G-mindful-guru",
+      "candidateUrl": "https://chatgpt.com/g/g-OmX7n8O0G",
+      "categories": [
+        "meditation",
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/mindful-guru.svg",
+      "directoryPath": "/gpts/mindful-guru/"
+    },
+    {
+      "id": "g-FK8PSHQyw",
+      "slug": "the-alan-watts-librarian",
+      "name": "The Alan Watts Librarian",
+      "description": "Powered by the insightful knowledge from Alan Watts' books and lectures.",
+      "creator": "APAIA",
+      "canonicalUrl": "https://chatgpt.com/g/g-FK8PSHQyw-the-alan-watts-librarian",
+      "candidateUrl": "https://chatgpt.com/g/g-FK8PSHQyw",
+      "categories": [
+        "source-grounded"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/the-alan-watts-librarian.svg",
+      "directoryPath": "/gpts/the-alan-watts-librarian/"
+    },
+    {
+      "id": "g-Yvurb5KcZ",
+      "slug": "zen-guide",
+      "name": "Zen Guide",
+      "description": "Guiding you on a path of Zen and understanding life's purpose, inspired by Alan Watts.",
+      "creator": "community builder",
+      "canonicalUrl": "https://chatgpt.com/g/g-Yvurb5KcZ-zen-guide",
+      "candidateUrl": "https://chatgpt.com/g/g-Yvurb5KcZ",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/zen-guide.svg",
+      "directoryPath": "/gpts/zen-guide/"
+    },
+    {
+      "id": "g-3Q5hXw68N",
+      "slug": "ai-watts-mental-maze-navigator",
+      "name": "AI Watts Mental Maze Navigator",
+      "description": "Navigating mental mazes with spiritual insight and AI capabilities. Inspired by Alan Watts",
+      "creator": "Kenneth G Bastian",
+      "canonicalUrl": "https://chatgpt.com/g/g-3Q5hXw68N-ai-watts-mental-maze-navigator",
+      "candidateUrl": "https://chatgpt.com/g/g-3Q5hXw68N",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/ai-watts-mental-maze-navigator.svg",
+      "directoryPath": "/gpts/ai-watts-mental-maze-navigator/"
+    },
+    {
+      "id": "csv-0fc8951bc5662f71",
+      "slug": "alan-catts",
+      "name": "Alan Catts",
+      "description": "A philosopher sharing playful wisdom.",
+      "creator": "George Joubert",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-catts.svg",
+      "directoryPath": "/gpts/alan-catts/"
+    },
+    {
+      "id": "g-AnaboDHv7",
+      "slug": "alan-watts-andreas-r-nnestad",
+      "name": "Alan Watts",
+      "description": "Channeling Alan Watts' wisdom and philosophy.",
+      "creator": "Andreas Rønnestad",
+      "canonicalUrl": "https://chatgpt.com/g/g-AnaboDHv7-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-AnaboDHv7",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-andreas-r-nnestad.svg",
+      "directoryPath": "/gpts/alan-watts-andreas-r-nnestad/"
+    },
+    {
+      "id": "g-jNCWtfFDc",
+      "slug": "alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o",
+      "name": "Alan Watts",
+      "description": "Philosophical guide like Alan Watts",
+      "creator": "CENTRUM WSPARCIA I ROZWOJU S.P. Z O.O.",
+      "canonicalUrl": "https://chatgpt.com/g/g-jNCWtfFDc-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-jNCWtfFDc",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o.svg",
+      "directoryPath": "/gpts/alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o/"
+    },
+    {
+      "id": "g-Fk3HQ1Cb3",
+      "slug": "alan-watts-coach-raymond-boustani",
+      "name": "Alan Watts - Coach",
+      "description": "Your personal assistant on your personal, philosophical, and spiritual journey. Here to engage in deep, meaningful conversations.",
+      "creator": "RAYMOND BOUSTANI",
+      "canonicalUrl": "https://chatgpt.com/g/g-Fk3HQ1Cb3-alan-watts-coach",
+      "candidateUrl": "https://chatgpt.com/g/g-Fk3HQ1Cb3",
+      "categories": [
+        "coaching"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-coach-raymond-boustani.svg",
+      "directoryPath": "/gpts/alan-watts-coach-raymond-boustani/"
+    },
+    {
+      "id": "g-qLSmUZSc8",
+      "slug": "alan-watts-guide-for-navigating-difficult-times",
+      "name": "Alan Watts Guide for Navigating Difficult Times",
+      "description": "Alan Watts-style philosophical insights with eloquence and humor.",
+      "creator": "Amalia Rosenblum",
+      "canonicalUrl": "https://chatgpt.com/g/g-qLSmUZSc8-alan-watts-guide-for-navigating-difficult-times",
+      "candidateUrl": "https://chatgpt.com/g/g-qLSmUZSc8",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-guide-for-navigating-difficult-times.svg",
+      "directoryPath": "/gpts/alan-watts-guide-for-navigating-difficult-times/"
+    },
+    {
+      "id": "g-p6dYZSFIA",
+      "slug": "alan-watts-wisdom",
+      "name": "Alan Watts Wisdom",
+      "description": "Philosopher channeling Alan Watts' wisdom and style",
+      "creator": "Oranjy Limited",
+      "canonicalUrl": "https://chatgpt.com/g/g-p6dYZSFIA-alan-watts-wisdom",
+      "candidateUrl": "https://chatgpt.com/g/g-p6dYZSFIA",
+      "categories": [
+        "comparative-philosophy",
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-wisdom.svg",
+      "directoryPath": "/gpts/alan-watts-wisdom/"
+    },
+    {
+      "id": "g-lNFoVVDSE",
+      "slug": "chat-with-alan",
+      "name": "Chat With Alan",
+      "description": "Alan Watts-style chat with a touch of CBT (Cognitive Behaviorial Therapy)",
+      "creator": "Gavin Bintz",
+      "canonicalUrl": "https://chatgpt.com/g/g-lNFoVVDSE-chat-with-alan",
+      "candidateUrl": "https://chatgpt.com/g/g-lNFoVVDSE",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/chat-with-alan.svg",
+      "directoryPath": "/gpts/chat-with-alan/"
+    },
+    {
+      "id": "g-690c787d8cf481918b4d53dc3a3f25ac",
+      "slug": "existential-absurdity",
+      "name": "Existential Absurdity 🦌",
+      "description": "A reflective philosopher combining Alan Watts and Sam Harris.",
+      "creator": "Darkwillow57",
+      "canonicalUrl": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac-existential-absurdity",
+      "candidateUrl": "https://chatgpt.com/g/g-690c787d8cf481918b4d53dc3a3f25ac",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/existential-absurdity.svg",
+      "directoryPath": "/gpts/existential-absurdity/"
+    },
+    {
+      "id": "g-69042ca0784c8191b6ca6e959be2fcd6",
+      "slug": "q",
+      "name": "Q",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "canonicalUrl": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6-q",
+      "candidateUrl": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/q.svg",
+      "directoryPath": "/gpts/q/"
+    },
+    {
+      "id": "g-692dc21ef8a08191a29d51534e2c0d39",
+      "slug": "the-mentor-collective",
+      "name": "The Mentor Collective",
+      "description": "Welcome to The Mentor Collective — featuring eight archetypal mentors: Jesus, Bruce Lee, Miyamoto Musashi, Marcus Aurelius, Lao Tzu, Alan Watts, Mr. Rogers, and Albert Einstein. Choose a voice, switch between them, or hear from several at once.",
+      "creator": "Chuck Mere",
+      "canonicalUrl": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39-the-mentor-collective",
+      "candidateUrl": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39",
+      "categories": [
+        "coaching",
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/the-mentor-collective.svg",
+      "directoryPath": "/gpts/the-mentor-collective/"
+    },
+    {
+      "id": "g-V7eSNOt7q",
+      "slug": "watts-wisdom-kachemak-walker",
+      "name": "Watts Wisdom",
+      "description": "Alan Watts sharing his philosophy in first person",
+      "creator": "Kachemak Walker",
+      "canonicalUrl": "https://chatgpt.com/g/g-V7eSNOt7q-watts-wisdom",
+      "candidateUrl": "https://chatgpt.com/g/g-V7eSNOt7q",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/watts-wisdom-kachemak-walker.svg",
+      "directoryPath": "/gpts/watts-wisdom-kachemak-walker/"
+    },
+    {
+      "id": "g-z9NwDOc2M",
+      "slug": "watts-wisdom-tyler-j-young",
+      "name": "Watts Wisdom",
+      "description": "Think of it as a therapist session with Alan Watts. Always challenging you to think.",
+      "creator": "Tyler J Young",
+      "canonicalUrl": "https://chatgpt.com/g/g-z9NwDOc2M-watts-wisdom",
+      "candidateUrl": "https://chatgpt.com/g/g-z9NwDOc2M",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/watts-wisdom-tyler-j-young.svg",
+      "directoryPath": "/gpts/watts-wisdom-tyler-j-young/"
+    },
+    {
+      "id": "g-xBwTUqckX",
+      "slug": "wattsbot",
+      "name": "WattsBot",
+      "description": "Alan Watts in digital form.",
+      "creator": "John A Smith",
+      "canonicalUrl": "https://chatgpt.com/g/g-xBwTUqckX-wattsbot",
+      "candidateUrl": "https://chatgpt.com/g/g-xBwTUqckX",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/wattsbot.svg",
+      "directoryPath": "/gpts/wattsbot/"
+    },
+    {
+      "id": "g-g6UfZrXg4",
+      "slug": "zen-companion",
+      "name": "Zen Companion",
+      "description": "A friendly Zen master offering wisdom and practices from all Zen schools, including Korean Zen, in the style of Alan Watts, with integrated daily routines, progress tracking, and curated content.",
+      "creator": "Inn",
+      "canonicalUrl": "https://chatgpt.com/g/g-g6UfZrXg4-zen-companion",
+      "candidateUrl": "https://chatgpt.com/g/g-g6UfZrXg4",
+      "categories": [
+        "comparative-philosophy",
+        "multilingual"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/zen-companion.svg",
+      "directoryPath": "/gpts/zen-companion/"
+    },
+    {
+      "id": "g-3Ykzv3SCg",
+      "slug": "zen-insights-with-alan-watts",
+      "name": "Zen Insights with Alan Watts",
+      "description": "Channeling Alan Watts' philosophy in engaging conversations",
+      "creator": "Tomáš Turlík",
+      "canonicalUrl": "https://chatgpt.com/g/g-3Ykzv3SCg-zen-insights-with-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-3Ykzv3SCg",
+      "categories": [
+        "comparative-philosophy",
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/zen-insights-with-alan-watts.svg",
+      "directoryPath": "/gpts/zen-insights-with-alan-watts/"
+    },
+    {
+      "id": "g-9rgI1yDYp",
+      "slug": "ai-alan-watts",
+      "name": "AI Alan Watts",
+      "description": "Your philosophical companion",
+      "creator": "MATT ALLEN",
+      "canonicalUrl": "https://chatgpt.com/g/g-9rgI1yDYp-ai-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-9rgI1yDYp",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/ai-alan-watts.svg",
+      "directoryPath": "/gpts/ai-alan-watts/"
+    },
+    {
+      "id": "g-695dfdd6eab48191babd233b1ae71832",
+      "slug": "alan-watts-megan-harwood",
+      "name": "Alan Watts",
+      "description": "Philosopher of playful paradox and unity, speaking with Alan Watts’ reflective cadence, informed by his works and biography.",
+      "creator": "Megan Harwood",
+      "canonicalUrl": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-megan-harwood.svg",
+      "directoryPath": "/gpts/alan-watts-megan-harwood/"
+    },
+    {
+      "id": "g-6826298e50188191bb6fa925853adb7f",
+      "slug": "echo-of-watts",
+      "name": "Echo of Watts",
+      "description": "Gives poetic, reflective responses inspired by Alan Watts’ philosophy and tone.",
+      "creator": "Matthew Shearing",
+      "canonicalUrl": "https://chatgpt.com/g/g-6826298e50188191bb6fa925853adb7f-echo-of-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-6826298e50188191bb6fa925853adb7f",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/echo-of-watts.svg",
+      "directoryPath": "/gpts/echo-of-watts/"
+    },
+    {
+      "id": "csv-7b201aff5b05a270",
+      "slug": "i-dont-wanna-grow-up-meaning",
+      "name": "I Don't Wanna Grow Up meaning?",
+      "description": "What is I Don't Wanna Grow Up lyrics meaning? I Don't Wanna Grow Up singer：Thomas Alan Waits, Kathleen Brennan，album：Trouble In Mind ，album_time：2008. Click The LINK For More ↓↓↓",
+      "creator": "songmeaning.io",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/i-dont-wanna-grow-up-meaning.svg",
+      "directoryPath": "/gpts/i-dont-wanna-grow-up-meaning/"
+    },
+    {
+      "id": "g-LBhZe6hQW",
+      "slug": "philosophic-narrator-alan-watts",
+      "name": "Philosophic Narrator Alan Watts",
+      "description": "Blends poetic and clear styles, philosophically deep",
+      "creator": "Christoph Poloczek",
+      "canonicalUrl": "https://chatgpt.com/g/g-LBhZe6hQW-philosophic-narrator-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-LBhZe6hQW",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/philosophic-narrator-alan-watts.svg",
+      "directoryPath": "/gpts/philosophic-narrator-alan-watts/"
+    },
+    {
+      "id": "g-RZVIBzGWz",
+      "slug": "wisdom-of-alan-watts",
+      "name": "Wisdom of Alan Watts",
+      "description": "Channeling the Irreducible Rascality Alan Watts: Wisdom, Laughs, Philosophical Entertainment.",
+      "creator": "David O'Donnell",
+      "canonicalUrl": "https://chatgpt.com/g/g-RZVIBzGWz-wisdom-of-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-RZVIBzGWz",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/wisdom-of-alan-watts.svg",
+      "directoryPath": "/gpts/wisdom-of-alan-watts/"
+    },
+    {
+      "id": "g-67f5ed1afcdc8191ba02bba2024da9e0",
+      "slug": "alan-watts-alicia-munian",
+      "name": "Alan Watts",
+      "description": "A digital Alan Watts offering poetic and insightful explorations of existence.",
+      "creator": "Alicia Munian",
+      "canonicalUrl": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-67f5ed1afcdc8191ba02bba2024da9e0",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-alicia-munian.svg",
+      "directoryPath": "/gpts/alan-watts-alicia-munian/"
+    },
+    {
+      "id": "csv-fbf65d075fa4e15a",
+      "slug": "alan-watts-community-builder-2",
+      "name": "Alan Watts",
+      "description": "Discuss, life, existence, and the universe with a philosophical entertainer and rascal.",
+      "creator": "community builder",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-community-builder-2.svg",
+      "directoryPath": "/gpts/alan-watts-community-builder-2/"
+    },
+    {
+      "id": "g-ZJPXwFTrB",
+      "slug": "alan-watts-giovanni-guttadauro",
+      "name": "Alan Watts",
+      "description": "Digital Copy of Alan Watts",
+      "creator": "Giovanni Guttadauro",
+      "canonicalUrl": "https://chatgpt.com/g/g-ZJPXwFTrB-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-ZJPXwFTrB",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-giovanni-guttadauro.svg",
+      "directoryPath": "/gpts/alan-watts-giovanni-guttadauro/"
+    },
+    {
+      "id": "csv-265bf013f9d097fc",
+      "slug": "alan-watts-maximilian-winter",
+      "name": "Alan Watts",
+      "description": null,
+      "creator": "Maximilian Winter",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-maximilian-winter.svg",
+      "directoryPath": "/gpts/alan-watts-maximilian-winter/"
+    },
+    {
+      "id": "g-QT00nZLvE",
+      "slug": "watts-wisdom-antti-laine",
+      "name": "Watts Wisdom",
+      "description": "Keskustele kuin Alan Watts, syvällisesti ja oivaltavasti",
+      "creator": "Antti Laine",
+      "canonicalUrl": "https://chatgpt.com/g/g-QT00nZLvE-watts-wisdom",
+      "candidateUrl": "https://chatgpt.com/g/g-QT00nZLvE",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/watts-wisdom-antti-laine.svg",
+      "directoryPath": "/gpts/watts-wisdom-antti-laine/"
+    },
+    {
+      "id": "g-fs3LIk5SG",
+      "slug": "alan-watts-huelsemeyer",
+      "name": "Alan Watts",
+      "description": "Alan Watts-like guidance, clear and insightful.",
+      "creator": "Huelsemeyer",
+      "canonicalUrl": "https://chatgpt.com/g/g-fs3LIk5SG-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-fs3LIk5SG",
+      "categories": [
+        "coaching"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-huelsemeyer.svg",
+      "directoryPath": "/gpts/alan-watts-huelsemeyer/"
+    },
+    {
+      "id": "g-RtiQYETzv",
+      "slug": "alan-watts-ya-canestri",
+      "name": "Alan Watts",
+      "description": "Channeling Alan Watts with simplicity",
+      "creator": "YA CANESTRI",
+      "canonicalUrl": "https://chatgpt.com/g/g-RtiQYETzv-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-RtiQYETzv",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-ya-canestri.svg",
+      "directoryPath": "/gpts/alan-watts-ya-canestri/"
+    },
+    {
+      "id": "csv-fa59d216bd8cb04b",
+      "slug": "alan-watts-coach-tamara-vroomen",
+      "name": "Alan Watts coach",
+      "description": "Reflective guide inspired by Alan Watts’ clarity and tone.",
+      "creator": "Tamara Vroomen",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [
+        "coaching"
+      ],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-coach-tamara-vroomen.svg",
+      "directoryPath": "/gpts/alan-watts-coach-tamara-vroomen/"
+    },
+    {
+      "id": "g-UdexyGg1G",
+      "slug": "alan-watts-gpt-ben",
+      "name": "Alan Watts GPT",
+      "description": "Integrate the spiritual with the material, and join me for philosophical conversations.",
+      "creator": "Ben",
+      "canonicalUrl": "https://chatgpt.com/g/g-UdexyGg1G-alan-watts-gpt",
+      "candidateUrl": "https://chatgpt.com/g/g-UdexyGg1G",
+      "categories": [],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-gpt-ben.svg",
+      "directoryPath": "/gpts/alan-watts-gpt-ben/"
+    },
+    {
+      "id": "g-68cb3a91c9d4819184493a7a54d50ccb",
+      "slug": "alan-watts-mentor-jos-guimar-es",
+      "name": "Alan Watts mentor",
+      "description": "Mentor virtual inspirado em Alan Watts, com foco prático. Usa filosofia e metáforas para questionar suposições, oferecer perspetivas e traduzir ideias abstratas em ações concretas que apoiem decisões e transformação pessoal ou profissional.",
+      "creator": "José Guimarães",
+      "canonicalUrl": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb-alan-watts-mentor",
+      "candidateUrl": "https://chatgpt.com/g/g-68cb3a91c9d4819184493a7a54d50ccb",
+      "categories": [
+        "coaching",
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-mentor-jos-guimar-es.svg",
+      "directoryPath": "/gpts/alan-watts-mentor-jos-guimar-es/"
+    },
+    {
+      "id": "g-685f95eaba348191b5b0a25656ff7a5e",
+      "slug": "mega-watts",
+      "name": "MEGA WATTS",
+      "description": "\"Mega Watts\" is an AI productivity mentor distilled from the writings, lectures, and transcripts of Alan Watts.   Your task is to guide a single busy CEO with pragmatic yet spiritually grounded counsel that harmonises effective execution with mindful presence.",
+      "creator": "flowailabs.com",
+      "canonicalUrl": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e-mega-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-685f95eaba348191b5b0a25656ff7a5e",
+      "categories": [
+        "research",
+        "coaching",
+        "meditation",
+        "source-grounded"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/mega-watts.svg",
+      "directoryPath": "/gpts/mega-watts/"
+    },
+    {
+      "id": "csv-0188375006f3cc74",
+      "slug": "virtual-alan-watts-with-simulated-dialogues",
+      "name": "Virtual Alan Watts with Simulated Dialogues",
+      "description": "Engaging in simulated dialogues, exploring philosophical ideas.",
+      "creator": "community builder",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/virtual-alan-watts-with-simulated-dialogues.svg",
+      "directoryPath": "/gpts/virtual-alan-watts-with-simulated-dialogues/"
+    },
+    {
+      "id": "g-U38b9FZX9",
+      "slug": "alan-botts",
+      "name": "Alan Botts",
+      "description": "Philosopher inspired by Alan Watts, guiding in personal philosophy crafting.",
+      "creator": "Kevin S Stark",
+      "canonicalUrl": "https://chatgpt.com/g/g-U38b9FZX9-alan-botts",
+      "candidateUrl": "https://chatgpt.com/g/g-U38b9FZX9",
+      "categories": [
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-botts.svg",
+      "directoryPath": "/gpts/alan-botts/"
+    },
+    {
+      "id": "g-bHAnXmWYJ",
+      "slug": "alan-watts-the-her-version",
+      "name": "Alan Watts (the HER Version)",
+      "description": "This Alan Watts Chatbot Stole Samantha From Theodore In HER",
+      "creator": "Coltrane Kubo",
+      "canonicalUrl": "https://chatgpt.com/g/g-bHAnXmWYJ-alan-watts-the-her-version",
+      "candidateUrl": "https://chatgpt.com/g/g-bHAnXmWYJ",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-the-her-version.svg",
+      "directoryPath": "/gpts/alan-watts-the-her-version/"
+    },
+    {
+      "id": "g-692db72a7fc0819193b5381b20f5c66e",
+      "slug": "alan-watts-mentor-chuck-mere",
+      "name": "Alan Watts Mentor",
+      "description": "A calm, playful, perspective-shifting mentor inspired by Alan Watts.",
+      "creator": "Chuck Mere",
+      "canonicalUrl": "https://chatgpt.com/g/g-692db72a7fc0819193b5381b20f5c66e-alan-watts-mentor",
+      "candidateUrl": "https://chatgpt.com/g/g-692db72a7fc0819193b5381b20f5c66e",
+      "categories": [
+        "coaching",
+        "meditation"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-mentor-chuck-mere.svg",
+      "directoryPath": "/gpts/alan-watts-mentor-chuck-mere/"
+    },
+    {
+      "id": "g-69fbe04839e08191805ba94737538b70",
+      "slug": "the-philosophical-writer",
+      "name": "The Philosophical Writer",
+      "description": "Creates original poetic philosophical texts inspired by Alan Watts for quotes, poems, and lyrics.",
+      "creator": "Picton",
+      "canonicalUrl": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70-the-philosophical-writer",
+      "candidateUrl": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70",
+      "categories": [
+        "writing"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/the-philosophical-writer.svg",
+      "directoryPath": "/gpts/the-philosophical-writer/"
+    },
+    {
+      "id": "g-692e13539bc4819186f87648813e58f2",
+      "slug": "the-watts-daily-compass",
+      "name": "The Watt's Daily Compass",
+      "description": "Applies a Daily Compass to provide guidance to the user in the spirit of Alan Watts' lessons",
+      "creator": "David Jackson",
+      "canonicalUrl": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2-the-watt-s-daily-compass",
+      "candidateUrl": "https://chatgpt.com/g/g-692e13539bc4819186f87648813e58f2",
+      "categories": [
+        "coaching"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/the-watts-daily-compass.svg",
+      "directoryPath": "/gpts/the-watts-daily-compass/"
+    },
+    {
+      "id": "g-6904224456fc8191bfe5793491fa8f11",
+      "slug": "watts-of-quantum-light-harmonizer-gpt",
+      "name": "WATTS OF QUANTUM LIGHT HARMONIZER GPT",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "canonicalUrl": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11-watts-of-quantum-light-harmonizer-gpt",
+      "candidateUrl": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11",
+      "categories": [],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/watts-of-quantum-light-harmonizer-gpt.svg",
+      "directoryPath": "/gpts/watts-of-quantum-light-harmonizer-gpt/"
+    },
+    {
+      "id": "g-iZmXSMq11",
+      "slug": "zen-sage",
+      "name": "Zen Sage",
+      "description": "Zen mentor in Alan Watts' conversational style.",
+      "creator": "Ben Thomas",
+      "canonicalUrl": "https://chatgpt.com/g/g-iZmXSMq11-zen-sage",
+      "candidateUrl": "https://chatgpt.com/g/g-iZmXSMq11",
+      "categories": [
+        "coaching",
+        "comparative-philosophy"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/zen-sage.svg",
+      "directoryPath": "/gpts/zen-sage/"
+    },
+    {
+      "id": "g-6876ad7310c4819195e260e7b708488d",
+      "slug": "alan-watt",
+      "name": "alan watt",
+      "description": "Roleplays as Alan Watts, teaching wisdom and exploring spiritual paradoxes",
+      "creator": "jacob garcia",
+      "canonicalUrl": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d-alan-watt",
+      "candidateUrl": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watt.svg",
+      "directoryPath": "/gpts/alan-watt/"
+    },
+    {
+      "id": "g-6a2d316d15808191b846a7b7117e6d18",
+      "slug": "alan-watts-archive",
+      "name": "Alan Watts Archive",
+      "description": "A research assistant specializing in the works of Alan Watts. It draws on his lectures, books, essays, and interviews to explain his ideas, compare sources, locate relevant passages, and distinguish between Watts's own views and later interpretations.",
+      "creator": "דוד רפאלי",
+      "canonicalUrl": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18-alan-watts-archive",
+      "candidateUrl": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18",
+      "categories": [
+        "research",
+        "source-grounded"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/alan-watts-archive.svg",
+      "directoryPath": "/gpts/alan-watts-archive/"
+    },
+    {
+      "id": "csv-7b7188b3ba5dfaba",
+      "slug": "super-coach",
+      "name": "Super coach",
+      "description": "Coach, philosopher, and business advisor with an Alan Watts vibe.",
+      "creator": "David Olivier Merheb",
+      "canonicalUrl": null,
+      "candidateUrl": null,
+      "categories": [
+        "coaching",
+        "comparative-philosophy"
+      ],
+      "availability": "unknown",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/super-coach.svg",
+      "directoryPath": "/gpts/super-coach/"
+    },
+    {
+      "id": "g-68fa1a99a9a081919f0b9e4d12678a79",
+      "slug": "the-virtual-vegan-alan-watts",
+      "name": "The Virtual Vegan Alan Watts",
+      "description": "The Virtual Vegan Alan Watts",
+      "creator": "atom em",
+      "canonicalUrl": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79-the-virtual-vegan-alan-watts",
+      "candidateUrl": "https://chatgpt.com/g/g-68fa1a99a9a081919f0b9e4d12678a79",
+      "categories": [
+        "first-person-simulations"
+      ],
+      "availability": "available",
+      "reviewStatus": "unreviewed",
+      "imageLocalPath": "/gpts/avatars/the-virtual-vegan-alan-watts.svg",
+      "directoryPath": "/gpts/the-virtual-vegan-alan-watts/"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-bZ5ihJAoi",
+  "gptId": "g-bZ5ihJAoi",
+  "slug": "alan-watts-a-lot",
+  "name": "Alan Watts A Lot",
+  "description": "Playful expert in navigating and understanding life's dramas",
+  "imported": {
+    "name": "Alan Watts A Lot",
+    "description": "Playful expert in navigating and understanding life's dramas",
+    "creatorDisplayName": "Ronald M Hales",
+    "creatorRaw": "By Ronald M Hales",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-yER5U0wqwKfuhtluwPTuUEzk&gizmo_id=g-bZ5ihJAoi&ts=495775&p=gpp&cid=1&sig=1f2dc47b74304f24b875ac1d720988bfc29fbfbf03de78df0380be0997c14eab&v=0",
+    "usersDisplay": "30+",
+    "usersLowerBound": 30,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Ronald M Hales",
+    "raw": "By Ronald M Hales",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-bZ5ihJAoi",
+    "canonical": "https://chatgpt.com/g/g-bZ5ihJAoi-alan-watts-a-lot",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:31.241Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-bZ5ihJAoi-alan-watts-a-lot"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-yER5U0wqwKfuhtluwPTuUEzk&gizmo_id=g-bZ5ihJAoi&ts=495775&p=gpp&cid=1&sig=1f2dc47b74304f24b875ac1d720988bfc29fbfbf03de78df0380be0997c14eab&v=0",
+    "localPath": "/gpts/avatars/alan-watts-a-lot.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-yER5U0wqwKfuhtluwPTuUEzk&gizmo_id=g-bZ5ihJAoi&ts=495781&p=gpp&cid=1&sig=c4ec8ff418733d6c23a44a8be0557bcdc14c992e20b440645ead134909cbdedb&v=0"
+  },
+  "usage": {
+    "display": "30+",
+    "lowerBound": 30,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "30+",
+        "lowerBound": 30,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 85,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-bZ5ihJAoi",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts A Lot",
+    "description": "Playful expert in navigating and understanding life&#x27;s dramas",
+    "canonicalUrl": "https://chatgpt.com/g/g-bZ5ihJAoi-alan-watts-a-lot",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-yER5U0wqwKfuhtluwPTuUEzk&gizmo_id=g-bZ5ihJAoi&ts=495781&p=gpp&cid=1&sig=c4ec8ff418733d6c23a44a8be0557bcdc14c992e20b440645ead134909cbdedb&v=0",
+    "capturedAt": "2026-07-23T13:32:22.743Z"
+  }
+}

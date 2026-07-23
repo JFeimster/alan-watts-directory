@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-07-23T13:34:43.526Z",
+  "categories": [
+    {
+      "id": "comparative-philosophy",
+      "label": "Comparative Philosophy",
+      "count": 20
+    },
+    {
+      "id": "first-person-simulations",
+      "label": "First-Person Simulations",
+      "count": 18
+    },
+    {
+      "id": "coaching",
+      "label": "Coaching",
+      "count": 12
+    },
+    {
+      "id": "meditation",
+      "label": "Meditation",
+      "count": 8
+    },
+    {
+      "id": "research",
+      "label": "Research",
+      "count": 5
+    },
+    {
+      "id": "source-grounded",
+      "label": "Source-Grounded",
+      "count": 5
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "count": 3
+    },
+    {
+      "id": "multilingual",
+      "label": "Multilingual",
+      "count": 1
+    },
+    {
+      "id": "creator-verified",
+      "label": "Creator Verified",
+      "count": 0
+    }
+  ],
+  "unclassified": 33
+}

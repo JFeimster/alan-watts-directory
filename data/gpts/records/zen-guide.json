@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-Yvurb5KcZ",
+  "gptId": "g-Yvurb5KcZ",
+  "slug": "zen-guide",
+  "name": "Zen Guide",
+  "description": "Guiding you on a path of Zen and understanding life's purpose, inspired by Alan Watts.",
+  "imported": {
+    "name": "Zen Guide",
+    "description": "Guiding you on a path of Zen and understanding life's purpose, inspired by Alan Watts.",
+    "creatorDisplayName": "community builder",
+    "creatorRaw": "By community builder",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-UeQSaPKDv4qDLhjjvNZARmW5&gizmo_id=g-Yvurb5KcZ&ts=495775&p=gpp&cid=1&sig=eca17b35c2ad2daf8e7628ed60a4b20bd3363ca53717016e7baaf8ba88e5811f&v=0",
+    "usersDisplay": "20+",
+    "usersLowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "community builder",
+    "raw": "By community builder",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-Yvurb5KcZ",
+    "canonical": "https://chatgpt.com/g/g-Yvurb5KcZ-zen-guide",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:32:06.660Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-Yvurb5KcZ-zen-guide"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-UeQSaPKDv4qDLhjjvNZARmW5&gizmo_id=g-Yvurb5KcZ&ts=495775&p=gpp&cid=1&sig=eca17b35c2ad2daf8e7628ed60a4b20bd3363ca53717016e7baaf8ba88e5811f&v=0",
+    "localPath": "/gpts/avatars/zen-guide.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-UeQSaPKDv4qDLhjjvNZARmW5&gizmo_id=g-Yvurb5KcZ&ts=495781&p=gpp&cid=1&sig=2274843ec58d3589413ee03a2502260275257d110062a7b549e2f1672338e0fc&v=0"
+  },
+  "usage": {
+    "display": "20+",
+    "lowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "20+",
+        "lowerBound": 20,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bzen\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 44,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-Yvurb5KcZ",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Zen Guide",
+    "description": "Guiding you on a path of Zen and understanding life&#x27;s purpose, inspired by Alan Watts.",
+    "canonicalUrl": "https://chatgpt.com/g/g-Yvurb5KcZ-zen-guide",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-UeQSaPKDv4qDLhjjvNZARmW5&gizmo_id=g-Yvurb5KcZ&ts=495781&p=gpp&cid=1&sig=2274843ec58d3589413ee03a2502260275257d110062a7b549e2f1672338e0fc&v=0",
+    "capturedAt": "2026-07-23T13:34:35.451Z"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-z9NwDOc2M",
+  "gptId": "g-z9NwDOc2M",
+  "slug": "watts-wisdom-tyler-j-young",
+  "name": "Watts Wisdom",
+  "description": "Think of it as a therapist session with Alan Watts. Always challenging you to think.",
+  "imported": {
+    "name": "Watts Wisdom",
+    "description": "Think of it as a therapist session with Alan Watts. Always challenging you to think.",
+    "creatorDisplayName": "Tyler J Young",
+    "creatorRaw": "By Tyler J Young",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-zzWKdPePJx8SqbvNPL68OtPW&gizmo_id=g-z9NwDOc2M&ts=495775&p=gpp&cid=1&sig=4ffe18aac25d0c959e4cb4b1442564164b253447440ba93c3ea01c4b837b2824&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Tyler J Young",
+    "raw": "By Tyler J Young",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-z9NwDOc2M",
+    "canonical": "https://chatgpt.com/g/g-z9NwDOc2M-watts-wisdom",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:50.634Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-z9NwDOc2M-watts-wisdom"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-zzWKdPePJx8SqbvNPL68OtPW&gizmo_id=g-z9NwDOc2M&ts=495775&p=gpp&cid=1&sig=4ffe18aac25d0c959e4cb4b1442564164b253447440ba93c3ea01c4b837b2824&v=0",
+    "localPath": "/gpts/avatars/watts-wisdom-tyler-j-young.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-zzWKdPePJx8SqbvNPL68OtPW&gizmo_id=g-z9NwDOc2M&ts=495781&p=gpp&cid=1&sig=3e19f0e321754dd84c89bcb37df534c47ba690e7f63421810861981006d7b7da&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 38,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-z9NwDOc2M",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Watts Wisdom",
+    "description": "Think of it as a therapist session with Alan Watts. Always challenging you to think.",
+    "canonicalUrl": "https://chatgpt.com/g/g-z9NwDOc2M-watts-wisdom",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-zzWKdPePJx8SqbvNPL68OtPW&gizmo_id=g-z9NwDOc2M&ts=495781&p=gpp&cid=1&sig=3e19f0e321754dd84c89bcb37df534c47ba690e7f63421810861981006d7b7da&v=0",
+    "capturedAt": "2026-07-23T13:34:23.157Z"
+  }
+}

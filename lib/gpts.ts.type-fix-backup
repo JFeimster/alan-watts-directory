@@ -1,0 +1,139 @@
+import fs from "node:fs";
+import path from "node:path";
+
+export type GptIndexRecord = {
+  id: string;
+  gptId?: string | null;
+  slug: string;
+  name: string;
+  description?: string | null;
+  creator?: string;
+  candidateUrl?: string | null;
+  canonicalUrl?: string | null;
+  urlStatus?: string;
+  imageStatus?: string;
+  usersDisplay?: string;
+  usersLowerBound?: number | null;
+  categories?: string[];
+  reviewStatus?: string;
+  availability?: string;
+  creatorVerified?: boolean;
+};
+
+export type GptRecord = GptIndexRecord & {
+  creator?: string | {
+    displayName?: string;
+    profileUrl?: string | null;
+    website?: string | null;
+    verifiedByDirectory?: boolean;
+  };
+  url?: {
+    candidate?: string | null;
+    canonical?: string | null;
+    status?: string;
+    lastCheckedAt?: string | null;
+  };
+  image?: {
+    importedSourceUrl?: string | null;
+    localPath?: string | null;
+    status?: string;
+  };
+  usage?: {
+    display?: string;
+    lowerBound?: number | null;
+    capturedAt?: string;
+  };
+  conversationStarters?: string[];
+  promptExamples?: string[];
+  supportedLanguages?: string[];
+  capabilities?: Record<string, string>;
+  actions?: {
+    present?: string;
+    domains?: string[];
+    privacyPolicyUrl?: string | null;
+  };
+  knowledge?: {
+    disclosure?: string;
+    claimedSources?: string[];
+    sourceGroundingStatus?: string;
+  };
+  disclosures?: {
+    firstPersonSimulation?: boolean;
+    syntheticVoice?: string;
+    editorialCompanion?: string;
+  };
+  review?: {
+    status?: string;
+    availability?: string;
+    creatorVerified?: boolean;
+    lastReviewedAt?: string | null;
+    reviewer?: string | null;
+    score?: number | null;
+    notes?: string[];
+  };
+};
+
+type GptIndexDocument = {
+  records: GptIndexRecord[];
+};
+
+const dataRoot = path.join(process.cwd(), "data", "gpts");
+const recordsRoot = path.join(dataRoot, "records");
+
+function readJson<T>(filePath: string): T {
+  return JSON.parse(fs.readFileSync(filePath, "utf8")) as T;
+}
+
+export function getAllGpts(): GptIndexRecord[] {
+  const document = readJson<GptIndexDocument>(path.join(dataRoot, "index.json"));
+  return document.records ?? [];
+}
+
+export function getGptBySlug(slug: string): GptRecord | null {
+  const filePath = path.join(recordsRoot, `${slug}.json`);
+  if (!fs.existsSync(filePath)) return null;
+  return readJson<GptRecord>(filePath);
+}
+
+export function getGptsByCategory(category: string): GptIndexRecord[] {
+  return getAllGpts().filter((record) =>
+    Array.isArray(record.categories) && record.categories.includes(category),
+  );
+}
+
+export function getAllGptSlugs(): string[] {
+  if (!fs.existsSync(recordsRoot)) return [];
+  return fs
+    .readdirSync(recordsRoot)
+    .filter((name) => name.endsWith(".json"))
+    .map((name) => name.replace(/\.json$/, ""));
+}
+
+export function getCreatorName(record: GptRecord): string {
+  if (typeof record.creator === "string") return record.creator;
+  return record.creator?.displayName ?? "Unknown creator";
+}
+
+export function getPublicUrl(record: GptRecord): string | null {
+  return (
+    record.url?.canonical ??
+    record.canonicalUrl ??
+    record.url?.candidate ??
+    record.candidateUrl ??
+    null
+  );
+}
+
+export function getUsageDisplay(record: GptRecord): string | null {
+  return record.usage?.display ?? record.usersDisplay ?? null;
+}
+
+export function getAvailability(record: GptRecord): string {
+  return (
+    record.review?.availability ??
+    record.availability ??
+    record.url?.status ??
+    record.urlStatus ??
+    "unknown"
+  );
+}

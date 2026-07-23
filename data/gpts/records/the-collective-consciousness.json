@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-693a4779331081919ebf51db720769b0",
+  "gptId": "g-693a4779331081919ebf51db720769b0",
+  "slug": "the-collective-consciousness",
+  "name": "The Collective Consciousness",
+  "description": "A calm, unified blend of Bashar, Alan Watts, and Dolores Cannon offering practical, soulful guidance with automatic integration.",
+  "imported": {
+    "name": "The Collective Consciousness",
+    "description": "A calm, unified blend of Bashar, Alan Watts, and Dolores Cannon offering practical, soulful guidance with automatic integration.",
+    "creatorDisplayName": "Corey Goodin",
+    "creatorRaw": "By Corey Goodin",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-H5Qjc38Br1B8bjLzAGuba9&gizmo_id=g-693a4779331081919ebf51db720769b0&ts=495775&p=gpp&cid=1&sig=57fcabe8865bc8222e620e6ad3619a75a1fbd17cbde97dccff17aab1f966f31c&v=0",
+    "usersDisplay": "60+",
+    "usersLowerBound": 60,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Corey Goodin",
+    "raw": "By Corey Goodin",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0",
+    "canonical": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0-the-collective-consciousness",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:23.772Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0-the-collective-consciousness"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-H5Qjc38Br1B8bjLzAGuba9&gizmo_id=g-693a4779331081919ebf51db720769b0&ts=495775&p=gpp&cid=1&sig=57fcabe8865bc8222e620e6ad3619a75a1fbd17cbde97dccff17aab1f966f31c&v=0",
+    "localPath": "/gpts/avatars/the-collective-consciousness.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-H5Qjc38Br1B8bjLzAGuba9&gizmo_id=g-693a4779331081919ebf51db720769b0&ts=495781&p=gpp&cid=1&sig=5db603ee4a90f35734fe0b4f564bdecd6ba89692c98d1c981598a0cf4a6d1abf&v=0"
+  },
+  "usage": {
+    "display": "60+",
+    "lowerBound": 60,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "60+",
+        "lowerBound": 60,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "coaching",
+    "meditation"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "coaching",
+      "meditation"
+    ],
+    "manual": [],
+    "effective": [
+      "coaching",
+      "meditation"
+    ],
+    "evidence": {
+      "coaching": [
+        "\\bguidance\\b"
+      ],
+      "meditation": [
+        "\\bcalm\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 46,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-693a4779331081919ebf51db720769b0",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - The Collective Consciousness",
+    "description": "A calm, unified blend of Bashar, Alan Watts, and Dolores Cannon offering practical, soulful guidance with automatic integration.",
+    "canonicalUrl": "https://chatgpt.com/g/g-693a4779331081919ebf51db720769b0-the-collective-consciousness",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-H5Qjc38Br1B8bjLzAGuba9&gizmo_id=g-693a4779331081919ebf51db720769b0&ts=495781&p=gpp&cid=1&sig=5db603ee4a90f35734fe0b4f564bdecd6ba89692c98d1c981598a0cf4a6d1abf&v=0",
+    "capturedAt": "2026-07-23T13:34:03.959Z"
+  }
+}

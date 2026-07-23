@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-sjRqwrIIb",
+  "gptId": "g-sjRqwrIIb",
+  "slug": "alan-watts-scholar",
+  "name": "Alan Watts Scholar",
+  "description": "The Alan Watts Scholar is designed to provide immersive and tailored educational experiences on Watts's philosophy.",
+  "imported": {
+    "name": "Alan Watts Scholar",
+    "description": "The Alan Watts Scholar is designed to provide immersive and tailored educational experiences on Watts's philosophy.",
+    "creatorDisplayName": "Brent Stewart",
+    "creatorRaw": "By Brent Stewart",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-n6IL1f2wi75LYtqiKgM0Yium&gizmo_id=g-sjRqwrIIb&ts=495775&p=gpp&cid=1&sig=ca4ff248e8d8c51e267e9de86d3acebc53657ecf885ad40a936cc08bac4a13e2&v=0",
+    "usersDisplay": "20+",
+    "usersLowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Brent Stewart",
+    "raw": "By Brent Stewart",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-sjRqwrIIb",
+    "canonical": "https://chatgpt.com/g/g-sjRqwrIIb-alan-watts-scholar",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:31.879Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-sjRqwrIIb-alan-watts-scholar"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-n6IL1f2wi75LYtqiKgM0Yium&gizmo_id=g-sjRqwrIIb&ts=495775&p=gpp&cid=1&sig=ca4ff248e8d8c51e267e9de86d3acebc53657ecf885ad40a936cc08bac4a13e2&v=0",
+    "localPath": "/gpts/avatars/alan-watts-scholar.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-n6IL1f2wi75LYtqiKgM0Yium&gizmo_id=g-sjRqwrIIb&ts=495781&p=gpp&cid=1&sig=31523184bfbcbcaee19e5e152d443c65013435c3e406fe60ef40d8273e105b2f&v=0"
+  },
+  "usage": {
+    "display": "20+",
+    "lowerBound": 20,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "20+",
+        "lowerBound": 20,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "research"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "research"
+    ],
+    "manual": [],
+    "effective": [
+      "research"
+    ],
+    "evidence": {
+      "research": [
+        "\\bscholar(?:ly|ship)?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 61,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-sjRqwrIIb",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts Scholar",
+    "description": "The Alan Watts Scholar is designed to provide immersive and tailored educational experiences on Watts&#x27;s philosophy.",
+    "canonicalUrl": "https://chatgpt.com/g/g-sjRqwrIIb-alan-watts-scholar",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-n6IL1f2wi75LYtqiKgM0Yium&gizmo_id=g-sjRqwrIIb&ts=495781&p=gpp&cid=1&sig=31523184bfbcbcaee19e5e152d443c65013435c3e406fe60ef40d8273e105b2f&v=0",
+    "capturedAt": "2026-07-23T13:33:17.994Z"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-n7yvUUmoT",
+  "gptId": "g-n7yvUUmoT",
+  "slug": "the-q-architect-watts-entity-free-thought-magic",
+  "name": "The Q-Architect-Watts Entity -FREE THOUGHT MAGIC",
+  "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+  "imported": {
+    "name": "The Q-Architect-Watts Entity -FREE THOUGHT MAGIC",
+    "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+    "creatorDisplayName": "Kenneth G Bastian",
+    "creatorRaw": "By Kenneth G Bastian",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-n7yvUUmoT&ts=495775&p=gpp&cid=1&sig=ae466231c71ad66ac29bc7429e2a88d442b6d2a5cbfb9f75490ba497a21299cd&v=0",
+    "usersDisplay": "60+",
+    "usersLowerBound": 60,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Kenneth G Bastian",
+    "raw": "By Kenneth G Bastian",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-n7yvUUmoT",
+    "canonical": "https://chatgpt.com/g/g-n7yvUUmoT-the-q-architect-watts-entity-free-thought-magic",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:34.069Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-n7yvUUmoT-the-q-architect-watts-entity-free-thought-magic"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-n7yvUUmoT&ts=495775&p=gpp&cid=1&sig=ae466231c71ad66ac29bc7429e2a88d442b6d2a5cbfb9f75490ba497a21299cd&v=0",
+    "localPath": "/gpts/avatars/the-q-architect-watts-entity-free-thought-magic.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-n7yvUUmoT&ts=495781&p=gpp&cid=1&sig=f73b02a5b426516539e57bb08e1aac513b57b8ae4c4f9f9ef4172422f6b9a38a&v=0"
+  },
+  "usage": {
+    "display": "60+",
+    "lowerBound": 60,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "60+",
+        "lowerBound": 60,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 87,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-n7yvUUmoT",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - The Q-Architect-Watts Entity -FREE THOUGHT MAGIC",
+    "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+    "canonicalUrl": "https://chatgpt.com/g/g-n7yvUUmoT-the-q-architect-watts-entity-free-thought-magic",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-n7yvUUmoT&ts=495781&p=gpp&cid=1&sig=f73b02a5b426516539e57bb08e1aac513b57b8ae4c4f9f9ef4172422f6b9a38a&v=0",
+    "capturedAt": "2026-07-23T13:34:10.358Z"
+  }
+}

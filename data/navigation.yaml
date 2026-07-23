@@ -1,0 +1,105 @@
+pillars:
+- label: EXPLORE
+  items:
+  - label: Start Here
+    href: /start-here
+  - label: Topics
+    href: /topics
+  - label: Listening Paths
+    href: /listening-paths
+  - label: Listen by Time
+    href: /listen-by-time
+  - label: Timeline
+    href: /timeline
+  - label: Comparisons
+    href: /comparisons
+  - label: Interactive Experiences
+    href: /interactive-experiences
+- label: LIBRARY
+  items:
+  - label: Lectures
+    href: /lectures
+  - label: Collections
+    href: /collections
+  - label: Books
+    href: /books
+  - label: Quotes
+    href: /quotes
+  - label: Transcripts
+    href: /transcripts
+  - label: Audio
+    href: /audio
+  - label: Images
+    href: /images
+  - label: People
+    href: /people
+  - label: Glossary
+    href: /glossary
+- label: MEDIA
+  items:
+  - label: Essays
+    href: /essays
+  - label: Newsletter
+    href: /newsletter
+  - label: Podcasts
+    href: /podcasts
+  - label: Videos
+    href: /videos
+  - label: Shorts
+    href: /shorts
+  - label: Series
+    href: /series
+  - label: Playlists
+    href: /playlists
+- label: COMMUNITY
+  items:
+  - label: Discussions
+    href: /discussions
+  - label: Listening Club
+    href: /listening-club
+  - label: Groups
+    href: /groups
+  - label: Events
+    href: /events
+  - label: Questions
+    href: /questions
+  - label: Annotations
+    href: /annotations
+  - label: Corrections
+    href: /corrections
+- label: TOOLS
+  items:
+  - label: Quote Verifier
+    href: /tools/quote-verifier
+  - label: Lecture Finder
+    href: /tools/lecture-finder
+  - label: Ask the Archive
+    href: /tools/ask-the-archive
+  - label: GPT Directory
+    href: /gpts
+  - label: Prompt Library
+    href: /tools/prompt-library
+  - label: Creator Studio
+    href: /tools/creator-studio
+  - label: Authenticity Lab
+    href: /tools/authenticity-lab
+- label: ABOUT
+  items:
+  - label: The Project
+    href: /about
+  - label: Mission
+    href: /about/mission
+  - label: Editorial Standards
+    href: /about/editorial-standards
+  - label: Authenticity
+    href: /about/authenticity
+  - label: Sources and Attribution
+    href: /about/sources-and-attribution
+  - label: Research Methodology
+    href: /about/research-methodology
+  - label: AI Policy
+    href: /about/ai-policy
+  - label: Corrections
+    href: /corrections
+  - label: Contact
+    href: /contact

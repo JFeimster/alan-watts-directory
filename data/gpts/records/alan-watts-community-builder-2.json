@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.0",
+  "id": "csv-fbf65d075fa4e15a",
+  "gptId": null,
+  "slug": "alan-watts-community-builder-2",
+  "name": "Alan Watts",
+  "description": "Discuss, life, existence, and the universe with a philosophical entertainer and rascal.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Discuss, life, existence, and the universe with a philosophical entertainer and rascal.",
+    "creatorDisplayName": "community builder",
+    "creatorRaw": "By community builder",
+    "profileImageUrl": null,
+    "usersDisplay": "6",
+    "usersLowerBound": 6,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "community builder",
+    "raw": "By community builder",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": null,
+    "canonical": null,
+    "status": "missing",
+    "lastCheckedAt": null,
+    "httpStatus": null,
+    "redirectTarget": null
+  },
+  "image": {
+    "importedSourceUrl": null,
+    "localPath": "/gpts/avatars/alan-watts-community-builder-2.svg",
+    "status": "missing"
+  },
+  "usage": {
+    "display": "6",
+    "lowerBound": 6,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "6",
+        "lowerBound": 6,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "unknown",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 78,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "name-creator-5d4f9eafebfdd2d5",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": []
+}

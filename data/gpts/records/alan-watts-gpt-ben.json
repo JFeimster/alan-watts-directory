@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-UdexyGg1G",
+  "gptId": "g-UdexyGg1G",
+  "slug": "alan-watts-gpt-ben",
+  "name": "Alan Watts GPT",
+  "description": "Integrate the spiritual with the material, and join me for philosophical conversations.",
+  "imported": {
+    "name": "Alan Watts GPT",
+    "description": "Integrate the spiritual with the material, and join me for philosophical conversations.",
+    "creatorDisplayName": "Ben",
+    "creatorRaw": "By Ben",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-vfkOkjSrNwyQdMUX7moeywCR&gizmo_id=g-UdexyGg1G&ts=495775&p=gpp&cid=1&sig=f2e6387117af83dd40c45744cb2377e29f4b95ef5c1b7f025806a04a2a7f0d55&v=0",
+    "usersDisplay": "4",
+    "usersLowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Ben",
+    "raw": "By Ben",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-UdexyGg1G",
+    "canonical": "https://chatgpt.com/g/g-UdexyGg1G-alan-watts-gpt",
+    "status": "blocked-or-rate-limited",
+    "lastCheckedAt": "2026-07-23T13:29:58.783Z",
+    "httpStatus": 403,
+    "redirectTarget": "https://chatgpt.com/auth/login?next=%2Fg%2Fg-UdexyGg1G-alan-watts-gpt"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-vfkOkjSrNwyQdMUX7moeywCR&gizmo_id=g-UdexyGg1G&ts=495775&p=gpp&cid=1&sig=f2e6387117af83dd40c45744cb2377e29f4b95ef5c1b7f025806a04a2a7f0d55&v=0",
+    "localPath": "/gpts/avatars/alan-watts-gpt-ben.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-vfkOkjSrNwyQdMUX7moeywCR&gizmo_id=g-UdexyGg1G&ts=495781&p=gpp&cid=1&sig=14f43d71f9d33dee483599032f10aa88b91f6f18165f399fe52171c1aa4deb07&v=0"
+  },
+  "usage": {
+    "display": "4",
+    "lowerBound": 4,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "4",
+        "lowerBound": 4,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "unknown",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 18,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-UdexyGg1G",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts GPT",
+    "description": "Integrate the spiritual with the material, and join me for philosophical conversations.",
+    "canonicalUrl": "https://chatgpt.com/g/g-UdexyGg1G-alan-watts-gpt",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-vfkOkjSrNwyQdMUX7moeywCR&gizmo_id=g-UdexyGg1G&ts=495781&p=gpp&cid=1&sig=14f43d71f9d33dee483599032f10aa88b91f6f18165f399fe52171c1aa4deb07&v=0",
+    "capturedAt": "2026-07-23T13:32:46.847Z"
+  }
+}

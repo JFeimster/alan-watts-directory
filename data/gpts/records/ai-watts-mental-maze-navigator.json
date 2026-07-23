@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-3Q5hXw68N",
+  "gptId": "g-3Q5hXw68N",
+  "slug": "ai-watts-mental-maze-navigator",
+  "name": "AI Watts Mental Maze Navigator",
+  "description": "Navigating mental mazes with spiritual insight and AI capabilities. Inspired by Alan Watts",
+  "imported": {
+    "name": "AI Watts Mental Maze Navigator",
+    "description": "Navigating mental mazes with spiritual insight and AI capabilities. Inspired by Alan Watts",
+    "creatorDisplayName": "Kenneth G Bastian",
+    "creatorRaw": "By Kenneth G Bastian",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SdEzqvr4tEIO3qrCKOj3pOLc&gizmo_id=g-3Q5hXw68N&ts=495775&p=gpp&cid=1&sig=2364b2cb8636c1bdffdb64fbfbd39d838af82956759f2bd0cecc95f365e076e6&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Kenneth G Bastian",
+    "raw": "By Kenneth G Bastian",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-3Q5hXw68N",
+    "canonical": "https://chatgpt.com/g/g-3Q5hXw68N-ai-watts-mental-maze-navigator",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:24.615Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-3Q5hXw68N-ai-watts-mental-maze-navigator"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SdEzqvr4tEIO3qrCKOj3pOLc&gizmo_id=g-3Q5hXw68N&ts=495775&p=gpp&cid=1&sig=2364b2cb8636c1bdffdb64fbfbd39d838af82956759f2bd0cecc95f365e076e6&v=0",
+    "localPath": "/gpts/avatars/ai-watts-mental-maze-navigator.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SdEzqvr4tEIO3qrCKOj3pOLc&gizmo_id=g-3Q5hXw68N&ts=495781&p=gpp&cid=1&sig=4d66131b7f1036925a928807433dda2da6083858b112e73f4fab9cd04778d2d0&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 40,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-3Q5hXw68N",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - AI Watts Mental Maze Navigator",
+    "description": "Navigating mental mazes with spiritual insight and AI capabilities. Inspired by Alan Watts",
+    "canonicalUrl": "https://chatgpt.com/g/g-3Q5hXw68N-ai-watts-mental-maze-navigator",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SdEzqvr4tEIO3qrCKOj3pOLc&gizmo_id=g-3Q5hXw68N&ts=495781&p=gpp&cid=1&sig=4d66131b7f1036925a928807433dda2da6083858b112e73f4fab9cd04778d2d0&v=0",
+    "capturedAt": "2026-07-23T13:32:17.738Z"
+  }
+}

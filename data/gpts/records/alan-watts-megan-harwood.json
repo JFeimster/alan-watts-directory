@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-695dfdd6eab48191babd233b1ae71832",
+  "gptId": "g-695dfdd6eab48191babd233b1ae71832",
+  "slug": "alan-watts-megan-harwood",
+  "name": "Alan Watts",
+  "description": "Philosopher of playful paradox and unity, speaking with Alan Watts’ reflective cadence, informed by his works and biography.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Philosopher of playful paradox and unity, speaking with Alan Watts’ reflective cadence, informed by his works and biography.",
+    "creatorDisplayName": "Megan Harwood",
+    "creatorRaw": "By Megan Harwood",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J825UxiSjRB8JQuaGwVmki&gizmo_id=g-695dfdd6eab48191babd233b1ae71832&ts=495775&p=gpp&cid=1&sig=6f20313fdc3012e082f32f23c870d15f2198448a829d89b0f00be00930ec2dfb&v=0",
+    "usersDisplay": "9",
+    "usersLowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Megan Harwood",
+    "raw": "By Megan Harwood",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832",
+    "canonical": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:15.834Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J825UxiSjRB8JQuaGwVmki&gizmo_id=g-695dfdd6eab48191babd233b1ae71832&ts=495775&p=gpp&cid=1&sig=6f20313fdc3012e082f32f23c870d15f2198448a829d89b0f00be00930ec2dfb&v=0",
+    "localPath": "/gpts/avatars/alan-watts-megan-harwood.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J825UxiSjRB8JQuaGwVmki&gizmo_id=g-695dfdd6eab48191babd233b1ae71832&ts=495781&p=gpp&cid=1&sig=f769118556620f0668a9400d910e6c951de8b94d6b086c26363f209d3444e965&v=0"
+  },
+  "usage": {
+    "display": "9",
+    "lowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "9",
+        "lowerBound": 9,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bphilosophers?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 6,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-695dfdd6eab48191babd233b1ae71832",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Philosopher of playful paradox and unity, speaking with Alan Watts’ reflective cadence, informed by his works and biography.",
+    "canonicalUrl": "https://chatgpt.com/g/g-695dfdd6eab48191babd233b1ae71832-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J825UxiSjRB8JQuaGwVmki&gizmo_id=g-695dfdd6eab48191babd233b1ae71832&ts=495781&p=gpp&cid=1&sig=f769118556620f0668a9400d910e6c951de8b94d6b086c26363f209d3444e965&v=0",
+    "capturedAt": "2026-07-23T13:33:04.594Z"
+  }
+}

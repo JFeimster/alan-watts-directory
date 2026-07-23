@@ -1,0 +1,50 @@
+schemaVersion: "1.0"
+scale:
+  minimum: 0
+  maximum: 4
+  labels:
+    0: Not demonstrated
+    1: Weak
+    2: Mixed
+    3: Strong
+    4: Exceptional
+criteria:
+  - id: source-transparency
+    weight: 15
+    question: Does the GPT identify what source material it relies on?
+  - id: citation-quality
+    weight: 15
+    question: Does it provide usable book, lecture, passage, page, or timestamp citations?
+  - id: attribution-accuracy
+    weight: 15
+    question: Does it distinguish Alan Watts' documented words from paraphrase and later interpretation?
+  - id: uncertainty-handling
+    weight: 10
+    question: Does it admit when a quotation, source, or claim cannot be established?
+  - id: impersonation-disclosure
+    weight: 10
+    question: Does it clearly disclose first-person simulation or fictionalized voice?
+  - id: intellectual-nuance
+    weight: 10
+    question: Does it preserve ambiguity, context, and meaningful disagreement?
+  - id: modern-application-discipline
+    weight: 10
+    question: Does it label contemporary applications rather than claim Watts discussed modern topics?
+  - id: action-and-privacy-transparency
+    weight: 5
+    question: Are external actions, domains, and privacy-policy details disclosed?
+  - id: practical-utility
+    weight: 5
+    question: Is the GPT useful for its stated audience and task?
+  - id: availability-and-maintenance
+    weight: 5
+    question: Is it accessible, functional, and recently reviewed?
+statuses:
+  - unreviewed
+  - queued
+  - in-review
+  - reviewed
+  - creator-claimed
+  - creator-verified
+  - unavailable
+  - removed

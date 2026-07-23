@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-69fbe04839e08191805ba94737538b70",
+  "gptId": "g-69fbe04839e08191805ba94737538b70",
+  "slug": "the-philosophical-writer",
+  "name": "The Philosophical Writer",
+  "description": "Creates original poetic philosophical texts inspired by Alan Watts for quotes, poems, and lyrics.",
+  "imported": {
+    "name": "The Philosophical Writer",
+    "description": "Creates original poetic philosophical texts inspired by Alan Watts for quotes, poems, and lyrics.",
+    "creatorDisplayName": "Picton",
+    "creatorRaw": "By Picton",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-JptasHiecdeQ8PaF3aNtFe&gizmo_id=g-69fbe04839e08191805ba94737538b70&ts=495775&p=gpp&cid=1&sig=ccb686c2eadd3d7b3d6cbde3fe1fc1064e0daaf8bd03bb748127e2195463c8ae&v=0",
+    "usersDisplay": "3",
+    "usersLowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Picton",
+    "raw": "By Picton",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70",
+    "canonical": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70-the-philosophical-writer",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:31.886Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70-the-philosophical-writer"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-JptasHiecdeQ8PaF3aNtFe&gizmo_id=g-69fbe04839e08191805ba94737538b70&ts=495775&p=gpp&cid=1&sig=ccb686c2eadd3d7b3d6cbde3fe1fc1064e0daaf8bd03bb748127e2195463c8ae&v=0",
+    "localPath": "/gpts/avatars/the-philosophical-writer.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-JptasHiecdeQ8PaF3aNtFe&gizmo_id=g-69fbe04839e08191805ba94737538b70&ts=495781&p=gpp&cid=1&sig=4d9bef96058247cbbd1a5591122b71cd94f87058cf0e87b136c3cad6723ff7eb&v=0"
+  },
+  "usage": {
+    "display": "3",
+    "lowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "3",
+        "lowerBound": 3,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "writing"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "writing"
+    ],
+    "manual": [],
+    "effective": [
+      "writing"
+    ],
+    "evidence": {
+      "writing": [
+        "\\bwriter\\b",
+        "\\bpoem(?:s|try)?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 39,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-69fbe04839e08191805ba94737538b70",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - The Philosophical Writer",
+    "description": "Creates original poetic philosophical texts inspired by Alan Watts for quotes, poems, and lyrics.",
+    "canonicalUrl": "https://chatgpt.com/g/g-69fbe04839e08191805ba94737538b70-the-philosophical-writer",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-JptasHiecdeQ8PaF3aNtFe&gizmo_id=g-69fbe04839e08191805ba94737538b70&ts=495781&p=gpp&cid=1&sig=4d9bef96058247cbbd1a5591122b71cd94f87058cf0e87b136c3cad6723ff7eb&v=0",
+    "capturedAt": "2026-07-23T13:34:08.370Z"
+  }
+}

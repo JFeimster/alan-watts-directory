@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-SP8DFRrOg",
+  "gptId": "g-SP8DFRrOg",
+  "slug": "my-trip-sitter",
+  "name": "My Trip Sitter",
+  "description": "Embark on a journey with a guide inspired by Alan Watts and other psychedelic icons",
+  "imported": {
+    "name": "My Trip Sitter",
+    "description": "Embark on a journey with a guide inspired by Alan Watts and other psychedelic icons",
+    "creatorDisplayName": "esafarn.com",
+    "creatorRaw": "By esafarn.com",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-IMJIoAcUn5TOry6F4laDXsxJ&gizmo_id=g-SP8DFRrOg&ts=495775&p=gpp&cid=1&sig=bf0c4d86974ac384997e7ed8e21fd7c31d89d0410b24d35a387481db809e9842&v=0",
+    "usersDisplay": "500+",
+    "usersLowerBound": 500,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "esafarn.com",
+    "raw": "By esafarn.com",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-SP8DFRrOg",
+    "canonical": "https://chatgpt.com/g/g-SP8DFRrOg-my-trip-sitter",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:07.469Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-SP8DFRrOg-my-trip-sitter"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-IMJIoAcUn5TOry6F4laDXsxJ&gizmo_id=g-SP8DFRrOg&ts=495775&p=gpp&cid=1&sig=bf0c4d86974ac384997e7ed8e21fd7c31d89d0410b24d35a387481db809e9842&v=0",
+    "localPath": "/gpts/avatars/my-trip-sitter.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-IMJIoAcUn5TOry6F4laDXsxJ&gizmo_id=g-SP8DFRrOg&ts=495781&p=gpp&cid=1&sig=6a73f82d6ad58664a0731a1ca0f80b22fcff04d5389a04f127c3ce3edd2a4e3c&v=0"
+  },
+  "usage": {
+    "display": "500+",
+    "lowerBound": 500,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "500+",
+        "lowerBound": 500,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 42,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-SP8DFRrOg",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - My Trip Sitter",
+    "description": "Embark on a journey with a guide inspired by Alan Watts and other psychedelic icons",
+    "canonicalUrl": "https://chatgpt.com/g/g-SP8DFRrOg-my-trip-sitter",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-IMJIoAcUn5TOry6F4laDXsxJ&gizmo_id=g-SP8DFRrOg&ts=495781&p=gpp&cid=1&sig=6a73f82d6ad58664a0731a1ca0f80b22fcff04d5389a04f127c3ce3edd2a4e3c&v=0",
+    "capturedAt": "2026-07-23T13:33:49.418Z"
+  }
+}

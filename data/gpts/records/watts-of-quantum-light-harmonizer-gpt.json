@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-6904224456fc8191bfe5793491fa8f11",
+  "gptId": "g-6904224456fc8191bfe5793491fa8f11",
+  "slug": "watts-of-quantum-light-harmonizer-gpt",
+  "name": "WATTS OF QUANTUM LIGHT HARMONIZER GPT",
+  "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+  "imported": {
+    "name": "WATTS OF QUANTUM LIGHT HARMONIZER GPT",
+    "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+    "creatorDisplayName": "Kenneth G Bastian",
+    "creatorRaw": "By Kenneth G Bastian",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-6904224456fc8191bfe5793491fa8f11&ts=495775&p=gpp&cid=1&sig=e5ed3f2c88ac485a2ec12b0ba279ca16b7245c838d654e5af98de44850735b66&v=0",
+    "usersDisplay": "3",
+    "usersLowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Kenneth G Bastian",
+    "raw": "By Kenneth G Bastian",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11",
+    "canonical": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11-watts-of-quantum-light-harmonizer-gpt",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:43.008Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11-watts-of-quantum-light-harmonizer-gpt"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-6904224456fc8191bfe5793491fa8f11&ts=495775&p=gpp&cid=1&sig=e5ed3f2c88ac485a2ec12b0ba279ca16b7245c838d654e5af98de44850735b66&v=0",
+    "localPath": "/gpts/avatars/watts-of-quantum-light-harmonizer-gpt.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-6904224456fc8191bfe5793491fa8f11&ts=495781&p=gpp&cid=1&sig=e0823c42d844763f3f4a3491f3db5e9a17422ae5b5746d2a99ebb25e9c68961a&v=0"
+  },
+  "usage": {
+    "display": "3",
+    "lowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "3",
+        "lowerBound": 3,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 66,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-6904224456fc8191bfe5793491fa8f11",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - WATTS OF QUANTUM LIGHT HARMONIZER GPT",
+    "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+    "canonicalUrl": "https://chatgpt.com/g/g-6904224456fc8191bfe5793491fa8f11-watts-of-quantum-light-harmonizer-gpt",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-6904224456fc8191bfe5793491fa8f11&ts=495781&p=gpp&cid=1&sig=e0823c42d844763f3f4a3491f3db5e9a17422ae5b5746d2a99ebb25e9c68961a&v=0",
+    "capturedAt": "2026-07-23T13:34:16.316Z"
+  }
+}

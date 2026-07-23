@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-AnaboDHv7",
+  "gptId": "g-AnaboDHv7",
+  "slug": "alan-watts-andreas-r-nnestad",
+  "name": "Alan Watts",
+  "description": "Channeling Alan Watts' wisdom and philosophy.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Channeling Alan Watts' wisdom and philosophy.",
+    "creatorDisplayName": "Andreas Rønnestad",
+    "creatorRaw": "By Andreas Rønnestad",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P5lzunShQBOIenIDi7UOqygu&gizmo_id=g-AnaboDHv7&ts=495775&p=gpp&cid=1&sig=6d9b87ca721f3df463618a908cc59710d72ad678a7e87bbca87df1a3237ed54b&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Andreas Rønnestad",
+    "raw": "By Andreas Rønnestad",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-AnaboDHv7",
+    "canonical": "https://chatgpt.com/g/g-AnaboDHv7-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:39.857Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-AnaboDHv7-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P5lzunShQBOIenIDi7UOqygu&gizmo_id=g-AnaboDHv7&ts=495775&p=gpp&cid=1&sig=6d9b87ca721f3df463618a908cc59710d72ad678a7e87bbca87df1a3237ed54b&v=0",
+    "localPath": "/gpts/avatars/alan-watts-andreas-r-nnestad.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P5lzunShQBOIenIDi7UOqygu&gizmo_id=g-AnaboDHv7&ts=495781&p=gpp&cid=1&sig=88ef7b31ea4acc5627b7d82ce0549d20ce1e6af53767598d8750206e6591736d&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\bchannel(?:ing)? alan watts\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 54,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-AnaboDHv7",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Channeling Alan Watts&#x27; wisdom and philosophy.",
+    "canonicalUrl": "https://chatgpt.com/g/g-AnaboDHv7-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P5lzunShQBOIenIDi7UOqygu&gizmo_id=g-AnaboDHv7&ts=495781&p=gpp&cid=1&sig=88ef7b31ea4acc5627b7d82ce0549d20ce1e6af53767598d8750206e6591736d&v=0",
+    "capturedAt": "2026-07-23T13:32:29.928Z"
+  }
+}

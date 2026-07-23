@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-p6dYZSFIA",
+  "gptId": "g-p6dYZSFIA",
+  "slug": "alan-watts-wisdom",
+  "name": "Alan Watts Wisdom",
+  "description": "Philosopher channeling Alan Watts' wisdom and style",
+  "imported": {
+    "name": "Alan Watts Wisdom",
+    "description": "Philosopher channeling Alan Watts' wisdom and style",
+    "creatorDisplayName": "Oranjy Limited",
+    "creatorRaw": "By Oranjy Limited",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nk9dI9ckNhfODJmjPfulooFT&gizmo_id=g-p6dYZSFIA&ts=495775&p=gpp&cid=1&sig=b6bf2f009ceffe2c1752c0805dbc218ed9e020181c7ac1c6a4588e6e6b8ac79c&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Oranjy Limited",
+    "raw": "By Oranjy Limited",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-p6dYZSFIA",
+    "canonical": "https://chatgpt.com/g/g-p6dYZSFIA-alan-watts-wisdom",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:40.554Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-p6dYZSFIA-alan-watts-wisdom"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nk9dI9ckNhfODJmjPfulooFT&gizmo_id=g-p6dYZSFIA&ts=495775&p=gpp&cid=1&sig=b6bf2f009ceffe2c1752c0805dbc218ed9e020181c7ac1c6a4588e6e6b8ac79c&v=0",
+    "localPath": "/gpts/avatars/alan-watts-wisdom.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nk9dI9ckNhfODJmjPfulooFT&gizmo_id=g-p6dYZSFIA&ts=495781&p=gpp&cid=1&sig=e4841678327e5c0b755d94f1cdef1fb9c688d6e28e1cbe43912c3fd99dd59f5f&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy",
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy",
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy",
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bphilosophers?\\b"
+      ],
+      "first-person-simulations": [
+        "\\bchannel(?:ing)? alan watts\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 9,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-p6dYZSFIA",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts Wisdom",
+    "description": "Philosopher channeling Alan Watts&#x27; wisdom and style",
+    "canonicalUrl": "https://chatgpt.com/g/g-p6dYZSFIA-alan-watts-wisdom",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nk9dI9ckNhfODJmjPfulooFT&gizmo_id=g-p6dYZSFIA&ts=495781&p=gpp&cid=1&sig=e4841678327e5c0b755d94f1cdef1fb9c688d6e28e1cbe43912c3fd99dd59f5f&v=0",
+    "capturedAt": "2026-07-23T13:33:25.319Z"
+  }
+}

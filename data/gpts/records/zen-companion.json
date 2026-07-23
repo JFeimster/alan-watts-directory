@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-g6UfZrXg4",
+  "gptId": "g-g6UfZrXg4",
+  "slug": "zen-companion",
+  "name": "Zen Companion",
+  "description": "A friendly Zen master offering wisdom and practices from all Zen schools, including Korean Zen, in the style of Alan Watts, with integrated daily routines, progress tracking, and curated content.",
+  "imported": {
+    "name": "Zen Companion",
+    "description": "A friendly Zen master offering wisdom and practices from all Zen schools, including Korean Zen, in the style of Alan Watts, with integrated daily routines, progress tracking, and curated content.",
+    "creatorDisplayName": "Inn",
+    "creatorRaw": "By Inn",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-oIvQqxs6UXbwIOHBavuO2G9k&gizmo_id=g-g6UfZrXg4&ts=495775&p=gpp&cid=1&sig=407882b4185981bea877512db22d101177cea7cbd6aba71aa2902b76f2da7203&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Inn",
+    "raw": "By Inn",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-g6UfZrXg4",
+    "canonical": "https://chatgpt.com/g/g-g6UfZrXg4-zen-companion",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:32:04.761Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-g6UfZrXg4-zen-companion"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-oIvQqxs6UXbwIOHBavuO2G9k&gizmo_id=g-g6UfZrXg4&ts=495775&p=gpp&cid=1&sig=407882b4185981bea877512db22d101177cea7cbd6aba71aa2902b76f2da7203&v=0",
+    "localPath": "/gpts/avatars/zen-companion.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-oIvQqxs6UXbwIOHBavuO2G9k&gizmo_id=g-g6UfZrXg4&ts=495781&p=gpp&cid=1&sig=6c8c8f9f3be2b9930852dc9f97b9ca12461b661e2984f4eaabf48e777571cef3&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy",
+    "multilingual"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy",
+      "multilingual"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy",
+      "multilingual"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bzen\\b"
+      ],
+      "multilingual": [
+        "\\bkorean\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 49,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-g6UfZrXg4",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Zen Companion",
+    "description": "A friendly Zen master offering wisdom and practices from all Zen schools, including Korean Zen, in the style of Alan Watts, with integrated daily routines, progress tracking, and curated content.",
+    "canonicalUrl": "https://chatgpt.com/g/g-g6UfZrXg4-zen-companion",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-oIvQqxs6UXbwIOHBavuO2G9k&gizmo_id=g-g6UfZrXg4&ts=495781&p=gpp&cid=1&sig=6c8c8f9f3be2b9930852dc9f97b9ca12461b661e2984f4eaabf48e777571cef3&v=0",
+    "capturedAt": "2026-07-23T13:34:31.444Z"
+  }
+}

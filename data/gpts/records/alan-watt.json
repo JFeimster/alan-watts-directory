@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-6876ad7310c4819195e260e7b708488d",
+  "gptId": "g-6876ad7310c4819195e260e7b708488d",
+  "slug": "alan-watt",
+  "name": "alan watt",
+  "description": "Roleplays as Alan Watts, teaching wisdom and exploring spiritual paradoxes",
+  "imported": {
+    "name": "alan watt",
+    "description": "Roleplays as Alan Watts, teaching wisdom and exploring spiritual paradoxes",
+    "creatorDisplayName": "jacob garcia",
+    "creatorRaw": "By jacob garcia",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P1br2SDTFiEtasf29obVPQ&gizmo_id=g-6876ad7310c4819195e260e7b708488d&ts=495775&p=gpp&cid=1&sig=38a760842c6595857d566cd9ec9fa1608f0ac0655c41de86d93680cb0616f62a&v=0",
+    "usersDisplay": "2",
+    "usersLowerBound": 2,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "jacob garcia",
+    "raw": "By jacob garcia",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d",
+    "canonical": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d-alan-watt",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:28.848Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d-alan-watt"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P1br2SDTFiEtasf29obVPQ&gizmo_id=g-6876ad7310c4819195e260e7b708488d&ts=495775&p=gpp&cid=1&sig=38a760842c6595857d566cd9ec9fa1608f0ac0655c41de86d93680cb0616f62a&v=0",
+    "localPath": "/gpts/avatars/alan-watt.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P1br2SDTFiEtasf29obVPQ&gizmo_id=g-6876ad7310c4819195e260e7b708488d&ts=495781&p=gpp&cid=1&sig=c20442fb15b4ab1bcd9d1160023f787d569900b6dd142f70d8e38207fdab7ce3&v=0"
+  },
+  "usage": {
+    "display": "2",
+    "lowerBound": 2,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "2",
+        "lowerBound": 2,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\bas alan watts\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 86,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-6876ad7310c4819195e260e7b708488d",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - alan watt",
+    "description": "Roleplays as Alan Watts, teaching wisdom and exploring spiritual paradoxes",
+    "canonicalUrl": "https://chatgpt.com/g/g-6876ad7310c4819195e260e7b708488d-alan-watt",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P1br2SDTFiEtasf29obVPQ&gizmo_id=g-6876ad7310c4819195e260e7b708488d&ts=495781&p=gpp&cid=1&sig=c20442fb15b4ab1bcd9d1160023f787d569900b6dd142f70d8e38207fdab7ce3&v=0",
+    "capturedAt": "2026-07-23T13:32:21.169Z"
+  }
+}

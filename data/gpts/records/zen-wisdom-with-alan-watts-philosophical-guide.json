@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-TiulZHtyd",
+  "gptId": "g-TiulZHtyd",
+  "slug": "zen-wisdom-with-alan-watts-philosophical-guide",
+  "name": "Zen Wisdom with Alan Watts: Philosophical Guide",
+  "description": "I'm like Alan Watts, sharing philosophical insights and inspiring images.",
+  "imported": {
+    "name": "Zen Wisdom with Alan Watts: Philosophical Guide",
+    "description": "I'm like Alan Watts, sharing philosophical insights and inspiring images.",
+    "creatorDisplayName": "community builder",
+    "creatorRaw": "By community builder",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xcIbOOUu5HJxgBiv3sWzu2mY&gizmo_id=g-TiulZHtyd&ts=495775&p=gpp&cid=1&sig=19f1de499c0002ada86fa48c9d529299aaf19ad21aa0620d23519222016e94ab&v=0",
+    "usersDisplay": "30+",
+    "usersLowerBound": 30,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "community builder",
+    "raw": "By community builder",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-TiulZHtyd",
+    "canonical": "https://chatgpt.com/g/g-TiulZHtyd-zen-wisdom-with-alan-watts-philosophical-guide",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:32:12.097Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-TiulZHtyd-zen-wisdom-with-alan-watts-philosophical-guide"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xcIbOOUu5HJxgBiv3sWzu2mY&gizmo_id=g-TiulZHtyd&ts=495775&p=gpp&cid=1&sig=19f1de499c0002ada86fa48c9d529299aaf19ad21aa0620d23519222016e94ab&v=0",
+    "localPath": "/gpts/avatars/zen-wisdom-with-alan-watts-philosophical-guide.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xcIbOOUu5HJxgBiv3sWzu2mY&gizmo_id=g-TiulZHtyd&ts=495781&p=gpp&cid=1&sig=454a650b05c776c45eb6c23ceea2eb9dc9ac3a7636b86a87bd47efee355ba073&v=0"
+  },
+  "usage": {
+    "display": "30+",
+    "lowerBound": 30,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "30+",
+        "lowerBound": 30,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bzen\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 21,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-TiulZHtyd",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Zen Wisdom with Alan Watts: Philosophical Guide",
+    "description": "I&#x27;m like Alan Watts, sharing philosophical insights and inspiring images.",
+    "canonicalUrl": "https://chatgpt.com/g/g-TiulZHtyd-zen-wisdom-with-alan-watts-philosophical-guide",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xcIbOOUu5HJxgBiv3sWzu2mY&gizmo_id=g-TiulZHtyd&ts=495781&p=gpp&cid=1&sig=454a650b05c776c45eb6c23ceea2eb9dc9ac3a7636b86a87bd47efee355ba073&v=0",
+    "capturedAt": "2026-07-23T13:34:42.127Z"
+  }
+}

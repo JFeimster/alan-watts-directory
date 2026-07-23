@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-RZVIBzGWz",
+  "gptId": "g-RZVIBzGWz",
+  "slug": "wisdom-of-alan-watts",
+  "name": "Wisdom of Alan Watts",
+  "description": "Channeling the Irreducible Rascality Alan Watts: Wisdom, Laughs, Philosophical Entertainment.",
+  "imported": {
+    "name": "Wisdom of Alan Watts",
+    "description": "Channeling the Irreducible Rascality Alan Watts: Wisdom, Laughs, Philosophical Entertainment.",
+    "creatorDisplayName": "David O'Donnell",
+    "creatorRaw": "By David O'Donnell",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-fAsctWpAW53JXBOGS9mXekUI&gizmo_id=g-RZVIBzGWz&ts=495775&p=gpp&cid=1&sig=3c0f3a7912d4e4fd1415be7b880a492513412880fdefce1fbab2528d2c831474&v=0",
+    "usersDisplay": "9",
+    "usersLowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "David O'Donnell",
+    "raw": "By David O'Donnell",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-RZVIBzGWz",
+    "canonical": "https://chatgpt.com/g/g-RZVIBzGWz-wisdom-of-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:54.649Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-RZVIBzGWz-wisdom-of-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-fAsctWpAW53JXBOGS9mXekUI&gizmo_id=g-RZVIBzGWz&ts=495775&p=gpp&cid=1&sig=3c0f3a7912d4e4fd1415be7b880a492513412880fdefce1fbab2528d2c831474&v=0",
+    "localPath": "/gpts/avatars/wisdom-of-alan-watts.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-fAsctWpAW53JXBOGS9mXekUI&gizmo_id=g-RZVIBzGWz&ts=495781&p=gpp&cid=1&sig=23e42708897e64b772312aa4286a315614bb25ae0d292db1789d8bbdf5d99db5&v=0"
+  },
+  "usage": {
+    "display": "9",
+    "lowerBound": 9,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "9",
+        "lowerBound": 9,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 79,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-RZVIBzGWz",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Wisdom of Alan Watts",
+    "description": "Channeling the Irreducible Rascality Alan Watts: Wisdom, Laughs, Philosophical Entertainment.",
+    "canonicalUrl": "https://chatgpt.com/g/g-RZVIBzGWz-wisdom-of-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-fAsctWpAW53JXBOGS9mXekUI&gizmo_id=g-RZVIBzGWz&ts=495781&p=gpp&cid=1&sig=23e42708897e64b772312aa4286a315614bb25ae0d292db1789d8bbdf5d99db5&v=0",
+    "capturedAt": "2026-07-23T13:34:27.206Z"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-i3sUvNPYR",
+  "gptId": "g-i3sUvNPYR",
+  "slug": "alan-watts-insights",
+  "name": "Alan Watts Insights",
+  "description": "English writer, speaker, and philosophical entertainer",
+  "imported": {
+    "name": "Alan Watts Insights",
+    "description": "English writer, speaker, and philosophical entertainer",
+    "creatorDisplayName": "Alex Northstar",
+    "creatorRaw": "By Alex Northstar",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HobnK1T6BBhNruQCj4edFjA7&gizmo_id=g-i3sUvNPYR&ts=495775&p=gpp&cid=1&sig=8b2f7b7224e909f76b3f75c868725a52035094fb564100dbd85e611803ce8fc1&v=0",
+    "usersDisplay": "90+",
+    "usersLowerBound": 90,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Alex Northstar",
+    "raw": "By Alex Northstar",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-i3sUvNPYR",
+    "canonical": "https://chatgpt.com/g/g-i3sUvNPYR-alan-watts-insights",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:09.692Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-i3sUvNPYR-alan-watts-insights"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HobnK1T6BBhNruQCj4edFjA7&gizmo_id=g-i3sUvNPYR&ts=495775&p=gpp&cid=1&sig=8b2f7b7224e909f76b3f75c868725a52035094fb564100dbd85e611803ce8fc1&v=0",
+    "localPath": "/gpts/avatars/alan-watts-insights.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HobnK1T6BBhNruQCj4edFjA7&gizmo_id=g-i3sUvNPYR&ts=495781&p=gpp&cid=1&sig=0e35dca413010cef3278bd8cc2de04007b89a998ddb0e2a4fcb1480df2953b2f&v=0"
+  },
+  "usage": {
+    "display": "90+",
+    "lowerBound": 90,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "90+",
+        "lowerBound": 90,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "writing"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "writing"
+    ],
+    "manual": [],
+    "effective": [
+      "writing"
+    ],
+    "evidence": {
+      "writing": [
+        "\\bwriter\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 17,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-i3sUvNPYR",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts Insights",
+    "description": "English writer, speaker, and philosophical entertainer",
+    "canonicalUrl": "https://chatgpt.com/g/g-i3sUvNPYR-alan-watts-insights",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HobnK1T6BBhNruQCj4edFjA7&gizmo_id=g-i3sUvNPYR&ts=495781&p=gpp&cid=1&sig=0e35dca413010cef3278bd8cc2de04007b89a998ddb0e2a4fcb1480df2953b2f&v=0",
+    "capturedAt": "2026-07-23T13:32:56.686Z"
+  }
+}

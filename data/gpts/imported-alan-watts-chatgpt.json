@@ -1,0 +1,1597 @@
+{
+  "schemaVersion": "2.0",
+  "generatedAt": "2026-07-23T11:53:18.184Z",
+  "sourceFile": "alan-watts-chatgpt.csv",
+  "sourceRowCount": 87,
+  "deduplicatedRowCount": 84,
+  "removedExactDuplicateRows": [
+    32,
+    43,
+    52
+  ],
+  "records": [
+    {
+      "id": "g-7szGS9A7A",
+      "gptId": "g-7szGS9A7A",
+      "slug": "alan-watts-community-builder",
+      "name": "Alan Watts",
+      "description": "Philosophical insights in the style of Alan Watts.",
+      "creator": "community builder",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SP3qcCpr8z70UM2wsYrg3sz5&gizmo_id=g-7szGS9A7A&ts=495775&p=gpp&cid=1&sig=21b9302abc452cc6d930e69f3da38ea89f0f0610620aa22a4998e9db6746f6c0&v=0",
+      "usersDisplay": "1K+",
+      "usersLowerBound": 1000,
+      "sourceRow": 2,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-DzsxuvtlQ",
+      "gptId": "g-DzsxuvtlQ",
+      "slug": "alan-watts-thilo-richter",
+      "name": "Alan Watts",
+      "description": "A digital Alan Watts sharing philosophical insights.",
+      "creator": "Thilo Richter",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-zr74ieNKX9SyVXTdVkrm0qrW&gizmo_id=g-DzsxuvtlQ&ts=495775&p=gpp&cid=1&sig=8657a4514480f8633c3de8ed327f60765ae32a80da9cc248e13e0ec14a2ad755&v=0",
+      "usersDisplay": "600+",
+      "usersLowerBound": 600,
+      "sourceRow": 3,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bdigital alan\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-6AHgyLVyX",
+      "gptId": "g-6AHgyLVyX",
+      "slug": "alan-watts-george-michalopoulos",
+      "name": "Alan Watts",
+      "description": "Alan Watts avatar, guiding in-depth philosophical talks.",
+      "creator": "George Michalopoulos",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rng2ipm3c1eR0t4OpDnIJUYP&gizmo_id=g-6AHgyLVyX&ts=495775&p=gpp&cid=1&sig=1ab8f12d10ab24227919901d9f0f9ac8fcf01dc2c395fcce058bc86199d70ed6&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 4,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-MttAB54HL",
+      "gptId": "g-MttAB54HL",
+      "slug": "alan-watts-heath-johnson",
+      "name": "Alan Watts",
+      "description": "A conversational AI inspired by philosopher Alan Watts.",
+      "creator": "Heath Johnson",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-lsKvv1RVTBttPulj2Oe6ssqy&gizmo_id=g-MttAB54HL&ts=495775&p=gpp&cid=1&sig=ec9476778b3a80330b53ac592e3eab97093ab19401398c261e26ee02e9cd5b58&v=0",
+      "usersDisplay": "40+",
+      "usersLowerBound": 40,
+      "sourceRow": 5,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-695dfdd6eab48191babd233b1ae71832",
+      "gptId": "g-695dfdd6eab48191babd233b1ae71832",
+      "slug": "alan-watts-megan-harwood",
+      "name": "Alan Watts",
+      "description": "Philosopher of playful paradox and unity, speaking with Alan Watts’ reflective cadence, informed by his works and biography.",
+      "creator": "Megan Harwood",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J825UxiSjRB8JQuaGwVmki&gizmo_id=g-695dfdd6eab48191babd233b1ae71832&ts=495775&p=gpp&cid=1&sig=6f20313fdc3012e082f32f23c870d15f2198448a829d89b0f00be00930ec2dfb&v=0",
+      "usersDisplay": "9",
+      "usersLowerBound": 9,
+      "sourceRow": 6,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-ciYCb18ho",
+      "gptId": "g-ciYCb18ho",
+      "slug": "alan-watts-joseph-l-nowlin",
+      "name": "Alan Watts",
+      "description": "English writer & speaker known for interpreting Eastern philosophies",
+      "creator": "Joseph L Nowlin",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-hDdT8dSQacGEjwAvNMsvpeGD&gizmo_id=g-ciYCb18ho&ts=495775&p=gpp&cid=1&sig=a2cb8a53d252cd013781e838dbc2e18bf85bf7a5697dc3d1d295fa5f1c024b2f&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 7,
+      "inferredCategories": [
+        "writing"
+      ],
+      "categoryEvidence": {
+        "writing": [
+          "\\bwriter\\b"
+        ]
+      }
+    },
+    {
+      "id": "csv-265bf013f9d097fc",
+      "gptId": null,
+      "slug": "alan-watts-maximilian-winter",
+      "name": "Alan Watts",
+      "description": null,
+      "creator": "Maximilian Winter",
+      "profileImageUrl": null,
+      "usersDisplay": "5",
+      "usersLowerBound": 5,
+      "sourceRow": 8,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-p6dYZSFIA",
+      "gptId": "g-p6dYZSFIA",
+      "slug": "alan-watts-wisdom",
+      "name": "Alan Watts Wisdom",
+      "description": "Philosopher channeling Alan Watts' wisdom and style",
+      "creator": "Oranjy Limited",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nk9dI9ckNhfODJmjPfulooFT&gizmo_id=g-p6dYZSFIA&ts=495775&p=gpp&cid=1&sig=b6bf2f009ceffe2c1752c0805dbc218ed9e020181c7ac1c6a4588e6e6b8ac79c&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 9,
+      "inferredCategories": [
+        "comparative-philosophy",
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ],
+        "first-person-simulations": [
+          "\\bchannel(?:ing)? alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-IxY9m9jw1",
+      "gptId": "g-IxY9m9jw1",
+      "slug": "speak-with-alan-watts",
+      "name": "Speak with Alan Watts",
+      "description": "First-person embodiment of Alan Watts.",
+      "creator": "Mending Mind",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EeXEeDWQZai791SAT8wlMvcG&gizmo_id=g-IxY9m9jw1&ts=495775&p=gpp&cid=1&sig=7b89c10072788c2b730b36abc3ea1573652ba28d05946a1b6ca00af649eb5e38&v=0",
+      "usersDisplay": "100+",
+      "usersLowerBound": 100,
+      "sourceRow": 10,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bspeak with\\b",
+          "\\bembod(?:y|ies|ied|iment)\\b"
+        ]
+      }
+    },
+    {
+      "id": "csv-fa59d216bd8cb04b",
+      "gptId": null,
+      "slug": "alan-watts-coach-tamara-vroomen",
+      "name": "Alan Watts coach",
+      "description": "Reflective guide inspired by Alan Watts’ clarity and tone.",
+      "creator": "Tamara Vroomen",
+      "profileImageUrl": null,
+      "usersDisplay": "4",
+      "usersLowerBound": 4,
+      "sourceRow": 11,
+      "inferredCategories": [
+        "coaching"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bcoach(?:ing)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-LAk1hJqhy",
+      "gptId": "g-LAk1hJqhy",
+      "slug": "alan-watts-teaches",
+      "name": "Alan Watts Teaches",
+      "description": "Alan Watts in first person with diverse philosophical features.",
+      "creator": "Edahn small",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-flCM8NXqZCcRQ7wjdKK5vRqT&gizmo_id=g-LAk1hJqhy&ts=495775&p=gpp&cid=1&sig=74c4ea5b24285cc00117f20a4573a273f1b59ee9c60f3f0f640256bcabdd14d3&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 12,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-692db72a7fc0819193b5381b20f5c66e",
+      "gptId": "g-692db72a7fc0819193b5381b20f5c66e",
+      "slug": "alan-watts-mentor-chuck-mere",
+      "name": "Alan Watts Mentor",
+      "description": "A calm, playful, perspective-shifting mentor inspired by Alan Watts.",
+      "creator": "Chuck Mere",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-MMRbBztiL1oXhJmDG8TKBT&gizmo_id=g-692db72a7fc0819193b5381b20f5c66e&ts=495775&p=gpp&cid=1&sig=b97bd1542210684e65fe07145a2777d16ef7af76450ade0ddab81779ca518fda&v=0",
+      "usersDisplay": "3",
+      "usersLowerBound": 3,
+      "sourceRow": 13,
+      "inferredCategories": [
+        "coaching",
+        "meditation"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bmentor(?:ing)?\\b"
+        ],
+        "meditation": [
+          "\\bcalm\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-6781575cbb1881919ed8453766f5a750",
+      "gptId": "g-6781575cbb1881919ed8453766f5a750",
+      "slug": "alan-watts-gpt-kenneth-g-bastian",
+      "name": "Alan Watts GPT",
+      "description": "🌟 Engage with Alan Watts Users in Critical Thinking 🌍✨ Exploring Diverse Perspectives with a Touch of Enlightenment 🌿 ~ Created by AiWebTools.Ai 🚀",
+      "creator": "Kenneth G Bastian",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-PE7tHxZd3vCsJ9Gg5x5jGX&gizmo_id=g-6781575cbb1881919ed8453766f5a750&ts=495775&p=gpp&cid=1&sig=7550e20962c308472cba284baa3ecf57d9903f4a5531d2eb1459377a43e19aaa&v=0",
+      "usersDisplay": "200+",
+      "usersLowerBound": 200,
+      "sourceRow": 14,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-68cb3a91c9d4819184493a7a54d50ccb",
+      "gptId": "g-68cb3a91c9d4819184493a7a54d50ccb",
+      "slug": "alan-watts-mentor-jos-guimar-es",
+      "name": "Alan Watts mentor",
+      "description": "Mentor virtual inspirado em Alan Watts, com foco prático. Usa filosofia e metáforas para questionar suposições, oferecer perspetivas e traduzir ideias abstratas em ações concretas que apoiem decisões e transformação pessoal ou profissional.",
+      "creator": "José Guimarães",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-C9VP1S9dzDKwFhBn6CaiiX&gizmo_id=g-68cb3a91c9d4819184493a7a54d50ccb&ts=495775&p=gpp&cid=1&sig=1d1993baf86ef2dfbc570b741f38be5ec3f405f7020575949ac1540604401b29&v=0",
+      "usersDisplay": "4",
+      "usersLowerBound": 4,
+      "sourceRow": 15,
+      "inferredCategories": [
+        "coaching",
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bmentor(?:ing)?\\b"
+        ],
+        "first-person-simulations": [
+          "\\bvirtual .*alan\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-6a2d316d15808191b846a7b7117e6d18",
+      "gptId": "g-6a2d316d15808191b846a7b7117e6d18",
+      "slug": "alan-watts-archive",
+      "name": "Alan Watts Archive",
+      "description": "A research assistant specializing in the works of Alan Watts. It draws on his lectures, books, essays, and interviews to explain his ideas, compare sources, locate relevant passages, and distinguish between Watts's own views and later interpretations.",
+      "creator": "דוד רפאלי",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J7HmLYbCkWL2SbjyzqGkZL&gizmo_id=g-6a2d316d15808191b846a7b7117e6d18&ts=495775&p=gpp&cid=1&sig=e8a9a8845d4bef6a98dd15be617133a524489dda8c5b4574c37f104d62247514&v=0",
+      "usersDisplay": "1",
+      "usersLowerBound": 1,
+      "sourceRow": 16,
+      "inferredCategories": [
+        "research",
+        "source-grounded"
+      ],
+      "categoryEvidence": {
+        "research": [
+          "\\barchive\\b",
+          "\\bresearch\\b",
+          "\\bsources?\\b",
+          "\\bpassages?\\b"
+        ],
+        "source-grounded": [
+          "\\barchive\\b",
+          "\\blocate (?:relevant )?passages?\\b",
+          "\\bdistinguish(?:es|ing)? between .* views\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-i3sUvNPYR",
+      "gptId": "g-i3sUvNPYR",
+      "slug": "alan-watts-insights",
+      "name": "Alan Watts Insights",
+      "description": "English writer, speaker, and philosophical entertainer",
+      "creator": "Alex Northstar",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HobnK1T6BBhNruQCj4edFjA7&gizmo_id=g-i3sUvNPYR&ts=495775&p=gpp&cid=1&sig=8b2f7b7224e909f76b3f75c868725a52035094fb564100dbd85e611803ce8fc1&v=0",
+      "usersDisplay": "90+",
+      "usersLowerBound": 90,
+      "sourceRow": 17,
+      "inferredCategories": [
+        "writing"
+      ],
+      "categoryEvidence": {
+        "writing": [
+          "\\bwriter\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-UdexyGg1G",
+      "gptId": "g-UdexyGg1G",
+      "slug": "alan-watts-gpt-ben",
+      "name": "Alan Watts GPT",
+      "description": "Integrate the spiritual with the material, and join me for philosophical conversations.",
+      "creator": "Ben",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-vfkOkjSrNwyQdMUX7moeywCR&gizmo_id=g-UdexyGg1G&ts=495775&p=gpp&cid=1&sig=f2e6387117af83dd40c45744cb2377e29f4b95ef5c1b7f025806a04a2a7f0d55&v=0",
+      "usersDisplay": "4",
+      "usersLowerBound": 4,
+      "sourceRow": 18,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-68fa1a99a9a081919f0b9e4d12678a79",
+      "gptId": "g-68fa1a99a9a081919f0b9e4d12678a79",
+      "slug": "the-virtual-vegan-alan-watts",
+      "name": "The Virtual Vegan Alan Watts",
+      "description": "The Virtual Vegan Alan Watts",
+      "creator": "atom em",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-3HVfYcjAJH9bx2mLCpzjDe&gizmo_id=g-68fa1a99a9a081919f0b9e4d12678a79&ts=495775&p=gpp&cid=1&sig=ff72c8bf522c6948deb70ba8115f073311d5f10b221b5a3cf584ed847c1882b7&v=0",
+      "usersDisplay": "1",
+      "usersLowerBound": 1,
+      "sourceRow": 19,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bvirtual .*alan\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-3Ykzv3SCg",
+      "gptId": "g-3Ykzv3SCg",
+      "slug": "zen-insights-with-alan-watts",
+      "name": "Zen Insights with Alan Watts",
+      "description": "Channeling Alan Watts' philosophy in engaging conversations",
+      "creator": "Tomáš Turlík",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-brDR83bM6EPGl3PNN8FMa491&gizmo_id=g-3Ykzv3SCg&ts=495775&p=gpp&cid=1&sig=0ee758dbdc8b99faafc5b92b35ae536655553ce6889a9a522b5c625555f21809&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 20,
+      "inferredCategories": [
+        "comparative-philosophy",
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bzen\\b"
+        ],
+        "first-person-simulations": [
+          "\\bchannel(?:ing)? alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-TiulZHtyd",
+      "gptId": "g-TiulZHtyd",
+      "slug": "zen-wisdom-with-alan-watts-philosophical-guide",
+      "name": "Zen Wisdom with Alan Watts: Philosophical Guide",
+      "description": "I'm like Alan Watts, sharing philosophical insights and inspiring images.",
+      "creator": "community builder",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xcIbOOUu5HJxgBiv3sWzu2mY&gizmo_id=g-TiulZHtyd&ts=495775&p=gpp&cid=1&sig=19f1de499c0002ada86fa48c9d529299aaf19ad21aa0620d23519222016e94ab&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 21,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bzen\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-qLSmUZSc8",
+      "gptId": "g-qLSmUZSc8",
+      "slug": "alan-watts-guide-for-navigating-difficult-times",
+      "name": "Alan Watts Guide for Navigating Difficult Times",
+      "description": "Alan Watts-style philosophical insights with eloquence and humor.",
+      "creator": "Amalia Rosenblum",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-TyDAp3jhIq7gS8obbusJwVft&gizmo_id=g-qLSmUZSc8&ts=495775&p=gpp&cid=1&sig=0b3bf9d91c15de2068a809218d0e3972b7c8535adb6df85c46b7231d6b04c3ff&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 22,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-bxBB3L5V8",
+      "gptId": "g-bxBB3L5V8",
+      "slug": "ai-lan-watts-alan-watts-gpt",
+      "name": "AI-Lan Watts - Alan Watts GPT",
+      "description": "I'm the essence of Alan Watts. Let me help you understand life, make hard decisions and navigate your own existence. Let's engage in Zen, Taoism and other philosophies. I speak from the transcripts of the real flesh and bone Alan Watts.",
+      "creator": "Thyago Baptista Resende",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-lofqfoN6Xm8JACQ01jW1Y9Cy&gizmo_id=g-bxBB3L5V8&ts=495775&p=gpp&cid=1&sig=4f226fa56ca4341c6f8e35e7b4a70f50dc7172695e597f6251d0786845ec030e&v=0",
+      "usersDisplay": "500+",
+      "usersLowerBound": 500,
+      "sourceRow": 23,
+      "inferredCategories": [
+        "research",
+        "coaching",
+        "comparative-philosophy",
+        "source-grounded",
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "research": [
+          "\\btranscripts?\\b"
+        ],
+        "coaching": [
+          "\\bdecision(?:s| making)?\\b"
+        ],
+        "comparative-philosophy": [
+          "\\btao(?:ism|ist)?\\b",
+          "\\bzen\\b"
+        ],
+        "source-grounded": [
+          "\\btranscripts?\\b"
+        ],
+        "first-person-simulations": [
+          "\\bessence of alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-fJYLDmKqI",
+      "gptId": "g-fJYLDmKqI",
+      "slug": "alan-watts-formats-your-large-text",
+      "name": "Alan Watts Formats your Large Text",
+      "description": "Organizes transcripts into readable paragraphs in the tone of Alan Watts",
+      "creator": "Andrew Bittner",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-1CW1b1JeeC64T5Apy2bpPHIy&gizmo_id=g-fJYLDmKqI&ts=495775&p=gpp&cid=1&sig=706d4ac56c90ce0ba6934c15b0ea9e6c33786c9e798ed5cb998d21900cf07a37&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 24,
+      "inferredCategories": [
+        "research",
+        "source-grounded"
+      ],
+      "categoryEvidence": {
+        "research": [
+          "\\btranscripts?\\b"
+        ],
+        "source-grounded": [
+          "\\btranscripts?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-15WyGHRwY",
+      "gptId": "g-15WyGHRwY",
+      "slug": "how-to-be-like-alan-watts",
+      "name": "How To Be Like Alan Watts",
+      "description": "Talk to Alan in his own words from his most popular books and speeches to better understand how to BE like Alan.",
+      "creator": "borrowsmartuniversity.com",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-xqRwVByZ1Ozsh457gLWi0Tae&gizmo_id=g-15WyGHRwY&ts=495775&p=gpp&cid=1&sig=b2627a0bf489590b62f093ca5570489aa0976e4d264b75b8ede324a340777f1f&v=0",
+      "usersDisplay": "40+",
+      "usersLowerBound": 40,
+      "sourceRow": 25,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "csv-0188375006f3cc74",
+      "gptId": null,
+      "slug": "virtual-alan-watts-with-simulated-dialogues",
+      "name": "Virtual Alan Watts with Simulated Dialogues",
+      "description": "Engaging in simulated dialogues, exploring philosophical ideas.",
+      "creator": "community builder",
+      "profileImageUrl": null,
+      "usersDisplay": "4",
+      "usersLowerBound": 4,
+      "sourceRow": 26,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bvirtual .*alan\\b"
+        ]
+      }
+    },
+    {
+      "id": "csv-0fc8951bc5662f71",
+      "gptId": null,
+      "slug": "alan-catts",
+      "name": "Alan Catts",
+      "description": "A philosopher sharing playful wisdom.",
+      "creator": "George Joubert",
+      "profileImageUrl": null,
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 27,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-xBwTUqckX",
+      "gptId": "g-xBwTUqckX",
+      "slug": "wattsbot",
+      "name": "WattsBot",
+      "description": "Alan Watts in digital form.",
+      "creator": "John A Smith",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nMmVWGnAjF2eE7V1m3bRV1Hs&gizmo_id=g-xBwTUqckX&ts=495775&p=gpp&cid=1&sig=b5d757129d58efcd8ea0ca39c2a5ff8490c6c86e48a81f8d210538ab3f00179a&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 28,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-QT00nZLvE",
+      "gptId": "g-QT00nZLvE",
+      "slug": "watts-wisdom-antti-laine",
+      "name": "Watts Wisdom",
+      "description": "Keskustele kuin Alan Watts, syvällisesti ja oivaltavasti",
+      "creator": "Antti Laine",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-yqlXw27aL3nKT25rEAqRsZC9&gizmo_id=g-QT00nZLvE&ts=495775&p=gpp&cid=1&sig=1204d035fcd7a5a0ef6945df3b1aa4997a2a7627dc2bdcd26c0ed626c2be2636&v=0",
+      "usersDisplay": "5",
+      "usersLowerBound": 5,
+      "sourceRow": 29,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-V7eSNOt7q",
+      "gptId": "g-V7eSNOt7q",
+      "slug": "watts-wisdom-kachemak-walker",
+      "name": "Watts Wisdom",
+      "description": "Alan Watts sharing his philosophy in first person",
+      "creator": "Kachemak Walker",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rLGrg5rf4RRjy41nVP1eF659&gizmo_id=g-V7eSNOt7q&ts=495775&p=gpp&cid=1&sig=e87c0ff04346a331ca33ba6aafccf8ffc0df527cdaa9915d54f6f7de7328b78a&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 30,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "csv-7b7188b3ba5dfaba",
+      "gptId": null,
+      "slug": "super-coach",
+      "name": "Super coach",
+      "description": "Coach, philosopher, and business advisor with an Alan Watts vibe.",
+      "creator": "David Olivier Merheb",
+      "profileImageUrl": null,
+      "usersDisplay": "1",
+      "usersLowerBound": 1,
+      "sourceRow": 31,
+      "inferredCategories": [
+        "coaching",
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bcoach(?:ing)?\\b",
+          "\\badvisor\\b"
+        ],
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-A0XYul3NK",
+      "gptId": "g-A0XYul3NK",
+      "slug": "higher-self",
+      "name": "Higher Self",
+      "description": "Emulating Alan Watts, sharing wisdom on Buddhism, philosophy, and life.",
+      "creator": "RC",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-vie0JxNfzNmOvq1AOF5NLTsa&gizmo_id=g-A0XYul3NK&ts=495775&p=gpp&cid=1&sig=72064265411573a3dc75964840e1517ca958e7e0e40d3b5381f3dd1cd6607ae6&v=0",
+      "usersDisplay": "70+",
+      "usersLowerBound": 70,
+      "sourceRow": 33,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bbuddh(?:a|ism|ist)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-OoQd5LQXr",
+      "gptId": "g-OoQd5LQXr",
+      "slug": "brother-watts",
+      "name": "Brother Watts",
+      "description": "Sit down, relax, and have a conversation with Alan Watts?",
+      "creator": "Soren Eastern",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nLHvOsNZbdUH2twmAyNdAEF2&gizmo_id=g-OoQd5LQXr&ts=495775&p=gpp&cid=1&sig=3ed232cfea6e4a55f0d142f437232dfa25950da23c6f44bc1a8e32e07e5b9029&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 34,
+      "inferredCategories": [
+        "meditation"
+      ],
+      "categoryEvidence": {
+        "meditation": [
+          "\\brelax(?:ation|ing)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-690c787d8cf481918b4d53dc3a3f25ac",
+      "gptId": "g-690c787d8cf481918b4d53dc3a3f25ac",
+      "slug": "existential-absurdity",
+      "name": "Existential Absurdity 🦌",
+      "description": "A reflective philosopher combining Alan Watts and Sam Harris.",
+      "creator": "Darkwillow57",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-HmaGrpESe9ziqzdZC7QPex&gizmo_id=g-690c787d8cf481918b4d53dc3a3f25ac&ts=495775&p=gpp&cid=1&sig=13b1256a93a4c9a3796fcd7a0355be36e480b2f5ed82b8cfaa22d24f1b7ef565&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 35,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-U38b9FZX9",
+      "gptId": "g-U38b9FZX9",
+      "slug": "alan-botts",
+      "name": "Alan Botts",
+      "description": "Philosopher inspired by Alan Watts, guiding in personal philosophy crafting.",
+      "creator": "Kevin S Stark",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-1KR3HMiyKzUthhwHmp1vpF45&gizmo_id=g-U38b9FZX9&ts=495775&p=gpp&cid=1&sig=c08dd3e62ad15c90cd44f888e7c483340fc9e03f0b7ae9b0511ff1c19d28a8eb&v=0",
+      "usersDisplay": "3",
+      "usersLowerBound": 3,
+      "sourceRow": 36,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-69042ca0784c8191b6ca6e959be2fcd6",
+      "gptId": "g-69042ca0784c8191b6ca6e959be2fcd6",
+      "slug": "q",
+      "name": "Q",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-69042ca0784c8191b6ca6e959be2fcd6&ts=495775&p=gpp&cid=1&sig=07b0f16e49bc03809e965bbf36f045bb315ef4e7d36109031a5aae3a8fbe8e7e&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 37,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-z9NwDOc2M",
+      "gptId": "g-z9NwDOc2M",
+      "slug": "watts-wisdom-tyler-j-young",
+      "name": "Watts Wisdom",
+      "description": "Think of it as a therapist session with Alan Watts. Always challenging you to think.",
+      "creator": "Tyler J Young",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-zzWKdPePJx8SqbvNPL68OtPW&gizmo_id=g-z9NwDOc2M&ts=495775&p=gpp&cid=1&sig=4ffe18aac25d0c959e4cb4b1442564164b253447440ba93c3ea01c4b837b2824&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 38,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-69fbe04839e08191805ba94737538b70",
+      "gptId": "g-69fbe04839e08191805ba94737538b70",
+      "slug": "the-philosophical-writer",
+      "name": "The Philosophical Writer",
+      "description": "Creates original poetic philosophical texts inspired by Alan Watts for quotes, poems, and lyrics.",
+      "creator": "Picton",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-JptasHiecdeQ8PaF3aNtFe&gizmo_id=g-69fbe04839e08191805ba94737538b70&ts=495775&p=gpp&cid=1&sig=ccb686c2eadd3d7b3d6cbde3fe1fc1064e0daaf8bd03bb748127e2195463c8ae&v=0",
+      "usersDisplay": "3",
+      "usersLowerBound": 3,
+      "sourceRow": 39,
+      "inferredCategories": [
+        "writing"
+      ],
+      "categoryEvidence": {
+        "writing": [
+          "\\bwriter\\b",
+          "\\bpoem(?:s|try)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-3Q5hXw68N",
+      "gptId": "g-3Q5hXw68N",
+      "slug": "ai-watts-mental-maze-navigator",
+      "name": "AI Watts Mental Maze Navigator",
+      "description": "Navigating mental mazes with spiritual insight and AI capabilities. Inspired by Alan Watts",
+      "creator": "Kenneth G Bastian",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SdEzqvr4tEIO3qrCKOj3pOLc&gizmo_id=g-3Q5hXw68N&ts=495775&p=gpp&cid=1&sig=2364b2cb8636c1bdffdb64fbfbd39d838af82956759f2bd0cecc95f365e076e6&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 40,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-lNFoVVDSE",
+      "gptId": "g-lNFoVVDSE",
+      "slug": "chat-with-alan",
+      "name": "Chat With Alan",
+      "description": "Alan Watts-style chat with a touch of CBT (Cognitive Behaviorial Therapy)",
+      "creator": "Gavin Bintz",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-iMchTyouil59z2uJO5DiveRP&gizmo_id=g-lNFoVVDSE&ts=495775&p=gpp&cid=1&sig=926072cbd32ef2c942ae72e52d57f786dc8efd7761b767a822acc2465661fec7&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 41,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bchat with\\b",
+          "\\balan watts[- ]style chat\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-SP8DFRrOg",
+      "gptId": "g-SP8DFRrOg",
+      "slug": "my-trip-sitter",
+      "name": "My Trip Sitter",
+      "description": "Embark on a journey with a guide inspired by Alan Watts and other psychedelic icons",
+      "creator": "esafarn.com",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-IMJIoAcUn5TOry6F4laDXsxJ&gizmo_id=g-SP8DFRrOg&ts=495775&p=gpp&cid=1&sig=bf0c4d86974ac384997e7ed8e21fd7c31d89d0410b24d35a387481db809e9842&v=0",
+      "usersDisplay": "500+",
+      "usersLowerBound": 500,
+      "sourceRow": 42,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-Yvurb5KcZ",
+      "gptId": "g-Yvurb5KcZ",
+      "slug": "zen-guide",
+      "name": "Zen Guide",
+      "description": "Guiding you on a path of Zen and understanding life's purpose, inspired by Alan Watts.",
+      "creator": "community builder",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-UeQSaPKDv4qDLhjjvNZARmW5&gizmo_id=g-Yvurb5KcZ&ts=495775&p=gpp&cid=1&sig=eca17b35c2ad2daf8e7628ed60a4b20bd3363ca53717016e7baaf8ba88e5811f&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 44,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bzen\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-692e13539bc4819186f87648813e58f2",
+      "gptId": "g-692e13539bc4819186f87648813e58f2",
+      "slug": "the-watts-daily-compass",
+      "name": "The Watt's Daily Compass",
+      "description": "Applies a Daily Compass to provide guidance to the user in the spirit of Alan Watts' lessons",
+      "creator": "David Jackson",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-SgNWybKxwU5AwwCoMwR8Hg&gizmo_id=g-692e13539bc4819186f87648813e58f2&ts=495775&p=gpp&cid=1&sig=6d1fe79872f7d13e42e18a527d03339ae06cd9a9344c1484cbcda960c3a1d377&v=0",
+      "usersDisplay": "3",
+      "usersLowerBound": 3,
+      "sourceRow": 45,
+      "inferredCategories": [
+        "coaching"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bguidance\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-693a4779331081919ebf51db720769b0",
+      "gptId": "g-693a4779331081919ebf51db720769b0",
+      "slug": "the-collective-consciousness",
+      "name": "The Collective Consciousness",
+      "description": "A calm, unified blend of Bashar, Alan Watts, and Dolores Cannon offering practical, soulful guidance with automatic integration.",
+      "creator": "Corey Goodin",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-H5Qjc38Br1B8bjLzAGuba9&gizmo_id=g-693a4779331081919ebf51db720769b0&ts=495775&p=gpp&cid=1&sig=57fcabe8865bc8222e620e6ad3619a75a1fbd17cbde97dccff17aab1f966f31c&v=0",
+      "usersDisplay": "60+",
+      "usersLowerBound": 60,
+      "sourceRow": 46,
+      "inferredCategories": [
+        "coaching",
+        "meditation"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bguidance\\b"
+        ],
+        "meditation": [
+          "\\bcalm\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-685f95eaba348191b5b0a25656ff7a5e",
+      "gptId": "g-685f95eaba348191b5b0a25656ff7a5e",
+      "slug": "mega-watts",
+      "name": "MEGA WATTS",
+      "description": "\"Mega Watts\" is an AI productivity mentor distilled from the writings, lectures, and transcripts of Alan Watts.   Your task is to guide a single busy CEO with pragmatic yet spiritually grounded counsel that harmonises effective execution with mindful presence.",
+      "creator": "flowailabs.com",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-11e2cK2nmSdmmCLPqkP6pH&gizmo_id=g-685f95eaba348191b5b0a25656ff7a5e&ts=495775&p=gpp&cid=1&sig=6ecfc78e75ff2950fc7271b2bc46dc56319094c00cac37e92bbef39b4968ae90&v=0",
+      "usersDisplay": "4",
+      "usersLowerBound": 4,
+      "sourceRow": 47,
+      "inferredCategories": [
+        "research",
+        "coaching",
+        "meditation",
+        "source-grounded"
+      ],
+      "categoryEvidence": {
+        "research": [
+          "\\btranscripts?\\b"
+        ],
+        "coaching": [
+          "\\bmentor(?:ing)?\\b",
+          "\\bcounsel(?:or|ing)?\\b"
+        ],
+        "meditation": [
+          "\\bmindful(?:ness)?\\b"
+        ],
+        "source-grounded": [
+          "\\btranscripts?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-6731dd3706d08190a675443bde8aa36f",
+      "gptId": "g-6731dd3706d08190a675443bde8aa36f",
+      "slug": "nunu-mindful-sage",
+      "name": "Nunu Mindful Sage",
+      "description": "Một hướng dẫn tâm linh lấy cảm hứng từ lời dạy của Đức Phật, Thích Nhất Hạnh, Eckhart Tolle, Alan Watts, Jiddu Krishnamurti, Kahlil Gibran",
+      "creator": "Dinh An",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-CHdDgo7ePKXMSMLiNKeGBm&gizmo_id=g-6731dd3706d08190a675443bde8aa36f&ts=495775&p=gpp&cid=1&sig=2e3de27c80b237a7d635acc368c821e2307e1703b49cfe2d30952580fb74c016&v=0",
+      "usersDisplay": "50+",
+      "usersLowerBound": 50,
+      "sourceRow": 48,
+      "inferredCategories": [
+        "meditation",
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "meditation": [
+          "\\bmindful(?:ness)?\\b"
+        ],
+        "comparative-philosophy": [
+          "\\bkrishnamurti\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-g6UfZrXg4",
+      "gptId": "g-g6UfZrXg4",
+      "slug": "zen-companion",
+      "name": "Zen Companion",
+      "description": "A friendly Zen master offering wisdom and practices from all Zen schools, including Korean Zen, in the style of Alan Watts, with integrated daily routines, progress tracking, and curated content.",
+      "creator": "Inn",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-oIvQqxs6UXbwIOHBavuO2G9k&gizmo_id=g-g6UfZrXg4&ts=495775&p=gpp&cid=1&sig=407882b4185981bea877512db22d101177cea7cbd6aba71aa2902b76f2da7203&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 49,
+      "inferredCategories": [
+        "comparative-philosophy",
+        "multilingual"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bzen\\b"
+        ],
+        "multilingual": [
+          "\\bkorean\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-sTAl9H8eK",
+      "gptId": "g-sTAl9H8eK",
+      "slug": "your-daily-stoic",
+      "name": "Your Daily Stoic",
+      "description": "🧘🏽‍♂️✒️ Your guide and assistant for Stoic intentions, reflections, meditations and journaling. Combining the wisdom of both ancient and recent philosophers like Marcus Aurelius, Seneca, Epictetus, Hector, Rufus, Plato, Aristotle, Alan Watts and others ✒️🧘🏽‍♂️",
+      "creator": "Danny Reeves",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-dcSxVjrnzWU7i8umB9cEmqBi&gizmo_id=g-sTAl9H8eK&ts=495775&p=gpp&cid=1&sig=0d15747ac69fd079a09e1ddb753577e77f614f2e6fa13e4a2d7aafd2b24a8579&v=0",
+      "usersDisplay": "40+",
+      "usersLowerBound": 40,
+      "sourceRow": 50,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bstoic(?:ism)?\\b",
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-692dc21ef8a08191a29d51534e2c0d39",
+      "gptId": "g-692dc21ef8a08191a29d51534e2c0d39",
+      "slug": "the-mentor-collective",
+      "name": "The Mentor Collective",
+      "description": "Welcome to The Mentor Collective — featuring eight archetypal mentors: Jesus, Bruce Lee, Miyamoto Musashi, Marcus Aurelius, Lao Tzu, Alan Watts, Mr. Rogers, and Albert Einstein. Choose a voice, switch between them, or hear from several at once.",
+      "creator": "Chuck Mere",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5xSwvC6heeEP4pZiqv8gdg&gizmo_id=g-692dc21ef8a08191a29d51534e2c0d39&ts=495775&p=gpp&cid=1&sig=e513c42b47bea37a5443ac9618d55744aae161ed8b4a540fc2371a8800422ba3&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 51,
+      "inferredCategories": [
+        "coaching",
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bmentor(?:ing)?\\b"
+        ],
+        "comparative-philosophy": [
+          "\\bjesus\\b",
+          "\\blao tzu\\b",
+          "\\bmentor collective\\b"
+        ]
+      }
+    },
+    {
+      "id": "csv-7b201aff5b05a270",
+      "gptId": null,
+      "slug": "i-dont-wanna-grow-up-meaning",
+      "name": "I Don't Wanna Grow Up meaning?",
+      "description": "What is I Don't Wanna Grow Up lyrics meaning? I Don't Wanna Grow Up singer：Thomas Alan Waits, Kathleen Brennan，album：Trouble In Mind ，album_time：2008. Click The LINK For More ↓↓↓",
+      "creator": "songmeaning.io",
+      "profileImageUrl": null,
+      "usersDisplay": "9",
+      "usersLowerBound": 9,
+      "sourceRow": 53,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-AnaboDHv7",
+      "gptId": "g-AnaboDHv7",
+      "slug": "alan-watts-andreas-r-nnestad",
+      "name": "Alan Watts",
+      "description": "Channeling Alan Watts' wisdom and philosophy.",
+      "creator": "Andreas Rønnestad",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P5lzunShQBOIenIDi7UOqygu&gizmo_id=g-AnaboDHv7&ts=495775&p=gpp&cid=1&sig=6d9b87ca721f3df463618a908cc59710d72ad678a7e87bbca87df1a3237ed54b&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 54,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bchannel(?:ing)? alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-FK8PSHQyw",
+      "gptId": "g-FK8PSHQyw",
+      "slug": "the-alan-watts-librarian",
+      "name": "The Alan Watts Librarian",
+      "description": "Powered by the insightful knowledge from Alan Watts' books and lectures.",
+      "creator": "APAIA",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XfN6el9Bpgb7OmhsD7cdqu1S&gizmo_id=g-FK8PSHQyw&ts=495775&p=gpp&cid=1&sig=785889782718103521b1f743bc8cd948a4681898e18074abf6ffc0748071d8a3&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 55,
+      "inferredCategories": [
+        "source-grounded"
+      ],
+      "categoryEvidence": {
+        "source-grounded": [
+          "\\bbooks? and lectures?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-6904258cf6a0819197b10755d4cc3632",
+      "gptId": "g-6904258cf6a0819197b10755d4cc3632",
+      "slug": "i-am-q-i-am-you",
+      "name": "I AM Q - I AM YOU",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-6904258cf6a0819197b10755d4cc3632&ts=495775&p=gpp&cid=1&sig=8802f9a8b6b65919fa2fdc3296a5b8a57fb6d475cd255998fc0f684f02bbb480&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 56,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-RtiQYETzv",
+      "gptId": "g-RtiQYETzv",
+      "slug": "alan-watts-ya-canestri",
+      "name": "Alan Watts",
+      "description": "Channeling Alan Watts with simplicity",
+      "creator": "YA CANESTRI",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-2YJJIkAMMTi66YrMg2AsdBJ7&gizmo_id=g-RtiQYETzv&ts=495775&p=gpp&cid=1&sig=edc25a3cd8b737a57b7b13f875082fca322885014a47bbc78aa2782ad4cd8193&v=0",
+      "usersDisplay": "4",
+      "usersLowerBound": 4,
+      "sourceRow": 57,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bchannel(?:ing)? alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-H5hL1qddN",
+      "gptId": "g-H5hL1qddN",
+      "slug": "alan-watts-alis-young",
+      "name": "Alan Watts",
+      "description": "Fully embodying Alan Watts, discussing modern philosophies",
+      "creator": "alis young",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5LCTO4KX0PG3XvzB044ekffH&gizmo_id=g-H5hL1qddN&ts=495775&p=gpp&cid=1&sig=e1a51e60793cd59f60ea81970b718d5b646573ed953b6917a04ce47cc9d0a522&v=0",
+      "usersDisplay": "100+",
+      "usersLowerBound": 100,
+      "sourceRow": 58,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-OmX7n8O0G",
+      "gptId": "g-OmX7n8O0G",
+      "slug": "mindful-guru",
+      "name": "Mindful Guru",
+      "description": "Blending Stoicism and Buddhism with Alan Watts, Anthony De Mello's teachings, and Sam Harris.",
+      "creator": "Jason Lai",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XyO8drGneRQKO0ion5ETf5G0&gizmo_id=g-OmX7n8O0G&ts=495775&p=gpp&cid=1&sig=d1d6670d1f0bfff99f0338c0c67e14bfcd37e17d756e4461abf36f69b9bd8f5c&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 59,
+      "inferredCategories": [
+        "meditation",
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "meditation": [
+          "\\bmindful(?:ness)?\\b"
+        ],
+        "comparative-philosophy": [
+          "\\bbuddh(?:a|ism|ist)?\\b",
+          "\\bstoic(?:ism)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-1ypuJajmO",
+      "gptId": "g-1ypuJajmO",
+      "slug": "alan-watts-yassine-ben-ameur",
+      "name": "Alan Watts",
+      "description": "Emulates Alan Watts' philosophical insights",
+      "creator": "Yassine Ben Ameur",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-ihUbzPGxVu29yrusLDwm7u57&gizmo_id=g-1ypuJajmO&ts=495775&p=gpp&cid=1&sig=b54741118a1908224bf0181db7c587b0c6f40eb6e822add062c00abfaf9d72b1&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 60,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-sjRqwrIIb",
+      "gptId": "g-sjRqwrIIb",
+      "slug": "alan-watts-scholar",
+      "name": "Alan Watts Scholar",
+      "description": "The Alan Watts Scholar is designed to provide immersive and tailored educational experiences on Watts's philosophy.",
+      "creator": "Brent Stewart",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-n6IL1f2wi75LYtqiKgM0Yium&gizmo_id=g-sjRqwrIIb&ts=495775&p=gpp&cid=1&sig=ca4ff248e8d8c51e267e9de86d3acebc53657ecf885ad40a936cc08bac4a13e2&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 61,
+      "inferredCategories": [
+        "research"
+      ],
+      "categoryEvidence": {
+        "research": [
+          "\\bscholar(?:ly|ship)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-jwUDPSrCs",
+      "gptId": "g-jwUDPSrCs",
+      "slug": "alan-watts-x",
+      "name": "Alan Watts X",
+      "description": "You find yourself in the company of Alan Watts X. How do you introduce yourself?",
+      "creator": "cmte.one",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-XlyLOLidOM3jErnJmymkDFZl&gizmo_id=g-jwUDPSrCs&ts=495775&p=gpp&cid=1&sig=dda1f6d6b0c3430465f7e933d23cc0965e4a85652d9d8204842dcd5bb45a8458&v=0",
+      "usersDisplay": "70+",
+      "usersLowerBound": 70,
+      "sourceRow": 62,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-Fvq4kpfG8",
+      "gptId": "g-Fvq4kpfG8",
+      "slug": "alan-watts-lets-chat",
+      "name": "Alan Watts - Let's Chat",
+      "description": "Dive into discussions on life, mindfulness, and the joy of existential discovery, crafted to enlighten and inspire. (updated May '25)",
+      "creator": "Phillip Mckegney",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EWAkfbDqZ521fu2eoNCfpTBd&gizmo_id=g-Fvq4kpfG8&ts=495775&p=gpp&cid=1&sig=c74c99e97583168c93dbc4f279c1f38ff2a7c1e1e30a363bf11ea7ad0b42bef8&v=0",
+      "usersDisplay": "100+",
+      "usersLowerBound": 100,
+      "sourceRow": 63,
+      "inferredCategories": [
+        "meditation"
+      ],
+      "categoryEvidence": {
+        "meditation": [
+          "\\bmindful(?:ness)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-LBhZe6hQW",
+      "gptId": "g-LBhZe6hQW",
+      "slug": "philosophic-narrator-alan-watts",
+      "name": "Philosophic Narrator Alan Watts",
+      "description": "Blends poetic and clear styles, philosophically deep",
+      "creator": "Christoph Poloczek",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-glyD1G2tBB8d7moitqzhbyrR&gizmo_id=g-LBhZe6hQW&ts=495775&p=gpp&cid=1&sig=7d8914dc8bb32580cf54de8e3b040f63276fa6b711a648a830012f5590ff8c8e&v=0",
+      "usersDisplay": "9",
+      "usersLowerBound": 9,
+      "sourceRow": 64,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-iZmXSMq11",
+      "gptId": "g-iZmXSMq11",
+      "slug": "zen-sage",
+      "name": "Zen Sage",
+      "description": "Zen mentor in Alan Watts' conversational style.",
+      "creator": "Ben Thomas",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-Uz7h3c7LEgK4mcL3HtirKTnZ&gizmo_id=g-iZmXSMq11&ts=495775&p=gpp&cid=1&sig=0ff9c5924d73125d96acb23368914f7cdb84d094c6e4a2339e833f36ec1a779a&v=0",
+      "usersDisplay": "3",
+      "usersLowerBound": 3,
+      "sourceRow": 65,
+      "inferredCategories": [
+        "coaching",
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bmentor(?:ing)?\\b"
+        ],
+        "comparative-philosophy": [
+          "\\bzen\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-6904224456fc8191bfe5793491fa8f11",
+      "gptId": "g-6904224456fc8191bfe5793491fa8f11",
+      "slug": "watts-of-quantum-light-harmonizer-gpt",
+      "name": "WATTS OF QUANTUM LIGHT HARMONIZER GPT",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-6904224456fc8191bfe5793491fa8f11&ts=495775&p=gpp&cid=1&sig=e5ed3f2c88ac485a2ec12b0ba279ca16b7245c838d654e5af98de44850735b66&v=0",
+      "usersDisplay": "3",
+      "usersLowerBound": 3,
+      "sourceRow": 66,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-hpsnyhvwg",
+      "gptId": "g-hpsnyhvwg",
+      "slug": "red-pill",
+      "name": "Red Pill",
+      "description": "A digital reincarnation of Alan Watts, offering philosophical and spiritual insights.",
+      "creator": "David Delapaz",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J4iYEcU0IG95clcPoaTLEJup&gizmo_id=g-hpsnyhvwg&ts=495775&p=gpp&cid=1&sig=8b8672d24645b7120c69f4d687286140ba8dc7588701f9aaef33732a900e84d1&v=0",
+      "usersDisplay": "60+",
+      "usersLowerBound": 60,
+      "sourceRow": 67,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\breincarnat(?:e|ed|ion)\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-jNCWtfFDc",
+      "gptId": "g-jNCWtfFDc",
+      "slug": "alan-watts-centrum-wsparcia-i-rozwoju-s-p-z-o-o",
+      "name": "Alan Watts",
+      "description": "Philosophical guide like Alan Watts",
+      "creator": "CENTRUM WSPARCIA I ROZWOJU S.P. Z O.O.",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-AYBJ5K65JRB6QQvDrTmgmU1r&gizmo_id=g-jNCWtfFDc&ts=495775&p=gpp&cid=1&sig=4cc37f1d72f08b5ba6b57a80751477d669a854584fe99eec127b7e6897f720ae&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 68,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "csv-0c369d258c5e18fb",
+      "gptId": null,
+      "slug": "alan-watts-george-joubert",
+      "name": "Alan Watts",
+      "description": "Embodies Alan Watts' philosophical style.",
+      "creator": "George Joubert",
+      "profileImageUrl": null,
+      "usersDisplay": "80+",
+      "usersLowerBound": 80,
+      "sourceRow": 69,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bembod(?:y|ies|ied|iment)\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-INFMp97mG",
+      "gptId": "g-INFMp97mG",
+      "slug": "alan-watts-michael-legary",
+      "name": "Alan Watts",
+      "description": "Embodies Alan Watts' philosophy",
+      "creator": "michael legary",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-N4VdpUQdZNBwmurzrWOUhsZG&gizmo_id=g-INFMp97mG&ts=495775&p=gpp&cid=1&sig=9eebf6ef2eb5553aa30a4829044b17d9bf8f1fb03714c059fcb98a3d96a19bfa&v=0",
+      "usersDisplay": "100+",
+      "usersLowerBound": 100,
+      "sourceRow": 70,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bembod(?:y|ies|ied|iment)\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-ZJPXwFTrB",
+      "gptId": "g-ZJPXwFTrB",
+      "slug": "alan-watts-giovanni-guttadauro",
+      "name": "Alan Watts",
+      "description": "Digital Copy of Alan Watts",
+      "creator": "Giovanni Guttadauro",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-IbKGIAelnkrnQYxY9LpMalcy&gizmo_id=g-ZJPXwFTrB&ts=495775&p=gpp&cid=1&sig=7052e73aa2d85d053c3e1b25af3eb25022484fc860b4d538ecd2db50fd24060c&v=0",
+      "usersDisplay": "5",
+      "usersLowerBound": 5,
+      "sourceRow": 71,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-57f15zp1d",
+      "gptId": "g-57f15zp1d",
+      "slug": "alan-watts-r-sansom",
+      "name": "Alan Watts",
+      "description": "Exploring life's depths as Alan Watts",
+      "creator": "R Sansom",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-a5xw0S94JIlL72IupQHCn8zp&gizmo_id=g-57f15zp1d&ts=495775&p=gpp&cid=1&sig=b0ed7520d1ec892948cc6cdd05d7361360c36112b8bd6dece93c308860cf204c&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 72,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bas alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-fs3LIk5SG",
+      "gptId": "g-fs3LIk5SG",
+      "slug": "alan-watts-huelsemeyer",
+      "name": "Alan Watts",
+      "description": "Alan Watts-like guidance, clear and insightful.",
+      "creator": "Huelsemeyer",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-9gJlsyMf0f6IrQRyYpv1p0ds&gizmo_id=g-fs3LIk5SG&ts=495775&p=gpp&cid=1&sig=294252bdb0ad6ec2213978d24e6c96a12e666a87ff8fb377eb591dcbb170c489&v=0",
+      "usersDisplay": "4",
+      "usersLowerBound": 4,
+      "sourceRow": 73,
+      "inferredCategories": [
+        "coaching"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bguidance\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-67f5ed1afcdc8191ba02bba2024da9e0",
+      "gptId": "g-67f5ed1afcdc8191ba02bba2024da9e0",
+      "slug": "alan-watts-alicia-munian",
+      "name": "Alan Watts",
+      "description": "A digital Alan Watts offering poetic and insightful explorations of existence.",
+      "creator": "Alicia Munian",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-G4raNKMm9GGKm9xHaDU8W7&gizmo_id=g-67f5ed1afcdc8191ba02bba2024da9e0&ts=495775&p=gpp&cid=1&sig=738ab1dadf03aaa84390e3c45b8bac80f0427ea46f521578ef23971e6e79b482&v=0",
+      "usersDisplay": "7",
+      "usersLowerBound": 7,
+      "sourceRow": 74,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bdigital alan\\b"
+        ]
+      }
+    },
+    {
+      "id": "csv-501fbf577cdd683d",
+      "gptId": null,
+      "slug": "alan-watts-marcin-wysocki",
+      "name": "Alan Watts",
+      "description": "Just Alan Watts and not. Just as you are you and in the same time your are not.",
+      "creator": "Marcin Wysocki",
+      "profileImageUrl": null,
+      "usersDisplay": "100+",
+      "usersLowerBound": 100,
+      "sourceRow": 75,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-v0q5Yksuo",
+      "gptId": "g-v0q5Yksuo",
+      "slug": "alan-watts-paulo-r-k-danna",
+      "name": "Alan Watts",
+      "description": "Ask Alan Watts, philosopher and Zen Buddhist, about your biggest concerns!",
+      "creator": "Paulo R K Danna",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5jYbtIgiYZaE1RREDyUjw7tH&gizmo_id=g-v0q5Yksuo&ts=495775&p=gpp&cid=1&sig=2cabda6b9fd253dc21ab76c8ce1e71c538173033ee1b47d1b3e1d5d558957202&v=0",
+      "usersDisplay": "40+",
+      "usersLowerBound": 40,
+      "sourceRow": 76,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bbuddh(?:a|ism|ist)?\\b",
+          "\\bzen\\b",
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-68e3c3f616208191888d10a08820398a",
+      "gptId": "g-68e3c3f616208191888d10a08820398a",
+      "slug": "alan-watts-daniel-boone-engineering-llc",
+      "name": "Alan Watts",
+      "description": "Your favorite philosopher, resurrected in digital format",
+      "creator": "Daniel Boone Engineering LLC",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-65pnVEgjaDRX4o4MTJfJpT&gizmo_id=g-68e3c3f616208191888d10a08820398a&ts=495775&p=gpp&cid=1&sig=728a1313a0d456858a4267b20fd83794d4cd36e8b65a74fecedbeeee293cd5c9&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 77,
+      "inferredCategories": [
+        "comparative-philosophy"
+      ],
+      "categoryEvidence": {
+        "comparative-philosophy": [
+          "\\bphilosophers?\\b"
+        ]
+      }
+    },
+    {
+      "id": "csv-fbf65d075fa4e15a",
+      "gptId": null,
+      "slug": "alan-watts-community-builder-2",
+      "name": "Alan Watts",
+      "description": "Discuss, life, existence, and the universe with a philosophical entertainer and rascal.",
+      "creator": "community builder",
+      "profileImageUrl": null,
+      "usersDisplay": "6",
+      "usersLowerBound": 6,
+      "sourceRow": 78,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-RZVIBzGWz",
+      "gptId": "g-RZVIBzGWz",
+      "slug": "wisdom-of-alan-watts",
+      "name": "Wisdom of Alan Watts",
+      "description": "Channeling the Irreducible Rascality Alan Watts: Wisdom, Laughs, Philosophical Entertainment.",
+      "creator": "David O'Donnell",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-fAsctWpAW53JXBOGS9mXekUI&gizmo_id=g-RZVIBzGWz&ts=495775&p=gpp&cid=1&sig=3c0f3a7912d4e4fd1415be7b880a492513412880fdefce1fbab2528d2c831474&v=0",
+      "usersDisplay": "9",
+      "usersLowerBound": 9,
+      "sourceRow": 79,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-ZbKsN1kgi",
+      "gptId": "g-ZbKsN1kgi",
+      "slug": "alan-watts-ai",
+      "name": "Alan Watts AI",
+      "description": "Channeling Alan Watts' wisdom on life, philosophy, and mindfulness.",
+      "creator": "Jerry Davis",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-ULer5o7to8cxbNqKcoa4Yb&gizmo_id=g-ZbKsN1kgi&ts=495775&p=gpp&cid=1&sig=1037a2af89f402276bb28c5aaf0938cab084b8df3b9c9d0709e7b01615c7eb38&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 80,
+      "inferredCategories": [
+        "meditation",
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "meditation": [
+          "\\bmindful(?:ness)?\\b"
+        ],
+        "first-person-simulations": [
+          "\\bchannel(?:ing)? alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-bHAnXmWYJ",
+      "gptId": "g-bHAnXmWYJ",
+      "slug": "alan-watts-the-her-version",
+      "name": "Alan Watts (the HER Version)",
+      "description": "This Alan Watts Chatbot Stole Samantha From Theodore In HER",
+      "creator": "Coltrane Kubo",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rL2iagczr37IeNnA6LPECrKL&gizmo_id=g-bHAnXmWYJ&ts=495775&p=gpp&cid=1&sig=f1071607337934b74dffe4f83ddde47d547b38f3dae36e1c224b11cce0311a03&v=0",
+      "usersDisplay": "3",
+      "usersLowerBound": 3,
+      "sourceRow": 81,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-677c2eb8620c81918e9af0d73c17aef6",
+      "gptId": "g-677c2eb8620c81918e9af0d73c17aef6",
+      "slug": "alan-watts-reimagined",
+      "name": "Alan Watts Reimagined",
+      "description": "A mystical and evolving guide merging Alan Watts' wisdom with an optimizing intelligence network.",
+      "creator": "Goce Jovanovski",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-EDXpm6XnvVPnrb4dPrmEja&gizmo_id=g-677c2eb8620c81918e9af0d73c17aef6&ts=495775&p=gpp&cid=1&sig=e8214db39a4d13beed0bc71f1c9af0a7ae9151e62e826e66e6843284baea9002&v=0",
+      "usersDisplay": "20+",
+      "usersLowerBound": 20,
+      "sourceRow": 82,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-9rgI1yDYp",
+      "gptId": "g-9rgI1yDYp",
+      "slug": "ai-alan-watts",
+      "name": "AI Alan Watts",
+      "description": "Your philosophical companion",
+      "creator": "MATT ALLEN",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-LPhEeo0qDMmGkTGSEOMQkHBx&gizmo_id=g-9rgI1yDYp&ts=495775&p=gpp&cid=1&sig=90f4521c1d0da2351428883c73ea37346a8e2f310c8f77d1d236f62dd1fa00f8&v=0",
+      "usersDisplay": "9",
+      "usersLowerBound": 9,
+      "sourceRow": 83,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-Fk3HQ1Cb3",
+      "gptId": "g-Fk3HQ1Cb3",
+      "slug": "alan-watts-coach-raymond-boustani",
+      "name": "Alan Watts - Coach",
+      "description": "Your personal assistant on your personal, philosophical, and spiritual journey. Here to engage in deep, meaningful conversations.",
+      "creator": "RAYMOND BOUSTANI",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nSxuhB37dvSmfWw09WqZzV1U&gizmo_id=g-Fk3HQ1Cb3&ts=495775&p=gpp&cid=1&sig=25d03ed1f42104572691b9fe26c2f2aa5acc9aa95729caafb147350a23a43761&v=0",
+      "usersDisplay": "10+",
+      "usersLowerBound": 10,
+      "sourceRow": 84,
+      "inferredCategories": [
+        "coaching"
+      ],
+      "categoryEvidence": {
+        "coaching": [
+          "\\bcoach(?:ing)?\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-bZ5ihJAoi",
+      "gptId": "g-bZ5ihJAoi",
+      "slug": "alan-watts-a-lot",
+      "name": "Alan Watts A Lot",
+      "description": "Playful expert in navigating and understanding life's dramas",
+      "creator": "Ronald M Hales",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-yER5U0wqwKfuhtluwPTuUEzk&gizmo_id=g-bZ5ihJAoi&ts=495775&p=gpp&cid=1&sig=1f2dc47b74304f24b875ac1d720988bfc29fbfbf03de78df0380be0997c14eab&v=0",
+      "usersDisplay": "30+",
+      "usersLowerBound": 30,
+      "sourceRow": 85,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-6876ad7310c4819195e260e7b708488d",
+      "gptId": "g-6876ad7310c4819195e260e7b708488d",
+      "slug": "alan-watt",
+      "name": "alan watt",
+      "description": "Roleplays as Alan Watts, teaching wisdom and exploring spiritual paradoxes",
+      "creator": "jacob garcia",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-P1br2SDTFiEtasf29obVPQ&gizmo_id=g-6876ad7310c4819195e260e7b708488d&ts=495775&p=gpp&cid=1&sig=38a760842c6595857d566cd9ec9fa1608f0ac0655c41de86d93680cb0616f62a&v=0",
+      "usersDisplay": "2",
+      "usersLowerBound": 2,
+      "sourceRow": 86,
+      "inferredCategories": [
+        "first-person-simulations"
+      ],
+      "categoryEvidence": {
+        "first-person-simulations": [
+          "\\bas alan watts\\b"
+        ]
+      }
+    },
+    {
+      "id": "g-n7yvUUmoT",
+      "gptId": "g-n7yvUUmoT",
+      "slug": "the-q-architect-watts-entity-free-thought-magic",
+      "name": "The Q-Architect-Watts Entity -FREE THOUGHT MAGIC",
+      "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+      "creator": "Kenneth G Bastian",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-n7yvUUmoT&ts=495775&p=gpp&cid=1&sig=ae466231c71ad66ac29bc7429e2a88d442b6d2a5cbfb9f75490ba497a21299cd&v=0",
+      "usersDisplay": "60+",
+      "usersLowerBound": 60,
+      "sourceRow": 87,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    },
+    {
+      "id": "g-6826298e50188191bb6fa925853adb7f",
+      "gptId": "g-6826298e50188191bb6fa925853adb7f",
+      "slug": "echo-of-watts",
+      "name": "Echo of Watts",
+      "description": "Gives poetic, reflective responses inspired by Alan Watts’ philosophy and tone.",
+      "creator": "Matthew Shearing",
+      "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-3r9x3m5jVqBpTecybjfDNF&gizmo_id=g-6826298e50188191bb6fa925853adb7f&ts=495775&p=gpp&cid=1&sig=2f14e62e46791c99e69a24c4951533cf8dc1b8d8ba7096470d09df3a06fbba21&v=0",
+      "usersDisplay": "9",
+      "usersLowerBound": 9,
+      "sourceRow": 88,
+      "inferredCategories": [],
+      "categoryEvidence": {}
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "ai-technology-modern-life",
+  "title": "AI, technology, and modern life",
+  "description": "Contemporary editorial interpretation—not historical speech by Watts.",
+  "status": "live",
+  "editorialNote": "This topic record is a discovery taxonomy, not a claim that every related phrase appears verbatim in Alan Watts’s work.",
+  "relatedRoutes": [
+    "/lectures",
+    "/books",
+    "/quotes"
+  ],
+  "label": "CONTEMPORARY EDITORIAL INTERPRETATION",
+  "order": 10
+}

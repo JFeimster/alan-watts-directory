@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-sTAl9H8eK",
+  "gptId": "g-sTAl9H8eK",
+  "slug": "your-daily-stoic",
+  "name": "Your Daily Stoic",
+  "description": "🧘🏽‍♂️✒️ Your guide and assistant for Stoic intentions, reflections, meditations and journaling. Combining the wisdom of both ancient and recent philosophers like Marcus Aurelius, Seneca, Epictetus, Hector, Rufus, Plato, Aristotle, Alan Watts and others ✒️🧘🏽‍♂️",
+  "imported": {
+    "name": "Your Daily Stoic",
+    "description": "🧘🏽‍♂️✒️ Your guide and assistant for Stoic intentions, reflections, meditations and journaling. Combining the wisdom of both ancient and recent philosophers like Marcus Aurelius, Seneca, Epictetus, Hector, Rufus, Plato, Aristotle, Alan Watts and others ✒️🧘🏽‍♂️",
+    "creatorDisplayName": "Danny Reeves",
+    "creatorRaw": "By Danny Reeves",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-dcSxVjrnzWU7i8umB9cEmqBi&gizmo_id=g-sTAl9H8eK&ts=495775&p=gpp&cid=1&sig=0d15747ac69fd079a09e1ddb753577e77f614f2e6fa13e4a2d7aafd2b24a8579&v=0",
+    "usersDisplay": "40+",
+    "usersLowerBound": 40,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Danny Reeves",
+    "raw": "By Danny Reeves",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-sTAl9H8eK",
+    "canonical": "https://chatgpt.com/g/g-sTAl9H8eK-your-daily-stoic",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:32:00.313Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-sTAl9H8eK-your-daily-stoic"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-dcSxVjrnzWU7i8umB9cEmqBi&gizmo_id=g-sTAl9H8eK&ts=495775&p=gpp&cid=1&sig=0d15747ac69fd079a09e1ddb753577e77f614f2e6fa13e4a2d7aafd2b24a8579&v=0",
+    "localPath": "/gpts/avatars/your-daily-stoic.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-dcSxVjrnzWU7i8umB9cEmqBi&gizmo_id=g-sTAl9H8eK&ts=495781&p=gpp&cid=1&sig=01ccf687fdb55aaa919d2873c345bf492b97fb8704aa0723e2e5269d87265f46&v=0"
+  },
+  "usage": {
+    "display": "40+",
+    "lowerBound": 40,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "40+",
+        "lowerBound": 40,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "comparative-philosophy"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "comparative-philosophy"
+    ],
+    "manual": [],
+    "effective": [
+      "comparative-philosophy"
+    ],
+    "evidence": {
+      "comparative-philosophy": [
+        "\\bstoic(?:ism)?\\b",
+        "\\bphilosophers?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 50,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-sTAl9H8eK",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Your Daily Stoic",
+    "description": "🧘🏽‍♂️✒️ Your guide and assistant for Stoic intentions, reflections, meditations and journaling. Combining the wisdom of both ancient and recent philosophers like Marcus Aurelius, Seneca, Epictetus, Hector, Rufus, Plato, Aristotle, Alan Watts and others ✒️🧘🏽‍♂️",
+    "canonicalUrl": "https://chatgpt.com/g/g-sTAl9H8eK-your-daily-stoic",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-dcSxVjrnzWU7i8umB9cEmqBi&gizmo_id=g-sTAl9H8eK&ts=495781&p=gpp&cid=1&sig=01ccf687fdb55aaa919d2873c345bf492b97fb8704aa0723e2e5269d87265f46&v=0",
+    "capturedAt": "2026-07-23T13:34:29.334Z"
+  }
+}

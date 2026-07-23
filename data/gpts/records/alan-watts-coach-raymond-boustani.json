@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-Fk3HQ1Cb3",
+  "gptId": "g-Fk3HQ1Cb3",
+  "slug": "alan-watts-coach-raymond-boustani",
+  "name": "Alan Watts - Coach",
+  "description": "Your personal assistant on your personal, philosophical, and spiritual journey. Here to engage in deep, meaningful conversations.",
+  "imported": {
+    "name": "Alan Watts - Coach",
+    "description": "Your personal assistant on your personal, philosophical, and spiritual journey. Here to engage in deep, meaningful conversations.",
+    "creatorDisplayName": "RAYMOND BOUSTANI",
+    "creatorRaw": "By RAYMOND BOUSTANI",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nSxuhB37dvSmfWw09WqZzV1U&gizmo_id=g-Fk3HQ1Cb3&ts=495775&p=gpp&cid=1&sig=25d03ed1f42104572691b9fe26c2f2aa5acc9aa95729caafb147350a23a43761&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "RAYMOND BOUSTANI",
+    "raw": "By RAYMOND BOUSTANI",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-Fk3HQ1Cb3",
+    "canonical": "https://chatgpt.com/g/g-Fk3HQ1Cb3-alan-watts-coach",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:46.035Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-Fk3HQ1Cb3-alan-watts-coach"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nSxuhB37dvSmfWw09WqZzV1U&gizmo_id=g-Fk3HQ1Cb3&ts=495775&p=gpp&cid=1&sig=25d03ed1f42104572691b9fe26c2f2aa5acc9aa95729caafb147350a23a43761&v=0",
+    "localPath": "/gpts/avatars/alan-watts-coach-raymond-boustani.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nSxuhB37dvSmfWw09WqZzV1U&gizmo_id=g-Fk3HQ1Cb3&ts=495781&p=gpp&cid=1&sig=0ad3f92ebe74d3bbb80b72ad64cb7965e468d1f3121609ba41e485108c3b10de&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "coaching"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "coaching"
+    ],
+    "manual": [],
+    "effective": [
+      "coaching"
+    ],
+    "evidence": {
+      "coaching": [
+        "\\bcoach(?:ing)?\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 84,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-Fk3HQ1Cb3",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts - Coach",
+    "description": "Your personal assistant on your personal, philosophical, and spiritual journey. Here to engage in deep, meaningful conversations.",
+    "canonicalUrl": "https://chatgpt.com/g/g-Fk3HQ1Cb3-alan-watts-coach",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-nSxuhB37dvSmfWw09WqZzV1U&gizmo_id=g-Fk3HQ1Cb3&ts=495781&p=gpp&cid=1&sig=0ad3f92ebe74d3bbb80b72ad64cb7965e468d1f3121609ba41e485108c3b10de&v=0",
+    "capturedAt": "2026-07-23T13:32:35.037Z"
+  }
+}

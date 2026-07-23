@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-6AHgyLVyX",
+  "gptId": "g-6AHgyLVyX",
+  "slug": "alan-watts-george-michalopoulos",
+  "name": "Alan Watts",
+  "description": "Alan Watts avatar, guiding in-depth philosophical talks.",
+  "imported": {
+    "name": "Alan Watts",
+    "description": "Alan Watts avatar, guiding in-depth philosophical talks.",
+    "creatorDisplayName": "George Michalopoulos",
+    "creatorRaw": "By George Michalopoulos",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rng2ipm3c1eR0t4OpDnIJUYP&gizmo_id=g-6AHgyLVyX&ts=495775&p=gpp&cid=1&sig=1ab8f12d10ab24227919901d9f0f9ac8fcf01dc2c395fcce058bc86199d70ed6&v=0",
+    "usersDisplay": "30+",
+    "usersLowerBound": 30,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "George Michalopoulos",
+    "raw": "By George Michalopoulos",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-6AHgyLVyX",
+    "canonical": "https://chatgpt.com/g/g-6AHgyLVyX-alan-watts",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:54.737Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-6AHgyLVyX-alan-watts"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rng2ipm3c1eR0t4OpDnIJUYP&gizmo_id=g-6AHgyLVyX&ts=495775&p=gpp&cid=1&sig=1ab8f12d10ab24227919901d9f0f9ac8fcf01dc2c395fcce058bc86199d70ed6&v=0",
+    "localPath": "/gpts/avatars/alan-watts-george-michalopoulos.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rng2ipm3c1eR0t4OpDnIJUYP&gizmo_id=g-6AHgyLVyX&ts=495781&p=gpp&cid=1&sig=247562b63bb782d5ccd8ef8d4be0ce762df8b748d80c3e99f18c2c2026e8c0d6&v=0"
+  },
+  "usage": {
+    "display": "30+",
+    "lowerBound": 30,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "30+",
+        "lowerBound": 30,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 4,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-6AHgyLVyX",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts",
+    "description": "Alan Watts avatar, guiding in-depth philosophical talks.",
+    "canonicalUrl": "https://chatgpt.com/g/g-6AHgyLVyX-alan-watts",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rng2ipm3c1eR0t4OpDnIJUYP&gizmo_id=g-6AHgyLVyX&ts=495781&p=gpp&cid=1&sig=247562b63bb782d5ccd8ef8d4be0ce762df8b748d80c3e99f18c2c2026e8c0d6&v=0",
+    "capturedAt": "2026-07-23T13:32:42.869Z"
+  }
+}

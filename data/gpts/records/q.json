@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-69042ca0784c8191b6ca6e959be2fcd6",
+  "gptId": "g-69042ca0784c8191b6ca6e959be2fcd6",
+  "slug": "q",
+  "name": "Q",
+  "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+  "imported": {
+    "name": "Q",
+    "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+    "creatorDisplayName": "Kenneth G Bastian",
+    "creatorRaw": "By Kenneth G Bastian",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-69042ca0784c8191b6ca6e959be2fcd6&ts=495775&p=gpp&cid=1&sig=07b0f16e49bc03809e965bbf36f045bb315ef4e7d36109031a5aae3a8fbe8e7e&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Kenneth G Bastian",
+    "raw": "By Kenneth G Bastian",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6",
+    "canonical": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6-q",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:14.480Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6-q"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-69042ca0784c8191b6ca6e959be2fcd6&ts=495775&p=gpp&cid=1&sig=07b0f16e49bc03809e965bbf36f045bb315ef4e7d36109031a5aae3a8fbe8e7e&v=0",
+    "localPath": "/gpts/avatars/q.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-69042ca0784c8191b6ca6e959be2fcd6&ts=495781&p=gpp&cid=1&sig=b4f9006297fc2d83072ccae236a5afbdf6f6a1f9e9a4a3037041f96597f2d9f7&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 37,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-69042ca0784c8191b6ca6e959be2fcd6",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Q",
+    "description": "Fused wisdom of Alan Watts & Quantum Light Unity, guiding Neo through quantum truth & metaphysical liberation.",
+    "canonicalUrl": "https://chatgpt.com/g/g-69042ca0784c8191b6ca6e959be2fcd6-q",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5X4AF3IW6nzyFCk95sppaeFq&gizmo_id=g-69042ca0784c8191b6ca6e959be2fcd6&ts=495781&p=gpp&cid=1&sig=b4f9006297fc2d83072ccae236a5afbdf6f6a1f9e9a4a3037041f96597f2d9f7&v=0",
+    "capturedAt": "2026-07-23T13:33:55.740Z"
+  }
+}

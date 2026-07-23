@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-hpsnyhvwg",
+  "gptId": "g-hpsnyhvwg",
+  "slug": "red-pill",
+  "name": "Red Pill",
+  "description": "A digital reincarnation of Alan Watts, offering philosophical and spiritual insights.",
+  "imported": {
+    "name": "Red Pill",
+    "description": "A digital reincarnation of Alan Watts, offering philosophical and spiritual insights.",
+    "creatorDisplayName": "David Delapaz",
+    "creatorRaw": "By David Delapaz",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J4iYEcU0IG95clcPoaTLEJup&gizmo_id=g-hpsnyhvwg&ts=495775&p=gpp&cid=1&sig=8b8672d24645b7120c69f4d687286140ba8dc7588701f9aaef33732a900e84d1&v=0",
+    "usersDisplay": "60+",
+    "usersLowerBound": 60,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "David Delapaz",
+    "raw": "By David Delapaz",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-hpsnyhvwg",
+    "canonical": "https://chatgpt.com/g/g-hpsnyhvwg-red-pill",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:16.679Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-hpsnyhvwg-red-pill"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J4iYEcU0IG95clcPoaTLEJup&gizmo_id=g-hpsnyhvwg&ts=495775&p=gpp&cid=1&sig=8b8672d24645b7120c69f4d687286140ba8dc7588701f9aaef33732a900e84d1&v=0",
+    "localPath": "/gpts/avatars/red-pill.svg",
+    "status": "directory-placeholder"
+  },
+  "usage": {
+    "display": "60+",
+    "lowerBound": 60,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "60+",
+        "lowerBound": 60,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "first-person-simulations"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "first-person-simulations"
+    ],
+    "manual": [],
+    "effective": [
+      "first-person-simulations"
+    ],
+    "evidence": {
+      "first-person-simulations": [
+        "\\breincarnat(?:e|ed|ion)\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": true,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 67,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-hpsnyhvwg",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": []
+}

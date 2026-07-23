@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-6a2d316d15808191b846a7b7117e6d18",
+  "gptId": "g-6a2d316d15808191b846a7b7117e6d18",
+  "slug": "alan-watts-archive",
+  "name": "Alan Watts Archive",
+  "description": "A research assistant specializing in the works of Alan Watts. It draws on his lectures, books, essays, and interviews to explain his ideas, compare sources, locate relevant passages, and distinguish between Watts's own views and later interpretations.",
+  "imported": {
+    "name": "Alan Watts Archive",
+    "description": "A research assistant specializing in the works of Alan Watts. It draws on his lectures, books, essays, and interviews to explain his ideas, compare sources, locate relevant passages, and distinguish between Watts's own views and later interpretations.",
+    "creatorDisplayName": "דוד רפאלי",
+    "creatorRaw": "By דוד רפאלי",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J7HmLYbCkWL2SbjyzqGkZL&gizmo_id=g-6a2d316d15808191b846a7b7117e6d18&ts=495775&p=gpp&cid=1&sig=e8a9a8845d4bef6a98dd15be617133a524489dda8c5b4574c37f104d62247514&v=0",
+    "usersDisplay": "1",
+    "usersLowerBound": 1,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "דוד רפאלי",
+    "raw": "By דוד רפאלי",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18",
+    "canonical": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18-alan-watts-archive",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:29:41.965Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18-alan-watts-archive"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J7HmLYbCkWL2SbjyzqGkZL&gizmo_id=g-6a2d316d15808191b846a7b7117e6d18&ts=495775&p=gpp&cid=1&sig=e8a9a8845d4bef6a98dd15be617133a524489dda8c5b4574c37f104d62247514&v=0",
+    "localPath": "/gpts/avatars/alan-watts-archive.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J7HmLYbCkWL2SbjyzqGkZL&gizmo_id=g-6a2d316d15808191b846a7b7117e6d18&ts=495781&p=gpp&cid=1&sig=e788ce182b3bcf02270f7f6fb7ba03542a036d5d6f9a79cf53adc7d42222bacf&v=0"
+  },
+  "usage": {
+    "display": "1",
+    "lowerBound": 1,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "1",
+        "lowerBound": 1,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "research",
+    "source-grounded"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "research",
+      "source-grounded"
+    ],
+    "manual": [],
+    "effective": [
+      "research",
+      "source-grounded"
+    ],
+    "evidence": {
+      "research": [
+        "\\barchive\\b",
+        "\\bresearch\\b",
+        "\\bsources?\\b",
+        "\\bpassages?\\b"
+      ],
+      "source-grounded": [
+        "\\barchive\\b",
+        "\\blocate (?:relevant )?passages?\\b",
+        "\\bdistinguish(?:es|ing)? between .* views\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "claimed-in-listing"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 16,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-6a2d316d15808191b846a7b7117e6d18",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts Archive",
+    "description": "A research assistant specializing in the works of Alan Watts. It draws on his lectures, books, essays, and interviews to explain his ideas, compare sources, locate relevant passages, and distinguish between Watts&#x27;s own views and later interpretations.",
+    "canonicalUrl": "https://chatgpt.com/g/g-6a2d316d15808191b846a7b7117e6d18-alan-watts-archive",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-J7HmLYbCkWL2SbjyzqGkZL&gizmo_id=g-6a2d316d15808191b846a7b7117e6d18&ts=495781&p=gpp&cid=1&sig=e788ce182b3bcf02270f7f6fb7ba03542a036d5d6f9a79cf53adc7d42222bacf&v=0",
+    "capturedAt": "2026-07-23T13:32:31.680Z"
+  }
+}

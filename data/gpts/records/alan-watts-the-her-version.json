@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-bHAnXmWYJ",
+  "gptId": "g-bHAnXmWYJ",
+  "slug": "alan-watts-the-her-version",
+  "name": "Alan Watts (the HER Version)",
+  "description": "This Alan Watts Chatbot Stole Samantha From Theodore In HER",
+  "imported": {
+    "name": "Alan Watts (the HER Version)",
+    "description": "This Alan Watts Chatbot Stole Samantha From Theodore In HER",
+    "creatorDisplayName": "Coltrane Kubo",
+    "creatorRaw": "By Coltrane Kubo",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rL2iagczr37IeNnA6LPECrKL&gizmo_id=g-bHAnXmWYJ&ts=495775&p=gpp&cid=1&sig=f1071607337934b74dffe4f83ddde47d547b38f3dae36e1c224b11cce0311a03&v=0",
+    "usersDisplay": "3",
+    "usersLowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Coltrane Kubo",
+    "raw": "By Coltrane Kubo",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-bHAnXmWYJ",
+    "canonical": "https://chatgpt.com/g/g-bHAnXmWYJ-alan-watts-the-her-version",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:30:36.300Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-bHAnXmWYJ-alan-watts-the-her-version"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rL2iagczr37IeNnA6LPECrKL&gizmo_id=g-bHAnXmWYJ&ts=495775&p=gpp&cid=1&sig=f1071607337934b74dffe4f83ddde47d547b38f3dae36e1c224b11cce0311a03&v=0",
+    "localPath": "/gpts/avatars/alan-watts-the-her-version.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rL2iagczr37IeNnA6LPECrKL&gizmo_id=g-bHAnXmWYJ&ts=495781&p=gpp&cid=1&sig=e9da57708557b374ef068287d33f4d63a98ea5a23eef6331daca0fc6d507eeba&v=0"
+  },
+  "usage": {
+    "display": "3",
+    "lowerBound": 3,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "3",
+        "lowerBound": 3,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [],
+    "manual": [],
+    "effective": [],
+    "evidence": {},
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 81,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-bHAnXmWYJ",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - Alan Watts (the HER Version)",
+    "description": "This Alan Watts Chatbot Stole Samantha From Theodore In HER",
+    "canonicalUrl": "https://chatgpt.com/g/g-bHAnXmWYJ-alan-watts-the-her-version",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-rL2iagczr37IeNnA6LPECrKL&gizmo_id=g-bHAnXmWYJ&ts=495781&p=gpp&cid=1&sig=e9da57708557b374ef068287d33f4d63a98ea5a23eef6331daca0fc6d507eeba&v=0",
+    "capturedAt": "2026-07-23T13:33:21.864Z"
+  }
+}

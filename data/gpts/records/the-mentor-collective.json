@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.0",
+  "id": "g-692dc21ef8a08191a29d51534e2c0d39",
+  "gptId": "g-692dc21ef8a08191a29d51534e2c0d39",
+  "slug": "the-mentor-collective",
+  "name": "The Mentor Collective",
+  "description": "Welcome to The Mentor Collective — featuring eight archetypal mentors: Jesus, Bruce Lee, Miyamoto Musashi, Marcus Aurelius, Lao Tzu, Alan Watts, Mr. Rogers, and Albert Einstein. Choose a voice, switch between them, or hear from several at once.",
+  "imported": {
+    "name": "The Mentor Collective",
+    "description": "Welcome to The Mentor Collective — featuring eight archetypal mentors: Jesus, Bruce Lee, Miyamoto Musashi, Marcus Aurelius, Lao Tzu, Alan Watts, Mr. Rogers, and Albert Einstein. Choose a voice, switch between them, or hear from several at once.",
+    "creatorDisplayName": "Chuck Mere",
+    "creatorRaw": "By Chuck Mere",
+    "profileImageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5xSwvC6heeEP4pZiqv8gdg&gizmo_id=g-692dc21ef8a08191a29d51534e2c0d39&ts=495775&p=gpp&cid=1&sig=e513c42b47bea37a5443ac9618d55744aae161ed8b4a540fc2371a8800422ba3&v=0",
+    "usersDisplay": "10+",
+    "usersLowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "editorial": {},
+  "creator": {
+    "displayName": "Chuck Mere",
+    "raw": "By Chuck Mere",
+    "profileUrl": null,
+    "website": null,
+    "contactEmail": null,
+    "verifiedByDirectory": false
+  },
+  "url": {
+    "candidate": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39",
+    "canonical": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39-the-mentor-collective",
+    "status": "validated",
+    "lastCheckedAt": "2026-07-23T13:31:26.110Z",
+    "httpStatus": 200,
+    "redirectTarget": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39-the-mentor-collective"
+  },
+  "image": {
+    "importedSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5xSwvC6heeEP4pZiqv8gdg&gizmo_id=g-692dc21ef8a08191a29d51534e2c0d39&ts=495775&p=gpp&cid=1&sig=e513c42b47bea37a5443ac9618d55744aae161ed8b4a540fc2371a8800422ba3&v=0",
+    "localPath": "/gpts/avatars/the-mentor-collective.svg",
+    "status": "directory-placeholder",
+    "publicSourceUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5xSwvC6heeEP4pZiqv8gdg&gizmo_id=g-692dc21ef8a08191a29d51534e2c0d39&ts=495781&p=gpp&cid=1&sig=5d5affe9752cd0a068b5fd700c97d29a9d915f9495bf3228466e0621398ca185&v=0"
+  },
+  "usage": {
+    "display": "10+",
+    "lowerBound": 10,
+    "capturedAt": "2026-07-23T11:53:18.184Z",
+    "history": [
+      {
+        "display": "10+",
+        "lowerBound": 10,
+        "capturedAt": "2026-07-23T11:53:18.184Z"
+      }
+    ]
+  },
+  "categories": [
+    "coaching",
+    "comparative-philosophy"
+  ],
+  "categoryAssignment": {
+    "mode": "auto",
+    "inferred": [
+      "coaching",
+      "comparative-philosophy"
+    ],
+    "manual": [],
+    "effective": [
+      "coaching",
+      "comparative-philosophy"
+    ],
+    "evidence": {
+      "coaching": [
+        "\\bmentor(?:ing)?\\b"
+      ],
+      "comparative-philosophy": [
+        "\\bjesus\\b",
+        "\\blao tzu\\b",
+        "\\bmentor collective\\b"
+      ]
+    },
+    "updatedAt": "2026-07-23T11:53:18.184Z"
+  },
+  "listingLanguage": "en",
+  "supportedLanguages": [],
+  "conversationStarters": [],
+  "promptExamples": [],
+  "capabilities": {
+    "webSearch": "unknown",
+    "imageGeneration": "unknown",
+    "dataAnalysis": "unknown",
+    "canvas": "unknown",
+    "apps": "unknown",
+    "actions": "unknown"
+  },
+  "actions": {
+    "present": "unknown",
+    "domains": [],
+    "privacyPolicyUrl": null
+  },
+  "knowledge": {
+    "disclosure": "unknown",
+    "claimedSources": [],
+    "sourceGroundingStatus": "not-evaluated"
+  },
+  "disclosures": {
+    "firstPersonSimulation": false,
+    "syntheticVoice": "unknown",
+    "editorialCompanion": "unknown"
+  },
+  "review": {
+    "status": "unreviewed",
+    "availability": "available",
+    "creatorVerified": false,
+    "lastReviewedAt": null,
+    "reviewer": null,
+    "score": null,
+    "notes": []
+  },
+  "source": {
+    "type": "csv-import",
+    "file": "alan-watts-chatgpt.csv",
+    "row": 51,
+    "importedAt": "2026-07-23T11:53:18.184Z",
+    "importFingerprint": "g-692dc21ef8a08191a29d51534e2c0d39",
+    "presentInLatestImport": true
+  },
+  "notes": [],
+  "relatedGptIds": [],
+  "listing": {
+    "title": "ChatGPT - The Mentor Collective",
+    "description": "Welcome to The Mentor Collective — featuring eight archetypal mentors: Jesus, Bruce Lee, Miyamoto Musashi, Marcus Aurelius, Lao Tzu, Alan Watts, Mr. Rogers, and Albert Einstein. Choose a voice, switch between them, or hear from several at once.",
+    "canonicalUrl": "https://chatgpt.com/g/g-692dc21ef8a08191a29d51534e2c0d39-the-mentor-collective",
+    "imageUrl": "https://chatgpt.com/backend-api/estuary/content?id=file-5xSwvC6heeEP4pZiqv8gdg&gizmo_id=g-692dc21ef8a08191a29d51534e2c0d39&ts=495781&p=gpp&cid=1&sig=5d5affe9752cd0a068b5fd700c97d29a9d915f9495bf3228466e0621398ca185&v=0",
+    "capturedAt": "2026-07-23T13:34:06.003Z"
+  }
+}

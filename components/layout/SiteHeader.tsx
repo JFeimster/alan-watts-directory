@@ -20,8 +20,12 @@ export function SiteHeader({ site, navigation }: SiteHeaderProps) {
   const mobileTriggerRef = useRef<HTMLButtonElement>(null);
 
   useEffect(() => {
-    setOpenPillar(null);
-    setMobileOpen(false);
+    const frame = window.requestAnimationFrame(() => {
+      setOpenPillar(null);
+      setMobileOpen(false);
+    });
+
+    return () => window.cancelAnimationFrame(frame);
   }, [pathname]);
 
   useEffect(() => {

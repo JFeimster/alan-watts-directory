@@ -4,7 +4,7 @@ import { Hero } from "@/components/home/Hero";
 import { SectionHeader } from "@/components/home/SectionHeader";
 import { getCreatorName } from "@/lib/gpts";
 import { getHomepageData } from "@/lib/home";
-import { getRouteRecord, getSiteConfig, type RouteStatus } from "@/lib/site";
+import { getRouteRecord, getSiteConfig } from "@/lib/site";
 
 type StatusLinkProps = {
   href: string;
@@ -451,7 +451,7 @@ export function DirectoryHomepage() {
             );
 
             return route.status === "planned" ? (
-              <article className="tool-card" aria-disabled="true" key={title}>{inner}</article>
+              <article className="tool-card" data-disabled="true" key={title}>{inner}</article>
             ) : (
               <Link className="tool-card" href={href} key={title}>{inner}</Link>
             );
@@ -522,7 +522,7 @@ export function DirectoryHomepage() {
               </>
             );
             return route.status === "planned" ? (
-              <article aria-disabled="true" key={label}>{content}</article>
+              <article data-disabled="true" key={label}>{content}</article>
             ) : (
               <Link href={href} key={label}>{content}</Link>
             );

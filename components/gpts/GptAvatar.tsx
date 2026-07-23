@@ -1,3 +1,4 @@
+import Image from "next/image";
 import styles from "./gpts.module.css";
 
 function initials(name: string): string {
@@ -21,13 +22,14 @@ export function GptAvatar({
 }) {
   if (imagePath) {
     return (
-      <img
+      <Image
         className={styles.avatar}
         data-size={size}
         src={imagePath}
         alt=""
         width={size === "large" ? 160 : 56}
         height={size === "large" ? 160 : 56}
+        unoptimized
       />
     );
   }
